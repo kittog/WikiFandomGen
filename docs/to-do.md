@@ -1,0 +1,3 @@
+- [ ] creativity : pick a theme around which we should build our corpus! (fandom would be fun)
+	- ideas: dune, star wars, kpop...
+- [ ] create repository and write README
