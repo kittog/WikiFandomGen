@@ -1,0 +1,1807 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Jujutsu Kaisen Wiki</sitename>
+    <dbname>jujutsukaisen</dbname>
+    <base>https://jujutsu-kaisen.fandom.com/wiki/Jujutsu_Kaisen_Wiki</base>
+    <generator>MediaWiki 1.37.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Jujutsu Kaisen Wiki</namespace>
+      <namespace key="5" case="first-letter">Jujutsu Kaisen Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Cursed Energy</title>
+    <ns>0</ns>
+    <id>903</id>
+    <revision>
+      <id>43838</id>
+      <parentid>42339</parentid>
+      <timestamp>2022-09-25T02:35:24Z</timestamp>
+      <contributor>
+        <username>Young Mako</username>
+        <id>1706203</id>
+      </contributor>
+      <comment>/* Controlling Cursed Energy */</comment>
+      <origin>43838</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="17325" sha1="bovfuevrub25wtwk95m2cd8n23fux8a" xml:space="preserve">{{Technique Infobox
+|name = Cursed Energy 
+|image = &lt;gallery&gt;
+Yuji's Cursed Energy (Anime).png|Anime
+Cursed Energy.png|Manga
+&lt;/gallery&gt;
+|kanji = 呪力
+|romaji = Juryoku
+|user = [[Jujutsu Sorcerer|Sorcerers]]&lt;br/&gt;[[Cursed Spirit|Curses]]
+|type = Energy 
+|move range =
+|capabilities =
+|debut = [[Chapter 1]] 
+|anime debut = [[Episode 1]]
+}}
+{{Nihongo|'''Cursed Energy'''|{{Ruby|呪|じゅ}}{{Ruby|力|りょく}}|Juryoku}} is a power source aligned with negative emotions used by [[Jujutsu Sorcerer|sorcerers]] and [[Cursed Spirit|curses]] to fuel their [[Jujutsu|jujutsu]]. 
+
+== Description ==
+=== Development ===
+[[file:Cursed Energy compiling to form a curse (Anime).gif|thumb|220px|left|Cursed energy compiling to form a curses in populated areas associated with stress.]]
+Cursed energy is born from negative emotions such as grief and anger. These negative feelings are common in human society so almost everyone possesses cursed energy. If this amount is higher than a certain degree, it grants the person the ability to see curses, which is very rare among the human race.
+
+=== Properties ===
+Cursed energy is volatile in nature and its traits can vary from person to person. As displayed in the anime adaptation, most cursed energy is blue in color, but it can take on various other colors. Upon first unleashing his cursed energy against a [[Finger Bearer]], [[Yuji Itadori|Yuji]]'s cursed energy was red while the curses was a yellow-orange color.{{Ref|ep=4}} [[Mahito]]'s cursed energy is always a dark purple color.{{Ref|ep=10}}
+
+=== Manifesting Curses === 
+Curses are apparitions manifested entirely from cursed energy. Even their bodies are composed of cursed energy, making cursed spirits invisible to non-sorcerers. Jujutsu related items such as [[Cursed Tool|cursed tools]], [[Cursed Object|cursed objects]], and [[Cursed Corpse|cursed corpses]] all contain cursed energy. 
+
+The emission of cursed energy from humans collects like sediment until a cursed spirit is born from the collective negative energy.{{Ref|chap=77|page=6}} Curses born with strong feelings directed toward a certain aspect are especially strong. The stronger humanity's fear and anger are directed at cursing a certain aspect of the world, like natural disasters, the more powerful curses from those negative sentiments will be.{{Ref|chap=20|page=16}}
+
+== Cursed Energy Detection ==
+Humans with an above-average level of cursed energy can see curses and jujutsu. The minimum requirement for a human to be considered a sorcerer is the ability to see curses. In extreme cases, humans will gain the ability to see curses when their life is in danger.{{Ref|chap=0-3|page=26}}
+
+[[File:Toge notices strong cursed energy (Anime).png|thumb|220px|Toge taken by surprise when he notices powerful cursed energy.]]
+Using jujutsu leaves residuals of cursed energy behind. Residuals leave spectral footprints that can be used to track the user. Someone can even be identified by the residuals from their jujutsu. Expert sorcerers can be trained to cover up their residuals. The ability to detect cursed energy and understand its flow can be honed, but many cursed spirits are capable of hiding their presence the same way a sorcerer does. 
+
+[[File:Yuta's presence strickens Yuji, Choso, and Naoya.png|thumb|220px|left|Yuji, Choso, and Naoya frightened by Yuta's ominous cursed energy.]]
+The strength of a sorcerer or curse is generally assessed by their levels of cursed energy. Strong cursed energy can result in physical pressure that instills fear into those who sense it as a method of intimidation. The same concept can be applied to a jujutsu battle where reading an opponent's cursed energy is an effective way to predict their movements. Prediction based on cursed energy can backfire when faced with a fighter in cases where their physical prowess outclasses their cursed energy. Physically fast and strong fighters with low cursed energy are often unpredictable to enemy sorcerers.{{Ref|chap=36|page=14}} 
+
+Sorcerers can also notice small, vague differences in cursed energy in addition to its overall amount. [[Suguru Geto]], a curse manipulator who must consume curses, has slightly altered cursed energy.{{Ref|chap=68|page=7}} The [[Inverted Spear of Heaven]] possesses foreign cursed energy that can cancel out jujutsu.{{Ref|chap=71|page=18-19}} Yuji, [[Choso]], and [[Naoya Zenin|Naoya]], could sense [[Yuta Okkotsu]]'s presence without even physically locating him. Yuji mistook him for [[Satoru Gojo]], the world's strongest sorcerer, simply because of Yuta's overwhelming volume of cursed energy, before realizing it was far more ominous than their sensei's.{{Ref|chap=139|page=18-19}} 
+
+Observing how cursed energy fluctuates as someone fights is an effective way of judging someone's overall cursed energy. Reggie Star noticed the massive shift in cursed energy output when [[Fumihiko Takaba]] suddenly attacked [[Iori Hazenoki]].{{Ref|chap=169|page=10}} [[Ryu Ishigori]] saw Yuta participate in a small scuffle and could immediately tell that his cursed energy was immeasurable. Ryu could feel as Yuta's cursed energy depleted{{Ref|chap=177|page=17}}, and when Yuta connected with Rika's full manifestation, Ryu could also sense his adversary's cursed energy filling back up as well.{{Ref|chap=178|page=2}}
+
+== Cursed Energy Manipulation ==
+=== Controlling Cursed Energy ===
+A jujutsu user's ability to control their cursed energy and use it to carry out certain functions is the base foundation for all jujutsu. There is a world of difference between being able to sense jujutsu and being able to use it. Yuji Itadori was able to sense the pressure of cursed energy surrounding his school, but was not able to utilize it until enrolling at a jujutsu educational facility. He was first able to utilize cursed energy in combat while he was overwhelmed with anger and fear, but could not do so in a calmer situation a few days afterward.{{Ref|chap=12|page=16-17}}  
+
+[[File:Yuta infusing his katana with cursed energy (Anime).png|thumb|220px|left|Yuta learning to fight curses by imbuing his sword with cursed energy.]] 
+Control over cursed energy requires innate skill and vigorous training. In order for Yuji to develop his skills, Gojo had him undergo special training that saw him controlling his emotions and his cursed energy at the same time. Yuta Okkotsu, someone with an overabundance of cursed energy, was trained to control it by constantly imbuing it into a katana. By training with the katana Yuta learned to manipulate his cursed energy to a degree and was capable of using it to exorcise curses almost immediately. 
+
+[[File:Yuji watching movies as training (Anime).png|thumb|220px|Yuji training to control his emotions as a foundation for learning to manipulate cursed energy.]]
+Satoru Gojo compares cursed energy to electricity: it's volatile in nature and difficult to use in its rawest form.{{Ref|chap=12|page=12-13}} While raw cursed energy can be used for its blunt force, it's best used by sorcerers to power their techniques in the same way electricity is best used to fuel electronics. In this case, cursed energy is flowed into a technique to activate a sorcerer's unique abilities.{{Ref|chap=12|page=13}} However, cursed energy does not flow on its own. Yuji Itadori's cursed energy used to lag behind his superhuman speed when he threw a punch, resulting in his Divergent Fist technique. This delay was due to his inexperience with making cursed energy flow properly throughout his body.{{Ref|chap=37|page=8-9}} 
+
+Proper control over one's emotions is key to channeling cursed energy and every jujutsu sorcerer is trained to do so. This makes it so sorcerers don't waste their power supply even while they're overcome with emotion.{{Ref|chap=12|page=18-19}} This results in sorcerers leaking much less cursed energy than the average human. So much so, that if every human were a sorcerer, curses would cease to spawn. There are other differences in how sorcerers and non-sorcerers use cursed energy due to their profession, but the real reason lies in how it flows. While cursed energy leaks outward from non-sorcerers, it flows heavily within sorcerers which keeps it contained.{{Ref|chap=77|page=8-9}} 
+
+[[File:Reading movements through the flow of cursed energy.png|thumb|220px|left|The difference in cursed energy distribution in an elite sorcerer and an average one.]]
+Most sorcerers have to make cursed energy flow, so most instinctively believe it starts from the negative feelings in their stomach and flows through the rest of the body. However, thinking of one's body as different sections is what delays the flow of their energy. In order to understand this cycle, one must realize that they exist in the world with their entire mind, body, and soul as one. [[Aoi Todo]] helped Yuji stop taking this maxim for granted, greatly accelerating his progression as a sorcerer.{{Ref|chap=37|page=8-12}}
+
+The flow of an elite jujutsu sorcerer is difficult to read because they have greater accuracy in controlling cursed energy. Their cursed energy is evenly distributed across their body, making their attack hard to predict until the very moment it's executed.{{Ref|chap=140|page=17-18}}
+
+=== Applying Cursed Energy ===
+[[File:Yuji's fists of cursed energy.gif|thumb|220px|Yuji channeling cursed energy into his fists.]]
+Applying cursed energy to physical attacks can be as effective as a cursed technique when it comes to gifted combatants who specialize in [[Hand-to-Hand Combat|hand-to-hand combat]]. Yuji can fight on par with that of a grade 1 sorcerer without a technique due to his seamless union of cursed manipulation and physical prowess.{{Ref|chap=88|page=8}} Satoru Gojo was also able to successfully overpower multiple special grade curses using only cursed energy manipulation after deactivating his [[Limitless]] technique.{{Ref|chap=85|page=13}} 
+
+The amount of cursed energy released by an individual is referred to as their potential "'''Cursed Energy Output'''". This applies to both how it's used offensively and defensively. While this is not generally how cursed energy is used, individuals can utilize raw cursed energy as an explosive energy field to attack. Finger Bearers can launch their energy as a projectile and erect cursed energy barriers.{{Ref|chap=7|page=6-9}} Ryu Ishigori has such a high degree of cursed energy output that he can discharge it in the form of a large-scale blast wave.{{Ref|chap=173|page=15}}
+
+[[File:Panda reinforcing his body with cursed energy (Anime).png|thumb|220px|left|Panda reinforcing his body with cursed energy.]]
+Defensively, users can coat their skin in cursed energy to harden their body and increase their ability to block incoming curse related attacks.{{Ref|chap=51|page=8}} The same application can be used offensively, imbuing physical attacks with cursed energy to increase their destructive power to superhuman levels. Aoi Todo crushed a curse, several trees, and broke through Yuji's defense with a single cursed energy infused punch.{{Ref|chap=34|page=12-15}}
+
+Conventional weapons can also be infused with cursed energy to increase their strength. Imbuing too much cursed energy at one time to a normal weapon can compromise its integrity and destroy it, so a sorcerer must only infuse small amounts of energy at a time.{{Ref|vol=0|page=175}} Imbuing moderate amounts of cursed energy over time can transform a normal weapon into a cursed tool.{{Ref|vol=5|page=130}}
+
+=== Special Traits ===
+[[File:Applying cursed energy trait.png|220px|thumb|Special traits are hard to defend with simple cursed energy.]]
+There are rare cases where cursed energy carries a special property unique to its user. When applied to their fighting techniques, it can grant them a special texture or effect that gives them an advantage in battle. These special traits cannot be defended by simple reinforcement techniques. [[Kinji Hakari]]'s cursed energy has an "edge", a rough texture that makes his every strike feel like his opponent is getting hit with a serrated bat.{{Ref|chap=157|pages=11, 15}} [[Hajime Kashimo]]'s cursed energy has the properties of electricity, which keeps his body in a constant state of electrification and makes all of his attacks impossible to defend against.{{Ref|chap=184|page=7-18}}  
+
+However, extreme amounts of cursed energy output can allow someone to mostly ignore these effects. Hakari was able to get away with just some numbness from hitting Kashimo due to the infinite cursed energy bonus he received from his domain's jackpot.{{Ref|chap=186|page=6}}
+
+=== Black Flash ===
+:Main Article: ''[[Black Flash]]''
+
+Black Flash is a phenomenon of jujutsu where a spatial distortion is born as a result of the application of cursed energy within 0.000001 seconds of a physical hit. The distortion causes cursed energy to flash black, multiplying the destructive power of a normal hit. There is no sorcerer who can use it at will, but those who have unleashed Black Flash gain an advanced understanding of cursed energy far beyond those who have not.{{Ref|chap=48|page=16-18}}
+
+=== Reverse Cursed Energy ===
+:Main Article: ''[[Reverse Cursed Technique]]''
+
+Cursed energy is born from negativity, so human flesh can't be regenerated from it even if it can be reinforced. By multiplying negative energy together, positive reverse cursed energy can be created. This can only be done using a reverse cursed technique, which requires extremely complex and sophisticated cursed energy control.{{Ref|chap=74|page=10-11}}
+
+== Cursed Restrictions ==
+:Main Articles: ''[[Binding Vow]]'' &amp; ''[[Heavenly Restriction]]''
+[[File:Showing Jogo the Infinity (Anime).png|thumb|220px|A sorcerer divulging their technique increases the risk, but makes it more powerful as a result.]]
+To gain something, one must offer something in return. This is a concept that affects the world beyond jujutsu. Alongside emotion, risk is a key factor that can affect cursed energy. The greater the risk to the user, the more their cursed energy will react. It is believed that the fastest way to raise one's level as a sorcerer is a Binding Vow with their life as the trade-off.{{Ref|chap=102|page=18}} Self-imposed stipulations that are harmful or potentially so to the creator can increase their cursed energy and their cursed techniques in particular. 
+
+For example, the rules of a cursed technique establish the general parameters of an ability, and activation requirements can be set to determine the circumstances in which said ability can be used. By willingly divulging these rules, the user incurs more risk to themselves. Due to the negative emotions induced by potential repercussions, cursed energy grows in response and makes the cursed technique more effective. 
+
+[[File:Nanami activates overtime (Anime).png|thumb|220px|left|Nanami's cursed energy rising after limiting it for most of the day.]]
+This concept also applies to why normal humans can suddenly see curses in a life or death situation. Human senses are heightened when their life is in danger because of the instinctive fight or flight reflex. The same concept amplifies someone's ability to sense curses. A normal human's cursed energy will rise if their life is in danger of being cursed, allowing them to perceive it. 
+
+A jujutsu practitioner can increase the overall power of their individual cursed techniques by self-imposing further restrictions that force more conditions on the user. Kento Nanami's pact restricts the amount of cursed energy he uses while on the clock at work. Once his overtime begins, Nanami receives an influx of cursed energy much greater than he would have had if he didn't restrict himself.{{Ref|chap=23|page=10}} Mei Mei's Bird Strike forces a crow to commit suicide with its cursed energy limiter being removed as a tradeoff, resulting in a much more powerful attack.{{Ref|name=ch102|chap=102|page=17-18}} The effective range of Sukuna's Malevolent Shrine can be increased by including a Binding Vow that creates an escape route.{{Ref|chap=119|page=4}} 
+
+[[File:Kokichi Muta first appearance (Anime).png|thumb|220px|Kokichi's Heavenly Restriction trading a healthy body for boundless cursed energy.]]
+Applying conditions to abilities to increase their effectiveness goes for barrier techniques as well as innate techniques. By going against the fundamentals of casting barrier techniques and staying outside their own curtain, the caster increases the risk of being noticed and increases the barrier's strength. The more obvious the caster's location, the stronger the barrier.{{Ref|chap=94|page=4-5}}
+
+There are a few cases of Heavenly Restrictions that reduced someone's cursed energy to low levels with increased physical attributes as the trade off. Toji Zenin's Heavenly Restriction in the only one in the world that eliminates cursed energy from his body completely in return for unparalleled superhuman strength, speed, and senses.{{Ref|chap=77|page=7-8}} The opposite, trading physical health for cursed energy is also true. Kokichi Muta was born with a fragile physical body and was given expansive cursed energy that spans a wide range in return.{{Ref|chap=38|page=14}}
+
+== References ==
+{{Scroll box|
+&lt;references/&gt;
+}}
+
+== Navigation ==
+{{Techniques Navibox}}
+
+[[Category:Terminology]]
+[[Category:Jujutsu]]
+[[fr:Énergie Maudite]]</text>
+      <sha1>bovfuevrub25wtwk95m2cd8n23fux8a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Jujutsu Sorcerer</title>
+    <ns>0</ns>
+    <id>978</id>
+    <revision>
+      <id>44460</id>
+      <parentid>44459</parentid>
+      <timestamp>2022-10-10T07:11:46Z</timestamp>
+      <contributor>
+        <username>Kiyere0317</username>
+        <id>37581402</id>
+      </contributor>
+      <origin>44460</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="10651" sha1="b7kz2yddiv74y8p9h857skqvlltkkkg" xml:space="preserve">{{Organizations Infobox
+|name = Jujutsu Sorcerer
+|image = &lt;gallery&gt;
+Tokyo Jujutsu School Students (Anime).gif|Anime
+Tokyo Jujutsu School Students.png|Manga
+&lt;/gallery&gt;
+|kanji = 呪術師
+|romaji = Jujutsu-shi
+|leader = Jujutsu Higher-Ups 
+|status = Active
+|occupation =
+|affiliation = [[Tokyo Metropolitan Curse Technical College|Tokyo Jujutsu High]]&lt;br/&gt;[[Kyoto Metropolitan Curse Technical College|Kyoto Jujutsu High]]
+|debut = [[Chapter 0-1]]&lt;br&gt;[[Chapter 1]]
+|caption =
+|debutanime = [[Episode 1]]
+}}
+{{Nihongo|'''Jujutsu Sorcerers'''|{{Ruby|呪|じゅ}}{{Ruby|術|じゅつ}}{{Ruby|師|し}}|Jujutsu-shi}} are individuals trained and employed by the two jujutsu educational in Japan to defend humanity from [[Cursed Spirit|cursed spirits]]. 
+
+The race of humans capable of using [[Jujutsu|jujutsu]] are colloquially known as {{Nihongo|'''Sorcerers'''|{{Ruby|術|じゅつ}}{{Ruby|師|し}}|Jutsu-shi}}, and the jujutsu prefix is often used to signify their alignment to Jujutsu High. Evil jujutsu sorcerers are known as {{Nihongo|'''[[Curse User]]s'''|{{Ruby|呪|じゅ}}{{Ruby|詛|そ}}{{Ruby|師|し}}|Juso-shi}} while humans who cannot use jujutsu are called {{Nihongo|'''Non-Sorcerers'''|{{Ruby|非|ひ}}{{Ruby|術|じゅつ}}{{Ruby|師|し}}|Hijutsu-shi}}.
+
+== Overview ==
+=== History ===
+Jujutsu sorcerers have existed for thousands of years. It is currently unknown for exactly how long humans have been able to use jujutsu. Over two thousand years ago, [[Sukuna]] was a human sorcerer who eventually died and became a vengeful cursed spirit. He was defeated in the Heian Era, the height of cursed techniques and the golden era of jujutsu.{{Ref|chap=3|page=4}}{{Ref|chap=82|page=6}}{{Ref|chap=136|page=19}} The King of Curses claims jujutsu sorcerers have been an issue in every era.{{Ref|chap=2|page=9}}
+
+As a result of the ongoing conflict between sorcerers and curses that has spanned thousands of years, a society of sorcerers have organized themselves to work in the shadows to suppress curses in an effort to protect humanity. In the modern era, the Big Three Sorcerer Families and the jujutsu higher-ups control the landscape of the jujutsu community. 
+
+=== Profession ===
+[[File:Investigation of the deformation deaths (Anime).png|thumb|220px|left|A team of sorcerers working together to investigate curse related deaths.]]
+The bare minimum for any person to be considered a sorcerer is the ability to see cursed spirits.{{Ref|chap=0-3|page=26}} To be a jujutsu sorcerer as a profession, one generally possesses high levels of [[Cursed Energy|cursed energy]] and is born with the innate talent to use [[Cursed Technique|cursed techniques]]. This normally composes over eighty percent of a jujutsu sorcerer's skillset.{{Ref|chap=12|page=14}} 
+
+[[File:Satoru creating a curtain (Anime).png|thumb|220px|Jujutsu sorcerer students receiving their training in the field.]]
+However, there are many exceptions to this, those without an [[Innate Technique|innate technique]] (i.e. [[Yuji Itadori]] &amp; [[Atsuya Kusakabe]]{{Ref|chap=88|page=8}}) and even those without the ability to control cursed energy at all can become professional jujutsu sorcerers (i.e. [[Maki Zenin]]) with the aid of [[Cursed Tool|cursed tools]]. All jujutsu sorcerers are trained in their youth at one of the two jujutsu educational facilities in either [[Tokyo Metropolitan Curse Technical College|Tokyo]] or [[Kyoto Metropolitan Curse Technical College|Kyoto]]. There they are taught about jujutsu and how to use their abilities to exorcise cursed spirits. 
+
+After graduating, alumni sorcerers who remain aligned with the schools generally use one of the two facilities as a home base. They serve as the cornerstone for the jujutsu sorcerer community. They mediate issues, assign missions, and officially establish a payroll for all their employed exorcists. The higher-ups are in charge of the schools and by extension all jujutsu sorcerers.{{Ref|chap=3|page=2-3}}
+
+A professional jujutsu sorcerer's primary duties are to execute missions assigned to them. These tasks involve investigating cursed related deaths and disappearances that leads to a culprit whether it be a cursed spirit or curse user. All jujutsu sorcerers are to abide by strict jujutsu regulations and those branded curse users can be treated like curses and marked for exorcism as well.{{Ref|chap=77|page=21}} Jujutsu High also secures special grade cursed objects that can't be destroyed as a means of suppressing cursed spirits like Sukuna, who is split into twenty different fingers.
+
+=== Stigma ===
+Being a jujutsu sorcerer is a demanding occupation that requires one to constantly face fear-inducing curses and risk their life. Naturally, there are several drawbacks to working as a professional exorcist. [[Satoru Gojo]] among others believes being a little crazy is a requirement to being a jujutsu sorcerer. People who can't handle grotesque monsters and gruesome scenes quickly give up on working as one.{{Ref|chap=4|page=16}} Additionally, someone who's encountered a curse is lucky to die a normal death.{{Ref|chap=2|page=20}} Some humans capable of using jujutsu will choose to become curse users simply because it offers a much easier life than being a jujutsu sorcerer.{{Ref|chap=69|page=11}}
+
+[[File:Kyoto Team surrounds Yuji (Anime).png|thumb|left|220px|Yuji's fellow sorcerers attempting to kill him for being Sukuna's vessel.]]
+As a result of their difficult life path, jujutsu sorcerers detach themselves from normal society and genuine compassion. This makes it difficult for some jujutsu sorcerers to feel compassion in any curse related situation. Despite being a victim, the higher-ups were quick to try and execute [[Yuta Okkotsu]], a [[Cursed Human|cursed human]] just because of the threat his [[Rika Orimoto|curse]] presented.{{Ref|chap=0-1|page=1}} Yuji was also immediately sentenced to a secret execution much like Yuta after becoming Sukuna's vessel.{{Ref|chap=2|page=3}}
+
+Other than [[Aoi Todo]] and [[Kasumi Miwa]], the students from Kyoto during the [[Kyoto Sister-School Goodwill Event|Goodwill Event]] see Yuji as nothing more than another curse and a symbol of fear.{{Ref|chap=36|page=4}} They're influenced by Principal [[Yoshinobu Gakuganji]] and the jujutsu higher-ups who are set in their traditionalist mindsets.{{Ref|chap=33|page=8}} 
+
+[[File:Suguru becomes a curse user.png|thumb|220px|Suguru choosing to become a curse user rather than stay in the thankless service of non-sorcerers.]]
+Even Satoru Gojo is willing to make certain sacrifices to ensure what he believes is the greater good, but his mindset is much more progressive than the higher-ups and the major sorcerer families, often causing him to bump heads with authority.{{Ref|chap=0-2|page=3}}{{Ref|chap=18|page=14}} The other major [[Sorcerer Family|sorcerer families]] other than the one man Gojo Family embody traditionalism. In the [[Zenin Family]], the women are treated unfairly compared to the men and cursed techniques are valued above anything else without any presence of a modern loving family dynamic.{{Ref|chap=138|page=2-4}}
+
+Jujutsu High is always short on sorcerers and the one they do have are always busy.{{Ref|chap=69|page=10}} [[Suguru Geto]] originally believed that jujutsu sorcerers existed to protect non-sorcerers{{Ref|chap=65|page=16}}, but following years of service, he compared it to running a marathon with no end in sight. If a sorcerer were ever to reach the end the race, Suguru believed they would only find a hill made of their friend's.{{Ref|chap=77|page=16-17}} 
+
+[[Yuki Tsukumo]] believes that Jujutsu High is simply fighting the "symptom" and not the root cause of the cursed spirits.{{Ref|chap=77|page=4}} Suguru twisted this ideology into a strong desire to eradicate the non-sorcerer "monkeys" as a means to destroy the existence of cursed spirits as well. He was able to build alliances with like-minded sorcerers turned curse users who believed in his same vision. They all felt that the strong were being oppressed by the weak because the lives of sorcerers were dictated by non-sorcerers without any true appreciation or reward for their actions.{{Ref|chap=0-3|page=14}}
+
+== Sorcerer Families ==
+:Main Article: ''[[Sorcerer Family]]''
+Clans of jujutsu sorcerers are considered to be highly regarded figures in the jujutsu community. The Big Three Sorcerer Families hold the most influence due to the powerful [[Inherited Technique|inherited cursed techniques]] that are passed down in their families for generations.{{Ref|chap=44|page=1}}
+
+== Ranks ==
+:Main Article: ''[[Grade]]''
+There is a ranking system in place for all jujutsu users and related items that scales them from Grade 4 to Special Grade. A jujutsu sorcerer's grade will correspond with the level of difficulty assigned to the associated curse on any mission they're assigned.{{Ref|chap=21|page=17}} Professional jujutsu sorcerers earn more money as they grow in rank{{Ref|chap=36|page=16}}, which can be achieved with a recommendation for a higher ranking sorcerer and approval from one of the higher-ups.{{Ref|chap=63|page=20-21}}
+
+== Abilities and Powers ==
+:Main Article: ''[[Jujutsu]]''
+[[File:Satoru Gojo exorcising a curse during the Night Parade (Anime).gif|thumb|220px|Satoru exorcising a cursed spirit with his Limitless jujutsu.]]
+Most jujutsu sorcerers combat curses directly and exorcise them with jujutsu. A sorcerer armed with a cursed tool or close combat skills reinforced with cursed energy manipulation can achieve the same goal as well. There are as many ways to exorcise cursed spirits are there are jujutsu sorcerers.{{Ref|chap=0-2|page=14}} Shikigami users, cursed tool users, and cursed speech users are just three of many different possible examples for jujutsu sorcerer combatant types. 
+
+Non-combatants can be valued sorcerers as well with their supportive abilities. Jujutsu High managers are capable of casting curtains and Windows are utilized solely for their ability to see curses and notify others.{{Ref|chap=6|page=1-6}}{{Ref|chap=55|page=18}} [[Shoko Ieiri]] is also a valued sorcerer because of her talent as a doctor coupled with her ability to heal sorcerers with a [[Reverse Cursed Technique|reverse curse technique]].{{Ref|chap=113|page=7}}&lt;br clear="all"/&gt;
+
+== List of Jujutsu Sorcerers ==
+=== Tokyo Jujutsu High ===
+{{Tokyo Jujutsu High Gallery}}
+
+=== Kyoto Jujutsu High ===
+{{Kyoto Jujutsu High Gallery}}
+
+=== Other Sorcerers ===
+{{Jujutsu Sorcerers Gallery}}
+
+== References ==
+{{Scroll box|
+&lt;references/&gt;
+}}
+
+== Navigation ==
+{{Techniques Navibox}}
+[[Category:Terminology]]
+[[Category:Jujutsu Sorcerers]]
+[[fr:Exorcistes]]
+__FORCETOC__</text>
+      <sha1>b7kz2yddiv74y8p9h857skqvlltkkkg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cursed Spirit</title>
+    <ns>0</ns>
+    <id>977</id>
+    <revision>
+      <id>45345</id>
+      <parentid>45342</parentid>
+      <timestamp>2022-12-30T20:14:47Z</timestamp>
+      <contributor>
+        <username>Young Mako</username>
+        <id>1706203</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contributions/LightJedi438|LightJedi438]] ([[User talk:LightJedi438|talk]]) to last revision by [[User:Amaryillis|Amaryillis]]</comment>
+      <origin>44470</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="11675" sha1="gzo2l0dyj94o0ee3sjgr0u1t6o09gjb" xml:space="preserve">{{Species Infobox
+|name = Cursed Spirits
+|image = Chapter 46 (Cleaned).png
+|kanji = 呪霊
+|romaji = Jurei
+|ability = [[Jujutsu]]
+|debut = [[Chapter 1]]
+|debutanime = [[Episode 1]]
+}}
+{{Nihongo|'''Cursed Spirits'''|{{Ruby|呪|じゅ}}{{Ruby|霊|れい}}|Jurei}}, also referred to simply as {{Nihongo|'''Curses'''|{{Ruby|呪|のろ}}い|Noroi}} are a race of spiritual beings manifested from [[Cursed Energy|cursed energy]] as a result of the negative emotions that flow out of humans. They bring harm to humanity and are consequently the primary targets of [[Jujutsu Sorcerer|jujutsu sorcerers]].
+__TOC__
+== History == 
+The origin of curses and jujutsu is largely unknown. However, it can be surmised that because cursed energy comes from negative emotion, curses have always existed alongside humanity. During the Heian Era, the height of jujutsu, [[Sukuna|Ryomen Sukuna]] was recognized as the undisputed King of Curses. His influence has lived on to greatly affect the current age. 
+
+In the modern-day, the number of unexplained deaths and disappearances in Japan exceeds ten thousand annually. These statistics are a direct result of the influence curses have on normal society. Their existence has been kept secret from non-sorcerers, as they are invisible to them. Jujutsu sorcerers act in secret to repel the threat of curses. 
+
+Starting in 2017, the year the [[Night Parade of a Hundred Demons]] occurred, curse-related events have begun to happen more frequently while presenting more danger than ever before. This includes Sukuna's reincarnation as well as the unregistered appearance of over four new special grade cursed spirits in Mahito's group.
+
+== Description == 
+=== Creation Process === 
+Curses are created when cursed energy leaks from humans as a result of their human emotion. Cursed energy builds up like sediment until a cursed spirit takes form.{{Ref|chap=77|page=7}}{{Ref|chap=1|page=}} 
+
+[[File:Cursed Energy compiling to form a curse (Anime).gif|thumb|220px|left|Negative emotions flowing out of humans collecting in one place to form a curse.]] 
+Populated locations such as schools and hospitals are hot spots for bearing curses because many negative emotions are associated with memories of those places.{{Ref|vol=0|page=30}} This same concept applies humanity's collective fear and hatred. An image of fear shared by the masses can create a powerful curse even if the subject is not real, such as famous monsters or ghosts. It is the negative emotions that humanity directed at this image that causes it to manifest as a curse. 
+
+Longstanding negative feelings such as humanity's relationship with plagues and natural disasters results in a collection of cursed energy so massive the cursed spirits manifested from them have a consciousness related to those feelings. For example, humanity's fear and treatment of forests has directly resulted in [[Hanami]], a very intelligent special grade cursed spirit who wants to free the earth of its humans in order to protect the forests and trees from them.{{Ref|chap=45|page=17-19}} [[Mahito]] is an exceptionally strong and intelligent curse that challenges the concept of the human soul itself because he was born from the hatred humans feel toward one another.{{Ref|chap=20|page=16-19}} 
+
+Sorcerers must also be killed with jujutsu or they can become a vengeful spirit after death.{{Ref|chap=33|page=8}}{{Ref|chap=77|page=8}}
+
+=== Characteristics === 
+[[File:Bakery girl cursed (Anime).png|thumb|220px|A young woman unknowingly cursed by a [[Fly Heads|Fly Head]].]]
+Cursed spirits bodies are entirely made up of cursed energy. Their metaphysical existence makes it impossible for non-sorcerers to perceive or touch them. Living humans who have been cursed can only tell they have strange symptoms without realizing a cursed spirit behind it. Non-sorcerers whose lives are put in danger by a curse may gain the ability to see it in that life or death situation.{{Ref|chap=1|page=43}} 
+
+[[File:Curses born from natural disasters (Anime).png|thumb|220px|left|Curses created from humanity's collective fear of natural disasters.]]
+Curses come in all kinds of grotesque shapes and sizes. They tend to linger around their point of origin and instinctively curse humans.{{Ref|chap=8|page=5}} Other than that, a curse's habits vary a great deal from spirit to spirit. Curses are most stable while possessing an item{{Ref|vol=0|page=65}}, and some curses can possess inanimate objects to become cursed corpses.{{Ref|chap=4|page=19}} 
+
+Special grade cursed spirits with high intelligence tend to be bipedal creatures with shapes comparable to humans. They are capable of holding a normal conversation and working together as an organized group.{{Ref|chap=13|page=18}}{{Ref|chap=16|page=7}}{{Ref|chap=22|page=5}}
+
+Certain curses, such as [[shikigami]], obey humans after they're forced into submission by their master.{{Ref|chap=44|page=8}} Others have the ability to mark a human and haunt them, making them capable of attacking a human even if they're located away from their point of origin.{{Ref|chap=56|page=14}}
+
+=== Exorcism === 
+[[File:Finger Bearer after being exorcised by Megumi (Anime).png|thumb|220px|A curse disappearing after being exorcised by a sorcerer's shikigami.]]
+With bodies composed of cursed energy, cursed spirits cannot be harmed by conventional means. They can be hit by a physical attack but it will deal no damage regardless of how powerful it is. The general rule of jujutsu is that a curse must be exorcised using another curse. This mean curses can only be exorcised using cursed energy.{{Ref|chap=1|page=46-47}} A fatal attack using cursed energy will cause the cursed spirit to disappear completely. This does not apply to curses who have been incarnated using a flesh and blood human vessel, such as the [[Cursed Womb: Death Painting]]s.{{Ref|chap=62|page=4}} 
+
+Curses that are too powerful to be destroyed must be sealed away using a constraint. Sukuna has continued to exist as twenty fingers classified as special grade cursed objects that can still attract cursed spirits and choose its own vessel. Sukuna's fingers had to be individually sealed with talisman to inhibit the damage they cause.{{Ref|chap=55|page=15}}
+
+If a vengeful spirit that is cursing someone is too powerful to exorcise, millions of figurative knots of cursed energy must be slowly analyzed and undone one by one. The cursed can do so by learning to master channeling the cursed energy being used to curse them.{{Ref|vol=0|page=64-65}} This was believed to be Yuta and Rika's case, however, Yuta was actually the one who turned her into a vengeful cursed spirit. If the cursed severs the bond tying servant to master and the curse doesn't desire punishment, then the curse breaks. By going beyond the limits of Rika's power and promising himself in return, the curse was broken once Rika decided not to punish him.{{Ref|vol=0|page=194}}
+
+== Classifications ==
+{{Nihongo|'''Vengeful Cursed Spirit'''|{{Ruby|過|か}}{{Ruby|呪|じゅ}}{{Ruby|怨霊|おんりょう}}|Ka Ju-Onryō}}: A cursed spirit created when humans become a curse after death. Those whose deaths are cursed have the possibility of having their spirit corrupted and transformed into a vengeful spirit. Sorcerers have an increased chance of turning into a curse after death, but this can be prevented by killing them with jujutsu. [[Rika Orimoto]] was transformed into a vengeful curse after Yuta Okkotsu couldn't accept her death and cursed it on accident. Yuta's ancestor, [[Michizane Sugawara]], became one of the {{Nihongo|'''Big Three Vengeful Spirits'''|日本三大怨霊|Nippon San Dai Onryō}}, ancestors of the Big Three Sorcerer Families.{{Ref|vol=0|page=193-194}} 
+
+{{Nihongo|'''Imaginary Vengeful Cursed Spirit'''|{{Ruby|仮想|かそう}}{{Ruby|呪|じゅ}}{{Ruby|怨霊|おんりょう}}|Kasō Ju-Onryō}}: A cursed spirit manifested from the cumulative fear of the masses. When many people share an image of fear, such as famous yokai or ghost stories like the Nine Tailed Fox, an Imaginary Vengeful Spirit can form. They are widely feared by sorcerers and classified as such to distinguish them from other curses.{{Ref|chap=20|page=16-17}} Sukuna, who was human over 2,000 years ago, is famous for the legend of the {{Nihongo|'''Imaginary Demon God'''|{{Ruby|仮想|かそう}}の{{Ruby|鬼神|きじん}}|Kasō no Kijin}} with two faces and four arms.{{Ref|chap=3|page=5}} Suguru Geto, the curse manipulator, possessed two different Imaginary Vengeful Spirits: Kuchisake-Onna{{Ref|chap=73|page=10}}, a famous urban yokai legend, and Tamamo-no-Mae Incarnate{{Ref|vol=0|page=179}}, another figure in Japanese mythology. 
+
+{{Nihongo|'''Disease Cursed Spirit'''|{{Ruby|疾|しっ}}{{Ruby|病|ぺい}}{{Ruby|呪|じゅ}}{{Ruby|霊|れい}}|Shippei Jurei}}: Plague and general sickness are concepts constantly cursed by humanity, resulting in powerful disease curses.{{Ref|vol=12|page=110}} These type of cursed spirits can use cursed techniques to infect humans with their respective diseases to curse and kill them. [[Noritoshi Kamo (Ancestor)|Pseudo-Geto]] possessed a special grade disease curse: the [[Smallpox Deity]]. It could use Domain Expansion with conditions that trapped its target in a coffin, buried them under a gravestone, and infected them with smallpox after a three-second count.{{Ref|chap=102|page=8}}
+
+== Powers and Abilities ==
+[[File:Curse appears above Yuji (Anime).png|thumb|220px|left|A weaker curse attempting to surprise attack Yuji.]]
+As jujutsu is essentially the manipulation of the energy which curses embody, it's only natural for them to be able to use it. Like sorcerers, they are capable of using a multitude of curse related abilities, most of which are cursed techniques unique to the specific curse. 
+
+Weaker spirits use their presence to curse humans or attack them with their metaphysical features (i.e. teeth, claws). They often act on animalistic instinct to attack in packs but can be frightened by superior cursed energy.  Phasing through solid surfaces is an ability that can only be used by low-grade cursed spirits.{{Ref|vol=11|page=28}}  
+
+[[File:Toji caught in Kuchisake-Onna's Domain.png|thumb|220px|An Imaginary Vengeful Spirit curse trapping its target inside an innate domain. ]]
+The more powerful curses possess immense levels of cursed energy and uncanny cursed techniques. In some cases special grade cursed spirits can even produce their own domains. In the current age, curses far outweigh sorcerers in terms of strength. There are over sixteen different special grade curse spirits and only four special grade sorcerers,{{Ref|vol=0|page=178}} two of whom aren't even committed to fighting curses. If it were not for Satoru Gojo, it is likely curses would completely overtake humanity, at least in Japan.{{Ref|chap=92|page=16}}  
+
+Special grade curse spirits, all of whom possess great levels of cursed energy, can manipulate their cursed energy much more naturally than a sorcerer. Unlike sorcerers, strong curses can reinforce their bodies to heal wounds without using a reverse cursed technique. Finger Bearers, special grade curses born from Sukuna's fingers, can release their cursed energy with explosive force and utilize it as a weapon. Sukuna, a far more intelligent special grade, believes this to be an obsolete form of jujutsu compared to his cursed techniques, including [[Domain Expansion]]. {{Ref|chap=9|page=12}}
+
+== List of Cursed Spirits ==
+{{Cursed Spirits Gallery}}
+
+== References ==
+{{Scroll box|
+&lt;references/&gt;
+}}
+
+== Navigation ==
+{{Techniques Navibox}}
+
+[[Category:Terminology]]
+[[Category:Cursed Spirits]]
+
+[[fr:Fléaux]]
+[[ja:呪霊]]</text>
+      <sha1>gzo2l0dyj94o0ee3sjgr0u1t6o09gjb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cursed Tool</title>
+    <ns>0</ns>
+    <id>1080</id>
+    <revision>
+      <id>42541</id>
+      <parentid>42540</parentid>
+      <timestamp>2022-08-01T21:59:34Z</timestamp>
+      <contributor>
+        <username>Young Mako</username>
+        <id>1706203</id>
+      </contributor>
+      <minor/>
+      <origin>42541</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2442" sha1="hft8wgeipb2hkf4mjwm3700u4q78i9h" xml:space="preserve">{{Item Infobox
+|name = Cursed Tools
+|image = &lt;gallery&gt;
+Cursed Tools (Anime).png|Anime
+Cursed Tools.png|Manga
+&lt;/gallery&gt;
+|kanji = 呪具
+|romaji = Jugu
+|user = [[Jujutsu Sorcerer]]s&lt;br/&gt;[[Curse User]]s&lt;br/&gt;[[Cursed Spirit]]s
+|type = [[Jujutsu]]  
+|capabilities = Offense&lt;br/&gt;Support
+|debut = [[Chapter 0-1]]&lt;br/&gt;[[Chapter 4]]
+|anime debut = [[Episode 3]]
+}}
+{{Nihongo|'''Cursed Tools'''|{{Ruby|呪|じゅ}}{{Ruby|具|ぐ}}|Jugu}} are weapons and support items used by [[Jujutsu Sorcerer|jujutsu sorcerers]] that are purposefully imbued with a curse. 
+
+== Description ==
+Different from [[Cursed Object|cursed objects]], cursed tools are weapons infused with [[Cursed Energy|cursed energy]]. Due to this, even non-sorcerers can use them to combat [[Cursed Spirit|cursed spirit]]s.{{Ref|chap=4|page=9}} Conventional weapons such as katanas can become semi cursed tools over time if the user constantly imbues it with their cursed energy. However, weapons new to the user that are reinforced with cursed energy are not considered cursed tools.{{Ref|vol=5|page=130}} 
+
+As with sorcerers and cursed spirits, cursed tools are categorized from [[Grade|grade]] one to four based on their power and potency. The higher the grade, the greater the advantage granted to the user in a jujutsu battle.{{Ref|name=c47|chap=47|page=1}} 
+
+Save for [[Playful Cloud]], all special grade cursed tools are imbued with a cursed technique.{{Ref|chap=110|page=13}} Additionally all cursed tools imbued with cursed techniques other than the [[Black Rope]] and the [[Sword of Extermination]], are officially ranked special grade.{{Ref|''Jujutsu Kaisen'': Official Fanbook}}  
+
+Powerful cursed tools are extremely valuable. Their monetary worth can range from five hundred thousand to upwards of five hundred million yen.{{Ref|chap=47}}{{Ref|vol=10|page=46}} All the cursed tools collected by the [[Sorcerer Family|Big Three Sorcerer Families]] were stored in a vault called the cursed warehouse. Tokyo Jujutsu High's cursed warehouse is protected by [[Tengen]]'s concealing barrier. Following the [[Shibuya Incident]], the Zenin and Kamo clans reclaimed their respective weapons, emptying out the warehouse of cursed tools.{{Ref|chap=146|page=10}}
+
+== List of Cursed Tools ==
+{{Cursed Tools}}
+
+== References ==
+{{Scroll box|
+&lt;references/&gt;
+}}
+
+== Navigation ==
+{{Techniques Navibox}}
+
+[[Category:Terminology]]
+[[Category:Cursed Tools]]
+
+[[fr:Objets Maudits]]
+[[ja:呪具]]</text>
+      <sha1>hft8wgeipb2hkf4mjwm3700u4q78i9h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cursed Corpse</title>
+    <ns>0</ns>
+    <id>1081</id>
+    <revision>
+      <id>43221</id>
+      <parentid>41048</parentid>
+      <timestamp>2022-09-05T17:02:48Z</timestamp>
+      <contributor>
+        <username>Young Mako</username>
+        <id>1706203</id>
+      </contributor>
+      <minor/>
+      <origin>43221</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4415" sha1="kepk6941ki6iwo4hv6t4e0zswnqfzzu" xml:space="preserve">{{Item Infobox
+|name=
+|image = &lt;gallery&gt;
+Cursed Corpse Reveals Itself (Anime).png|Anime
+Cursed Corpse.png|Manga
+&lt;/gallery&gt;
+|kanji = 呪骸
+|romaji = Jugai 
+|user = [[Masamichi Yaga]]&lt;br/&gt;[[Kokichi Muta]] 
+|type=
+|debut = [[Chapter 3]]
+|anime debut = [[Episode 2]]
+}}
+A {{Nihongo|'''Cursed Corpse'''|{{Ruby|呪|じゅ}}{{Ruby|骸|がい}}|Jugai}} is a nonliving object that has been endowed with a curse, allowing it to gain self-control. They can appear naturally as hostile creatures but are more often used as dolls and puppets for [[Jujutsu Sorcerer|sorcerers]]. 
+
+== Description ==
+Cursed corpses are defined as inanimate objects possessed by a curse that is capable of standing on its own. These types of curses that appear naturally are hostile to humans.{{Ref|chap=4|page=19}} Artificial cursed corpses created by sorcerers have a core that acts as their heart, allowing them to act independently from their creator until the cursed energy used to fuel them runs out.{{Ref|chap=147|page=2}}
+
+== Usage ==
+[[File:Masamichi Yaga and his dolls (Anime).png|thumb|220px|left|Masamichi Yaga and his many doll-like cursed corpses.]]
+[[Masamichi Yaga]], the foremost practitioner of puppet jujutsu, was believed to create cursed corpses capable of following a set of pre-determined commands. 
+
+However, Yaga was could also able create independent cursed corpses that produce their own cursed energy. He developed the first Abrupt-Mutated Cursed Corpse: '''Abrupt-Mutated Cursed Corpse''': [[Panda]]. Panda was born completely sentient and possesses three cores. Each of Panda's cores possesses unique traits, allowing him to switch between them and alter his physical shape at will, making him the most complex cursed corpse to exist.{{Ref|chap=38|page=10}} 
+
+Around the time of Panda's birth, Yaga was detained due to the dangerous potential an independent cursed corpse presents. The jujutsu higher-ups feared that he could create an army if he so desired and nearly placed an indefinite restraint on him. This did not occur, likely due to the influence of Satoru Gojo. However, jujutsu headquarters used the [[Shibuya Incident]] as an excuse to pressure Yaga. They threatened to execute him if he did not reveal the secret to developing independent cursed corpses. 
+
+[[File:Yaga talks to Takeru.png|thumb|220px|Takeru, an independent cursed corpse developed with Kusakabe's nephew's soul information.]]
+Yaga had developed many independent cursed corpses with self-sufficient cursed energy other than Panda. Rather than an army, he made a family of harmless dolls that live in a forest protected by Tengen. 
+
+One of the aforementioned dolls was Takeru, a cursed corpse created with the soul information from Atsuya Kusakabe's nephew to help his sister's emotional state. Yaga made sure that this remained a secret because it could never get out that independent cursed corpses existed. This was proven when he was originally interrogated for creating Panda. Yaga felt that his ability was a curse and kept it a secret until his final moments, and used his final words to pass on the curse from himself to Principal Gakuganji.  
+
+[[File:Puppet Manipulation.png|thumb|220px|left|Kokichi Muta controlling several Mechamaru puppets.]]
+To create an independent cursed corpse, a sorcerer must replicate soul information from physical information, then input that into cursed corpse cores. Additionally, the creator must put cores containing three compatible souls into one cursed corpse and have them constantly observe each other. Eventually, that will stabilize each of the souls and grant the cursed corpse self-awareness. Within three months' time, the Abrupt Mutated Cursed Corpse will also gain the ability to replenish its own cursed energy.{{Ref|chap=147|page=15-16}}
+
+[[Kokichi Muta]]'s Puppet Manipulation technique allows him to control his Mechamaru cursed corpses. Mechamarus are much more humanoid in shape and lethal in purpose than most of Yaga's creations. Kokichi can control numerous cursed corpses over an extremely wide range due to his Heavenly Restriction.{{Ref|chap=38|page=14}} Kokichi was also able to develop a gigantic cursed corpse that served as a mecha for him to pilot in battle.{{Ref|chap=80|page=6-8}}
+
+==List of Cursed Corpses==
+{{Cursed Corpses}}
+
+==References==
+&lt;references /&gt;
+
+==Navigation==
+{{Techniques Navibox}}
+[[Category:Cursed Corpses]]
+[[Category:Terminology]]
+[[fr:Incarné]]</text>
+      <sha1>kepk6941ki6iwo4hv6t4e0zswnqfzzu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cursed Womb</title>
+    <ns>0</ns>
+    <id>1457</id>
+    <revision>
+      <id>42763</id>
+      <parentid>42762</parentid>
+      <timestamp>2022-08-12T20:22:36Z</timestamp>
+      <contributor>
+        <username>Young Mako</username>
+        <id>1706203</id>
+      </contributor>
+      <minor/>
+      <origin>42763</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2505" sha1="otb3j68qp7mh2k6fbtekilc2apuec1k" xml:space="preserve">{{Simple Box
+|name = Cursed Womb
+|image = &lt;gallery&gt;
+Cursed Womb (Anime).png|Anime
+Curse Womb.png|Manga
+&lt;/gallery&gt;
+|kanji = 呪胎
+|romaji = Jutai
+|alias =
+|user =
+|debut = [[Chapter 5]]
+|debutanime = [[Episode 3]]
+}}
+A {{Nihongo|'''Cursed Womb'''|{{Ruby|呪|じゅ}}{{Ruby|胎|たい}}|Jutai}} is the uterus-like evolutionary stage of an immature [[Cursed Spirit|curse spirit]]. They are capable of producing powerful fully fledged curses after the metamorphosis is complete. 
+
+== Description ==
+Cursed wombs that grow and change shape are expected to produce [[Grade|special grade]] cursed spirits.{{Ref|chap=6|page=1|ep=4}} A cursed womb can be created from one of [[Sukuna]]'s fingers. After enough time has passed, a cursed womb created with one of Sukuna's fingers can produce a special grade cursed spirit called a [[Finger Bearer]].{{Ref|chap=58|page=1}}{{Ref|chap=59|page=13}}
+
+In some instances, cursed wombs can be sentient beings who resemble cursed spirits. They're capable of utilizing jujutsu but are much less dangerous than a fully-fledged cursed. In order to reach an evolved state, a traumatic stimulus is required to induce metamorphosis. This includes suffering emotional trauma or being nearly exorcised. When their metamorphosis is complete, their appearance changes completely and they evolve into a much more powerful state of being.{{Ref|chap=106|page=18-19}}
+
+== Death Painting Womb ==
+:Main Article: ''[[Cursed Womb: Death Painting]]''
+
+A {{Nihongo|'''Cursed Womb: Death Painting'''|{{Ruby|呪|じゅ}}{{Ruby|胎|たい}}{{Ruby|九|く}}{{Ruby|相|そう}}{{Ruby|図|ず}}|Jutai Kusōzu}}{{Ref|chap=53}} is a type of cursed womb that is half-human, half [[Cursed Spirit|cursed spirit]]. It is unclear how they are formed precisely. In the Meiji era, the [[Jujutsu Sorcerer|jujutsu sorcerer]] [[Noritoshi Kamo (Ancestor)|Noritoshi Kamo]] experimented on the nine aborted fetuses from a girl who could give birth to children who were half curse. The first three—[[Choso]], [[Eso]], and [[Kechizu]] — were strong enough to become special grade curses.{{Ref|chap=60}}
+
+== List of Cursed Wombs ==
+{{Cursed Wombs}}
+
+== Trivia ==
+*{{Nihongo|[[wikipedia:ja:九相図|''Kusōzu'']]|{{Ruby|九|く}}{{Ruby|相|そう}}{{Ruby|図|ず}}||literally "Nine Phase Diagram"}} is a Buddhist series of nine paintings that depict the stages of death and decomposition of a corpse.
+
+== References ==
+&lt;references/&gt;
+
+== Navigation ==
+{{Techniques Navibox}}
+[[Category:Terminology]]
+[[fr:Matrice]]</text>
+      <sha1>otb3j68qp7mh2k6fbtekilc2apuec1k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Binding Vow</title>
+    <ns>0</ns>
+    <id>1140</id>
+    <revision>
+      <id>42749</id>
+      <parentid>41770</parentid>
+      <timestamp>2022-08-12T10:29:08Z</timestamp>
+      <contributor>
+        <username>SalamanXyz</username>
+        <id>28913937</id>
+      </contributor>
+      <comment>Revealing One`s Hand corrected iaw Jujutsu page.</comment>
+      <origin>42749</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7040" sha1="8tv5i7797d54yvuz34lslp02tq7rlu8" xml:space="preserve">{{Technique Infobox
+|name= Binding Vow
+|image= &lt;gallery&gt;
+Binding Vow (Anime).png|Anime
+Binding Vow.png|Manga
+&lt;/gallery&gt;
+|kanji= 縛り
+|romaji= Shibari
+|other= 
+|viz=
+|user= Jujutsu Users
+|type= [[Jujutsu]]
+|move range= 
+|capabilities=
+|debut= [[Chapter 11]] 
+|anime debut= [[Episode 6]]
+}}
+A {{Nihongo|'''Binding Vow'''|{{Ruby|縛|しば}}り|Shibari}} is a pact made with [[Jujutsu|jujutsu]] that creates conditions for themselves or agreements with others.
+
+== Overview == 
+Binding vows are considered by all jujutsu users to be one of the essential tenants of jujutsu sorcery. Binding Vows are essentially contracts created through [[Cursed Energy|cursed energy]] that an individual can make with one's self or another person. The act of abiding by the rules and restrictions agreed upon in these contracts can result in a greater power or the achievement of a goal, but breaking a binding vow has uncanny repercussions.{{Ref|name=c79|chap=79}}
+
+== Vows with Oneself ==
+Self-imposed restrictions that are potentially harmful to the creator, such as willingly limiting the amount of cursed energy they can use for a period of time, can increase the amount of the user's cursed energy and of their cursed techniques.
+
+As a product of negative emotions, cursed energy responds to the desires of its individual user. As a result, the user can increase the power of their cursed energy by stating a self-imposed "Cursed Restriction" that creates riskier conditions to use their abilities. For example, by divulging one's cursed technique, it creates more risk for them, making their cursed energy swell in response to its user's resolve. 
+
+In addition, creating rules for using one's cursed energy and abiding by those rules which allow their cursed technique to improve in strength. The penalty of breaking a binding vow with oneself is the loss of whatever was gained through the contract. {{Ref|name=c79}}
+
+===Known Vows===
+{|width="auto" style="border:1px #ED0000; overflow:hidden; text-align:center;" border="1"
+!style="margin:auto; background:#ED0000"|{{Color|White|'''Vow'''}}
+!style="margin:auto; background:#ED0000"|{{Color|White|'''User'''}}
+!style="margin:auto; background:#ED0000"|{{Color|White|'''Description'''}}
+|-
+|[[File:Boogie Woogie (Anime).gif|220px]]
+|width="20%"|'''[[Jujutsu Sorcerer|Sorcerers]]'''&lt;br/&gt;'''[[Cursed Spirit]]s'''||{{Nihongo|'''Revealing One's Hand'''|情報の開示|Jōhō no Kaiji}}: A Binding Vow that increases the user's cursed energy output in exchange for vocally divulging how their cursed technique functions.{{Ref|chap=20|page=1-2}} Skilled practitioner can increase the effectiveness of his technique as well as mislead their opponents on how it works.
+|-
+|[[File:Nanami activates overtime (Anime).png|220px]]
+|width="20%"|'''[[Kento Nanami]]'''||'''Overtime''': A Binding Vow used by Kento Nanami that limits the amount of cursed energy he can access to about 80-90% while on the clock working for Jujutsu High. Once his normal shift ends and he begins working overtime, Nanami's cursed energy increases dramatically.{{Ref|chap=23|ep=10}} By invoking Overtime, Nanami is able to utilize 110-120% of his maximum power.
+|}
+
+== Vows with Others ==
+Contracts created between two or more individuals are bound by cursed energy. Both parties must agree to a particular set of conditions that benefit both parties. The penalty for breaking a Binding Vow with others is considered to be far greater than that of a self-imposed Binding Vow.{{Ref|name=c79}}
+
+===Known Vows===
+{|width="auto" style="border:1px #ED0000; overflow:hidden; text-align:center;" border="1"
+!style="margin:auto; background:#ED0000"|{{Color|White|'''Vow'''}}
+!style="margin:auto; background:#ED0000"|{{Color|White|'''Parties'''}}
+!style="margin:auto; background:#ED0000"|{{Color|White|'''Description'''}}
+|-
+|[[File:Yuji vs. Sukuna first fight.png|220px]]
+|width="20%"|'''[[Yuji Itadori]]'''&lt;br/&gt;v.&lt;br/&gt;'''[[Sukuna]]'''|| When Yuji's body was deceased, Sukuna proposed a Binding Vow that would allow him to heal in exchange for allowing Sukuna to take control for one minute whenever he said a keyword. He also promised not to kill anyone during that time on the condition that Yuji would forget about the vow. 
+
+Yuji initially refused and demanded a fight to death in response. As a compromise, conditions were set by Sukuna. If Yuji wins then Sukuna will revive him without the Binding Vow. If Sukuna wins, then Yuji must agree to the Binding Vow and will lose all memory of it. Sukuna instantly defeated Yuji, forcing him into the vow.{{Ref|chap=11|ep=6}}
+|-
+|[[File:Mahito heals Kokichi.png|220px]]
+|width="20%"|'''[[Kokichi Muta]]'''&lt;br/&gt;v.&lt;br/&gt;'''[[Mahito]]'''||A contract between Mahito and Kokichi Muta for Muta to act as a double agent for Mahito and [[Kenjaku|Pseudo-Geto]]. Mahito agreed to heal Muta's body with [[Idle Transfiguration]] in exchange for cooperation and information, on the condition that Mahito would not "lay a finger on anyone from Kyoto Jujutsu High." 
+
+It is alleged by Muta that this contract is broken, but Mahito rebuts this point by stating that Hanami actually was the one who hurt the students from the Kyoto Jujutsu High. Muta is transformed by Mahito's cursed technique after acting as a double agent for presumably some time, which brings the contract to an end, although it is unclear whether or not there was a breach.{{Ref|name=c79}}
+|-
+|[[File:Ui Ui cursed energy.png|220px]]
+|width="20%"|'''[[Ui Ui]]'''&lt;br/&gt;v.&lt;br/&gt;'''[[Mei Mei]]'''||Ui Ui has a contract with his sister Mei Mei where he agrees to limit his cursed energy until she gives him permission to use jujutsu. This stems from his own desire to please his elder sister.{{Ref|chap=102}}
+|-
+|[[File:Pseudo-Geto using Idle Transfiguration.png|220px]]
+|width="20%"|'''[[Kenjaku]]'''&lt;br/&gt;v.&lt;br/&gt;'''[[Cursed_Object#Incarnated_Sorcerers|Sorcerers]]'''||Kenjaku revealed that the cursed objects he provided for the sorcerers were what was left of the binding vow he made a millennial ago and reveals that he indeed did enter a contract with sorcerers but the binding vow broke after he obtained [[Suguru Geto]]'s body. 
+
+At the end of the [[Shibuya Incident]], he remotely casted Idle Transfiguration on non-sorceres to adjust their brains for sorcery and give them strength as vessels. Later on, he broke the seal on the cursed object and incarnated thousands of sorcerer from the past to start the [[Culling Game]].
+|-
+|[[File:Yuji gets stabbed by Yuta.png|220px]]
+|width="20%"|'''[[Yuta Okkotsu]]'''&lt;br/&gt;v.&lt;br/&gt;'''[[Tokyo_Metropolitan_Curse_Technical_College#Administration|Higher-ups]]'''||In order to become Itadori's fake executioner, [[Yuta Okkotsu]] was forced into a Binding Vow with the jujutsu higher-ups where he was sworn to kill him. He then ends the Binding Vow when he does kill Itadori, but heals him with a reversed cursed technique in the very moment he does kill him, resurrecting him in a sense.
+|}
+
+==References==
+&lt;references/&gt;
+
+== Navigation ==
+{{Techniques Navibox}}
+
+[[Category:Terminology]]
+[[fr:Serment]]</text>
+      <sha1>8tv5i7797d54yvuz34lslp02tq7rlu8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Heavenly Restriction</title>
+    <ns>0</ns>
+    <id>1068</id>
+    <revision>
+      <id>41529</id>
+      <parentid>40951</parentid>
+      <timestamp>2022-06-03T12:04:56Z</timestamp>
+      <contributor>
+        <username>SalamanXyz</username>
+        <id>28913937</id>
+      </contributor>
+      <origin>41529</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3355" sha1="syy7d4eic0egeu5yoyi2h7e4htntvhh" xml:space="preserve">{{Technique Infobox
+|name = Heavenly Restriction
+|image= &lt;gallery&gt;
+Kokichi affected by his Heavenly Restriction (Anime).png|Anime
+Kokichi Muta first appearance.png|Manga
+&lt;/gallery&gt;
+|kanji = 天与呪縛
+|romaji = Ten'yo Jubaku
+|debut = [[Chapter 38]]
+|user=[[Kokichi Muta]]&lt;br&gt;[[Toji Fushiguro]]&lt;br&gt;[[Maki Zenin]]
+}}
+{{Nihongo|'''Heavenly Restriction'''|{{Ruby|天|てん}}{{Ruby|与|よ}}{{Ruby|呪|じゅ}}{{Ruby|縛|ばく}}|Ten'yo Jubaku}} is a type of cursed restriction that affects someone's [[Cursed Energy|cursed energy]] in exchange for limitations or improvements on their body. 
+
+==Overview ==
+Heavenly Restrictions are described as bindings placed on a [[Jujutsu Sorcerer|sorcerer's]] body when they are born. These bindings usually refer to limitations on the human body that the person receives improved capabilities in a different capacity in exchange. For example, a Heavenly Restriction can cause a sorcerer born with low cursed energy to be physically gifted. Vise versa can also occur, sorcerers with high cursed energy can be born with exceptionally weak bodies.{{Ref|name=c38|chap=38|ep=16}}
+&lt;br clear="all"/&gt;
+==Known Heavenly Restrictions ==
+{|width="auto" style="border:1px #ED0000; overflow:hidden; text-align:center;" border="1"
+!style="margin:auto; background:#ED0000"|{{Color|White|'''Restriction'''}}
+!style="margin:auto; background:#ED0000"|{{Color|White|'''Afflicted'''}}
+!style="margin:auto; background:#ED0000"|{{Color|White|'''Description'''}}
+|-
+|[[File:Kokichi Muta first appearance (Anime).png|220px]]
+|width="20%"|'''[[Kokichi Muta]]'''||{{Scroll|height=123px|Kokichi suffers from an extreme example of a Heavenly Restriction. He was born without his right arm or lower part of his legs. He couldn't withstand sunshine or moonlight without sunburn, and experienced extreme chronic pain which he describes as feeling like every pore in his body was being stabbed constantly.  In exchange for his poor physical state, Kokichi possessed vast amounts of [[Cursed Energy|cursed energy]] that he used to control innumerable Mechamaru puppets.{{Ref|chap=38|page=14}}}}
+|-
+|[[File:Maki's new power reminding Ogi of Toji.png|220px]]
+|width="20%"|'''[[Maki Zenin]]'''&lt;br/&gt;'''[[Toji Fushiguro]]'''||{{Scroll|height=274px|According to [[Yuki Tsukumo]], there have been several instances where Heavenly Restriction has reduced a sorcerer's cursed energy to the levels of a non-sorcerer. Maki was born with this type of binding. Rather than being born with strong cursed energy like other members of the Zenin clan, Maki was born physically gifted. In a similar case, Toji was born with no cursed energy whatsoever and possessed even more extraordinary physical prowess, the only case ever discovered in the world at the time.{{Ref|chap=42|page=15}}{{Ref|chap=77|page=7}} Maki always possessed the potential to reach that point but what cursed energy she had was holding her back from being fully realized.{{Ref|chap=113|page=11}} With Mai's sacrifice, all of Maki's cursed energy was taken with her sister. In exchange, Maki was granted a body of steel with unrivaled physical abilities and a presence identical to Toji.{{Ref|chap=149|pages=9-11, 16}}{{Ref|chap=150|page=20}}{{Ref|chap=151|page=14}}}}         
+|}
+
+==References==
+&lt;references /&gt;
+
+==Navigation==
+{{Techniques Navibox}}
+
+[[Category:Terminology]]
+[[fr:Serment Inné]]</text>
+      <sha1>syy7d4eic0egeu5yoyi2h7e4htntvhh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Jujutsu</title>
+    <ns>0</ns>
+    <id>1626</id>
+    <revision>
+      <id>44786</id>
+      <parentid>44785</parentid>
+      <timestamp>2022-11-10T09:10:25Z</timestamp>
+      <contributor>
+        <username>Young Mako</username>
+        <id>1706203</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contributions/Bhirasit Wadsanit|Bhirasit Wadsanit]] ([[User talk:Bhirasit Wadsanit|talk]]) to last revision by [[User:DripArmstrong|DripArmstrong]]</comment>
+      <origin>44781</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="11793" sha1="oug4xkxjlv2qns902vv8pubgchfxpwk" xml:space="preserve">{{Technique Infobox
+|name = Jujutsu
+|image = Yuji and Megumi ready to fight Awasaka.png
+|kanji = 呪術
+|romaji = Jujutsu
+|viz = Jujutsu Sorcery  
+|user = [[Jujutsu Sorcerer|Sorcerers]]&lt;br/&gt;[[Cursed Spirit]]s
+|debut = [[Chapter 0-1]]&lt;br/&gt;[[Chapter 1]]
+|anime debut = [[Episode 1]]
+}}
+{{Nihongo|'''Jujutsu'''|{{Ruby|呪|じゅ}}{{Ruby|術|じゅつ}}|Jujutsu}}, also known as '''Jujutsu Sorcery''', is one of the defining features of the ''[[Jujutsu Kaisen]]'' series. 
+
+Jujutsu refers to all skills and forms of sorcery that [[Jujutsu Sorcerer|sorcerers]] and [[Cursed Spirit|cursed spirits]] can access through the manipulation of their own [[Cursed Energy|cursed energy]]. The term "Jujutsu" is an umbrella that encompasses all curse-related mystical arts. It is also often used as a prefix for the vast majority of terms within the jujutsu society. (i.e. Jujutsu Sorcerer, Jujutsu High, etc.) 
+
+A person capable of utilizing jujutsu is colloquially referred to as a {{Nihongo|"'''[[Jujutsu Sorcerer]]'''"|呪術師|Jujutsushi}} or simply {{Nihongo|"'''Sorcerer'''"|術師|Jutsushi}} while those who can not use jujutsu are called {{Nihongo|"'''Non-Sorcerers'''"|非術師|Hijutsushi}}.
+
+== History ==
+It is unknown for how long exactly, but jujutsu has existed for thousands of years, for as long as curses have roamed the Earth. 
+
+The Heian Era, the era in which [[Sukuna|Ryomen Sukuna]] was defeated is considered the "Golden Age of Jujutsu".{{Ref|chap=3|page=4}}{{Ref|chap=82|page=6}}{{Ref|chap=136|page=19}} Sukuna has described jujutsu sorcerers to have been a problem for cursed spirits in every era.{{Ref|chap=2|page=9}} In a never-ending war between sides utilizing jujutsu, a society of organized humans with the ability to fight curses has formed. 
+
+In the modern era, sorcerer families that have existed for ages currently control the landscape of their community. The Big Three sorcerer families descend from the Big Three Vengeful Spirits, all of whom used to be famous sorcerers of the Heian Era.{{Ref|chap=0-4|page=43}} Sorcerer families have maintained their prominence thanks to their advanced cursed techniques which are passed down through their family. Due to this, most of the clans are obsessed with their bloodlines and passing down these techniques.{{Ref|chap=44|page=1}} 
+
+Jujutsu sorcerers currently are selected and trained through the two jujutsu educational facilities in Tokyo and Kyoto. Both schools are considered to be the pillars of the jujutsu community. As the population increases in Japan, so does the strength of curses. The only thing keeping them in check are the crown jewels of the Gojo family: the [[Six Eyes]] and the [[Limitless]] technique. 
+
+[[Satoru Gojo]] is the first person in one hundred years to be born with the Six Eyes and the Limitless, making him a near unstoppable force. As cursed spirits increased so did the prominence of curse users, who used their abilities to curse others and exploit them for power. With Gojo's birth, the balance of the jujutsu world shifted the advantage back to the sorcerers dedicated to protecting humanity.{{Ref|chap=96|page=11}}
+
+Jujutsu can also dictate fate by binding destinies together. The Six Eyes is connected to Tengen and the Star Plasma Vessel by this type of "fate". Regardless of any outside interference, the Star Plasma Vessel and the Six Eyes would always appear on the day of Tengen's merger. Toji Fushiguro, an anomaly that had broken away from jujutsu completely, was able to shatter their destinies. This was the beginning of what would become a massive distortion in the jujutsu world.{{Ref|chap=145|page=9-11}} 
+
+Sukuna has been incarnated in Yuji Itadori. Kenjaku was able to acquire Prison Realm and form an alliance with powerful unregistered cursed spirits to seal Satoru Gojo. He's attempting to find what goes beyond the limits of the connection between humans and cursed energy. Using the Culling Game, Kenjaku plans to evolve humanity into something beyond jujutsu sorcerers and cursed spirits. The Culling Game is jujutsu terrorism on a scale never seen before in history, and Kenjaku is using it to usher in the return of the Golden Age of Jujutsu.
+
+== Glossary ==
+&lt;div style="border: 1px solid #ED0000; position:top-absolute; margin-top:32.5px; padding:5px 5px 5px 5px; margin-bottom:10px; width=100%"&gt;
+{{head1|Cursed Energy}}
+{|style= "text-align:center"
+||{{Nihongo|'''[[Cursed Energy]]'''|呪力|Juryoku}} refers to the amount of negative energy a jujutsu user possesses. It is born from negative emotions such as grief and anger, and thus exists within every human being. The aforementioned emission of cursed energy is a common and natural phenomenon from which curses are born from. Jujutsu sorcerers possess the ability to reduce the amount of cursed energy that leaks out as a part of their basic training. 
+
+Raw cursed energy can be utilized for its blunt force, but it's better for a sorcerer to manipulate its flow into a cursed technique. Cursed energy does not flow on its own within sorcerers, and requires the user to make it flow through each part of their body. A sorcerer must think of themselves as one entity along with their cursed energy in order to create an effective flow. within themselves 
+
+Cursed energy can be applied to physical attacks to increase their destructive power, and it can also be used defensively to harden the user's body. A jujutsu users strength is generally judged by their level of cursed energy.
+|} 
+----
+{|width="100%" style="border:1px #ED0000; overflow:hidden; text-align:center;" border="1"
+!colspan="2" style="margin:auto; background:#ED0000"|{{Color|White|'''Cursed Energy Manipulation'''}}
+|-
+||[[File:Residuals (Anime).png|220px]]||{{Nihongo|'''Residuals'''|残穢|Zan E}} are traces of cursed energy left behind by jujutsu.{{Ref|chap=19|page=9}}  By examining it, the technique and its user can be tracked and identified. Expert jujutsu practitioners are able to hide their residuals or leave a purposeful trail as bait.
+|-
+||[[File:Yuji uses Divergent Fist on Mahito.gif|220px]]||{{Nihongo|'''[[Divergent Fist]]'''|逕庭拳|Keitei Ken}}: Yuji Itadori's signature punching jujutsu that strikes his opponents with a second delayed impact after the initial strike.
+|-
+||[[File:Yuji using Black Flash (Anime).gif|220px]]||{{Nihongo|'''[[Black Flash]]'''|黒閃|Kokusen}}: Spatial distortion created when a jujutsu practitioner connects with an impact of cursed energy within a span of .000001 seconds of a physical hit. The phenomenon causes cursed energy to flash black, creating an attack that is equal to a normal hit to the power of 2.5.
+|}
+&lt;br clear="all" /&gt;
+
+{{head1|Cursed Techniques}}
+{|style="float"
+&lt;center&gt;{{Nihongo|'''[[Cursed Technique]]'''|呪術式|Jujutsushiki}} is an advanced form of cursed energy manipulation in which a sorcerer or curse uses manipulates their cursed energy to carry out a certain function, resulting in a specialized ability.&lt;/center&gt;
+|}
+----
+{|width="100%" style="border:1px #ED0000; overflow:hidden; text-align:center;" align:center;" border="1"
+|-
+||{{Nihongo|'''[[Innate Technique]]s'''|生得術式|Shōtoku Jutsushiki}} is an intrinsic mystic ability congenitally engraved into the user when they are born. Innate techniques are unique solely to their user and cannot be copied by other Jujutsu practitioners. These supernatural powers generally manifest around the age of five for any sorcerer. When practitioners refer to their unique cursed technique they're often actually talking about their innate technique.
+|}
+
+{{Innate Techniques}}
+----
+ {|width="100%" style="border:1px #ED0000; overflow:hidden; text-align:center;" align:center;" border="1"
+|-
+||{{Nihongo|'''[[Inherited Technique]]s'''|相伝術式|Sōden Jutsushiki}} are powerful innate techniques passed down through the bloodlines of sorcerer families. Developing and passing down such techniques is what helps sorcerer families gain and maintain their prosperity within the jujutsu community.
+|}
+
+{{Inherited Techniques}}   
+----
+ {|width="100%" style="border:1px #ED0000; overflow:hidden; text-align:center;" align:center;" border="1"
+|-
+||{{Nihongo|'''[[Cursed Technique#Barrier Techniques|Barrier Techniques]]'''|結界術式|Kekkai Jutsushiki}} are the simplest and most common type of cursed techniques and require no innate talent. They allow the user to manipulate and erect barriers that can be used to protect themselves or to trap an opponent, along with other various uses.
+|}
+
+{{Barrier Techniques}}
+&lt;br clear="all" /&gt;
+
+{{head1|[[Shikigami|{{Color|#fff|Shikigami}}]]}}
+
+{{Nihongo|'''Shikigami'''|式神|Shikigami}} are familiar cursed spirits that can be summoned by sorcerers. Like barrier techniques, simple shikigami can be summoned by sorcerers with little to no innate talent. While some shikigami users may not have their own innate technique, their familiars may possess cursed techniques of their own.
+----
+{{Shikigami}}
+&lt;br clear="all" /&gt;
+
+{{head1|Cursed Objects}}
+
+{{Nihongo|'''[[Cursed Object]]s'''|呪物|Jubutsu}} is a curse that still exists as an object rather than a fully formed [[Cursed Spirit|cursed spirit]]. Unlike cursed tools, cursed objects are not items imbued with curse energy, but curses bound to the form of an object. Special grade cursed objects cannot be destroyed with jujutsu. 
+----
+{{Cursed Objects}}
+&lt;br clear="all" /&gt;
+
+{{head1|Cursed Tools}}
+
+{{Nihongo|'''[[Cursed Tool]]s'''|呪具|Jugu}} are weapons infused with cursed energy. Even non-sorcerers can use them to combat curses. Special grade cursed tools, save for [[Playful Cloud]], are imbued with a cursed technique. Normal weapons that are constantly imbued with cursed energy by their user over a long period of time can be considered semi-cursed tools. 
+----
+{{Cursed Tools}}
+
+&lt;br clear="all" /&gt;
+
+{{head1|Cursed Corpses}}
+
+{{Nihongo|'''[[Cursed Corpse]]s'''|呪骸|Jugai}} are inanimate objects possessed by a curse allowing them to gain self-control. They can appear naturally as hostile curses but are more often used as dolls and puppets for sorcerers. Cursed corpses created by sorcerers have a core that acts as their heart, allowing them to act independently of their creator.
+----
+{{Cursed Corpses}}
+
+&lt;br clear="all" /&gt;
+
+{{head1|Cursed Restrictions}}
+
+{{Nihongo|'''Cursed Restrictions'''|呪縛|Jubaku}} are limitations created through jujutsu that benefit the user in one facet while determining them in a separate way. Vows can be willingly created by sorcerers but heavenly restrictions are placed at birth. 
+---- 
+{|width="auto" style="border:1px #ED0000; overflow:hidden; text-align:center;" border="1"
+!colspan="2" style="margin:auto; text-align:center; background:#ED0000"|{{Color|White|'''Contracts'''}}
+|-
+||[[File:Binding Vow (Anime).png|220px]]||{{Nihongo|'''[[Binding Vow]]'''|縛り|Shibari}} is a pact made using jujutsu that a practitioner uses to create conditions for themselves or agreements with others.
+|-
+||[[File:Showing Jogo the Infinity (Anime).png|220px]]||{{Nihongo|'''Revealing One's Hand'''|情報の開示|Jōhō no Kaiji}}: By divulging the rules of their technique, the user can make their abilities more effective. Revealing select details of one's technique can also garner them advantages in battle such as misleading their opponent.  
+|-
+||[[File:Kokichi Muta first appearance (Anime).png|220px]]||{{Nihongo|'''[[Heavenly Restriction]]'''|天与呪縛|Ten'yo Jubaku}} powerful bindings placed on a person at birth greater constraints in exchange for improved features in a different capacity. The most common occurrence is increased physical abilities in exchange for low cursed energy. 
+|}
+&lt;/div&gt;
+
+== References ==
+{{Scroll box|
+&lt;references/&gt;
+}}
+
+== Navigation ==
+{{Techniques Navibox}}
+
+[[Category:Jujutsu]]
+[[Category:Terminology]]
+[[fr:Exorcisme]]</text>
+      <sha1>oug4xkxjlv2qns902vv8pubgchfxpwk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cursed Object</title>
+    <ns>0</ns>
+    <id>1064</id>
+    <revision>
+      <id>44384</id>
+      <parentid>44383</parentid>
+      <timestamp>2022-10-04T19:35:46Z</timestamp>
+      <contributor>
+        <username>Young Mako</username>
+        <id>1706203</id>
+      </contributor>
+      <minor/>
+      <origin>44384</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4948" sha1="c2u2j4w9ka470bydpx2n8o7jp0q1uv3" xml:space="preserve">{{Simple_Box
+|name = Cursed Objects
+|image = &lt;gallery&gt;
+Cursed Objects (Anime).png|Anime
+Cursed Objects.png|Manga
+&lt;/gallery&gt;
+|kanji = 呪物
+|romaji = Jubutsu
+|debut = [[Chapter 1]]
+|debutanime = [[Episode 1]]
+}}
+A {{Nihongo|'''Cursed Object'''|{{Ruby|呪|じゅ}}{{Ruby|物|ぶつ}}|Jubutsu}} is a curse that exists as an object rather than a fully formed [[Cursed Spirit|cursed spirit]]. 
+
+== Description ==
+Unlike [[Cursed Tool|cursed tools]], cursed objects are not items imbued with [[Cursed Energy|cursed energy]], but actual curses bound to the form of a jujutsu artifact. These relics are often leftover from the past eras of the jujutsu world or are the remains of powerful curses and [[Jujutsu Sorcerer|sorcerers]].{{Ref|chap=136|page=16}} This also includes paper talisman and other sealing methods called '''Constraints''' that contain curses as a means to seal other cursed objects.{{Ref|chap=55|page=15}} 
+
+Cursed objects can leave residual cursed energy just like normal cursed spirits.{{Ref|chap=1||page=23-25}} Special grade cursed objects cannot be destroyed with jujutsu and certain ones can be used to incarnate powerful cursed spirits.   
+
+Among other artifacts are items that can erect barriers such as [[Commissioned Curtain]]s or [[Prison Realm]]. The former is a common item used by [[Curse User|curse users]] that appears to be wrapped in constraints, allowing the user to program special conditions into a [[Curtain|curtain]] before it is activated.{{Ref|chap=94|page=10}} Prison Realm is the remains of a sorcerer monk from a past era, a literal living barrier capable of sealing absolutely anything.{{Ref|chap=90|page=2}}
+
+== Incarnation ==
+[[File:Mahito forcibily incarnating Kechizu (Anime).png|thumb|220px|right|Mahito forcibly incarnating a special grade cursed object using a human vessel.]] 
+{{Nihongo|'''Incarnation'''|{{Ruby|受|じゅ}}{{Ruby|肉|にく}}|Juniku}}{{Ref|chap=1|page=49|ep=1}} occurs when the remains of a sorcerer have become a cursed object and are ingested by someone. It is best described as the fusion between a cursed object and human flesh. In most cases, the host's body is completely taken over and their consciousness is completely suppressed.{{Ref|chap=199|page=15-16}} The incarnated individual receives knowledge and common sense from their vessel's brains.
+
+Sukuna is an exception because [[Yuji Itadori]] still controls his own body most of the time. His fingers can choose its host and have such a strong presence that they can still attract curses.{{Ref|chap=55|page=15-16}} Once Sukuna was fully incarnated by [[Yuji Itadori|Yuji]], all of his fingers resonated with cursed energy, resulting in the empowerment of several different curses.{{Ref|chap=58|page=2}} 
+
+The [[Cursed Womb: Death Painting]]s were cursed objects created under special circumstances and sealed with a constraint for 150 years. Death Paintings can be incarnated with any vessel, unlike Sukuna's fingers, and result in a fully fleshed cursed spirit as opposed to a sorcerer.{{Ref|chap=55|page=16}}
+
+In preparation for the [[Culling Game]], [[Kenjaku]] marked hundreds of non-sorcerers and had them ingest cursed objects. These cursed objects were the remains of sorcerers Kenjaku made binding vows with a millennium ago. At the end of the [[Shibuya Incident]], Kenjaku remotely cast [[Idle Transfiguration]] and gave strength to those he marked as vessels. Directly after doing so, he also released the seals on the cursed objects. This awakened a thousand malevolent sorcerers in new bodies all carefully selected by the curse user, very similar to  Sukuna's relationship with Yuji.{{Ref|chap=136|page=8-13}}
+
+=== Incarnated Individuals ===
+{| width="164" cellspacing="1" align="center"
+|{{CharPortal|image=SukunaP.png|articlename=Sukuna|name=Sukuna|border=6}}
+|{{CharPortal|image=HajimeKashimoP.png|articlename=Hajime Kashimo|name=Hajime Kashimo|border=1}}
+|{{CharPortal|image=ReggieStarP.png|articlename=Reggie Star|name=Reggie Star|border=2}}
+|{{CharPortal|image=HanaKurusuP.png|articlename=Hana Kurusu|name=Hana Kurusu|border=3}}
+|}
+{| width="164" cellspacing="1" align="center"
+|{{CharPortal|image=IoriHazenokiP.png|articlename=Iori Hazenoki|name=Iori Hazenoki|border=3}}
+|{{CharPortal|image=DhruvLakdawallaP.png|articlename=Dhruv Lakdawalla|name=Dhruv Lakdawalla|border=4}}
+|{{CharPortal|image=RyuIshigoriP.png|articlename=Ryu Ishigori|name=Ryu Ishigori|border=5}}
+|{{CharPortal|image=TakakoUroP.png|articlename=Takako Uro|name=Takako Uro|border=6}}
+|}
+{| width="164" cellspacing="1" align="center"
+|{{CharPortal|image=HaganeDaidoP.png|articlename=Hagane Daido|name=Hagane Daido|border=5}}
+|{{CharPortal|image=RokujushiMiyoP.png|articlename=Rokujushi Miyo|name=Rokujushi Miyo|border=6}}
+|}
+
+== List of Cursed Objects == 
+{{Cursed Objects}}
+
+== References ==
+{{Scroll box|
+&lt;references/&gt;
+}}
+
+== Navigation ==
+{{Techniques Navibox}}
+
+[[Category:Terminology]]
+[[Category:Cursed Objects]]
+[[fr:Reliques]]</text>
+      <sha1>c2u2j4w9ka470bydpx2n8o7jp0q1uv3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Shikigami</title>
+    <ns>0</ns>
+    <id>1078</id>
+    <revision>
+      <id>45209</id>
+      <parentid>44295</parentid>
+      <timestamp>2022-12-24T12:10:11Z</timestamp>
+      <contributor>
+        <username>SalamanXyz</username>
+        <id>28913937</id>
+      </contributor>
+      <origin>45209</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3929" sha1="7bta35cs3nfij01hxrizt67tf79i5xx" xml:space="preserve">{{Technique Infobox
+|name = Shikigami
+|image = Shikigami user.png
+|kanji = 式神
+|romaji = Shikigami
+|other=
+|viz=
+|user = Shikigami Users
+*[[Megumi Fushiguro]]
+*[[Junpei Yoshino]]
+*Old Curse User
+*[[Dagon]]
+*[[Culling Game]] Players
+*[[Hiromi Higuruma]]
+*[[Dhruv Lakdawalla]]
+*[[Yuta Okkotsu]] {{Sub|(Copied)}}
+*[[Yuki Tsukumo]]
+|type = [[Cursed Technique]] 
+|capabilities = Summon
+|debut = [[Chapter 1]] 
+|anime debut = [[Episode 1]]
+}}
+{{Nihongo|'''Shikigami'''|{{Ruby|式神|しきがみ}}|}} are familiar [[Cursed Spirit|curses]] conjured and controlled by [[Jujutsu|jujutsu]] users. [[Jujutsu Sorcerer|Sorcerers]] who summon shikigami to aid them in battle are known as {{Nihongo|'''Shikigami Users'''|{{Ruby|式神|しきがみ}}{{Ruby|使|し}}|Shikigami-shi}}. 
+
+== Description ==
+Shikigami conjuration is considered to be a type of [[Cursed Technique|cursed technique]]. Like [[Cursed Technique#Barrier Techniques|barrier techniques]], sorcerers who do not possess enough intrinsic talent for their own [[Innate Technique|innate technique]] can summon simple shikigami.{{Ref|chap=12|page=14}}   
+
+Shikigami themselves are familiars incarnated by their summoner's [[Cursed Energy|cursed energy]]. Summoning shikigami normally requires an intermediary, such as a common talisman.{{Ref|chap=9|page=12}}{{Ref|chap=68|page=6}} They are generally used to carry out an order in accordance with their conjurer's instructions, and they disappear when the user's technique is released or they are incapacitated.
+
+== Usage ==
+[[File:Junpei's shikigami is formed (Anime).png|thumb|220px|left|Junpei generating a shikigami with a poison cursed technique.]] 
+Jujutsu High faculty managers such as [[Kiyotaka Ijichi]] can use shikigami to support stronger sorcerers.{{Ref|vol=2|page=26}} 
+
+[[Megumi Fushiguro]] possesses the [[Ten Shadows Technique]] of the Zenin Family, which allows him to collect and summon up to ten different shikigami using his shadows as an intermediary.{{Ref|chap=43|page=5}} However, the shikigami of the Ten Shadows Technique operate differently than a sorcerer's simple shikigami. 
+
+[[Junpei Yoshino]], a newly realized sorcerer was able to use a cursed technique that could summon shikigami with poison made from cursed energy, a skill Mahito claims would take other sorcerers years to learn.{{Ref|chap=26|page=9}} 
+
+[[File:Dagon summoning shikigami.png|thumb|220px|Dagon spawning man-eating fish shikigami from his body.]]
+Shikigami users are often thought of to be weaker at close range. Sukuna was surprised when Megumi, a fighter who employs shikigami, was comfortable fighting hand to hand.{{Ref|chap=9|page=5}} While training Yuji, Satoru advised him to always target the conjurer themselves should he fight a shikigami user.{{Ref|chap=26|page=13}} [[Noritoshi Kamo]] also mentioned to Megumi that a shikigami user who can hold his own in close combat is valuable.{{Ref|chap=44|page=3}}  
+
+An elderly [[Curse User|curse user]] used a shikigami to aid him in the [[Suguru Geto vs. Shikigami Curse User|battle]] against [[Suguru Geto]], who used the functionally similar [[Cursed Spirit Manipulation|curse manipulation]]. He also believed that shikigami users could be exploited in close combat.{{Ref|chap=68|page=7}}
+
+The [[Grade|special grade]] cursed spirit [[Dagon]] possessed the ability to spawn shikigami from his body. Enhanced by his domain's guaranteed hit function, his shikigami could appear and instantly tear the flesh from his adversaries. They appear so quickly because the man-eating fish don't exist until they hit. Dagon's Technique Release: [[Death Swarm]] is an endless stream of shikigami that never slows down and relentlessly devours the target.{{Ref|chap=108|pages=2-3, 6-12}}
+
+== List of Known Shikigami ==
+{{Shikigami}}
+
+==References==
+{{Scroll box|
+&lt;references/&gt;
+}}
+
+== Navigation ==
+{{Techniques Navibox}}
+
+[[Category:Shikigami]]
+[[Category:Terminology]]
+[[fr:Familiers]]</text>
+      <sha1>7bta35cs3nfij01hxrizt67tf79i5xx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cursed Human</title>
+    <ns>0</ns>
+    <id>3372</id>
+    <revision>
+      <id>43627</id>
+      <parentid>43626</parentid>
+      <timestamp>2022-09-23T22:23:58Z</timestamp>
+      <contributor>
+        <username>Young Mako</username>
+        <id>1706203</id>
+      </contributor>
+      <origin>43627</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2385" sha1="aclt2ier8s33fxm8hvd6bpcjx5jty6m" xml:space="preserve">{{Simple Box
+|name = Cursed Human 
+|image = 
+&lt;gallery&gt;
+Cursed Human (Anime).png|Anime
+Cursed Victim.png|Manga
+&lt;/gallery&gt;
+|kanji = 呪者
+|romaji = Jusha
+|debut = [[Chapter 0-1]]&lt;br&gt;[[Chapter 6]]
+|debutanime = [[Episode 4]]
+}}
+{{Nihongo|'''Cursed Humans'''|{{Ruby|呪|じゅ}}{{Ruby|者|しゃ}}|Jusha}} are people who have been afflicted with a curse. This includes those who have been killed by a curse or those still living while being haunted by a [[Cursed Spirit|cursed spirit]]. 
+
+== Description ==
+[[File:Bakery girl cursed (Anime).png|thumb|220px|left|A young woman unknowingly cursed by a [[Fly Heads|Fly Head]].]]
+Cursed Humans are generally non-sorcerers who have been cursed, whether it be by a cursed spirit or a [[Curse User|curse user]] using [[Jujutsu|jujutsu]]. 
+
+Non-sorcerers who have been cursed and can't see the curse will notice strange unexplainable symptoms that are affecting their body. For example, a curse can alter someone's dreams or hold onto their body, creating an uncomfortable weight they can't get rid of. [[Suguru Geto]] founded a religious organization dedicated to attracting these kinds of victims. It allowed Suguru to collect cursed spirits from them while appearing to alleviate symptoms as a spiritual priest.{{Ref|vol=0|page=105-107}} 
+
+[[File:Everyone notices Yuta is cursed (Anime).png|thumb|220px|left|Yuta's overwhelming presence as someone whose been cursed.]]
+When multiple humans are killed by curses under paranormal circumstances, the news often reaches Jujutsu High. Sorcerers are sent to investigate and evaluate the curse's strength. Its [[Grade|grade]] level can increase depending on the number of Cursed Humans involved.{{Ref|chap=56|page=13}} 
+
+In [[Yuta Okkotsu]]'s unique case, it was initially believed he was cursed by his childhood friend turned vengeful cursed spirit [[Rika Orimoto]]. Due to her immense power, he was registered as a Special Grade Cursed Human. [[Maki Zenin]] pointed out to him that Tokyo Jujutsu High is a place to learn to exorcise curses, not somewhere for people who are cursed. However, [[Satoru Gojo]] believed Yuta could use Rika's power to exorcise other curses, since she protects him rather than harms him.{{Ref|vol=0|page=21}}
+
+== List of Cursed Humans ==
+{{Cursed Victims}}
+
+== References ==
+&lt;references/&gt;
+
+== Navigation ==
+{{Techniques Navibox}}
+
+[[Category:Terminology]]
+[[fr:Maudits]]</text>
+      <sha1>aclt2ier8s33fxm8hvd6bpcjx5jty6m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cursed Technique</title>
+    <ns>0</ns>
+    <id>1055</id>
+    <revision>
+      <id>45029</id>
+      <parentid>45028</parentid>
+      <timestamp>2022-12-09T05:32:48Z</timestamp>
+      <contributor>
+        <username>Young Mako</username>
+        <id>1706203</id>
+      </contributor>
+      <minor/>
+      <comment>Leave these terms in lower case.</comment>
+      <origin>45029</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6584" sha1="pcsevci7ss2k8kl60ylkt1242k2fpdp" xml:space="preserve">{{Technique Infobox
+|name = Cursed Technique 
+|image = &lt;gallery&gt;
+True Jujutsu (Anime).png|Anime
+True Jujutsu Sorcery.png|Manga
+&lt;/gallery&gt;
+|kanji = 呪術式
+|romaji = Jujutsushiki
+|user = [[Jujutsu Sorcerer|Sorcerers]]&lt;br&gt;
+[[Cursed Spirit]]s
+|type = [[Jujutsu]] 
+|debut = [[Chapter 1]]
+|anime debut = [[Episode 1]]
+}}
+{{Nihongo|'''Cursed Techniques'''|{{Ruby|呪|じゅ}}{{Ruby|術|じゅつ}}{{Ruby|式|しき}}|Jujutsushiki}}, commonly shortened to simply {{Nihongo|'''Techniques'''|{{Ruby|術|じゅつ}}{{Ruby|式|しき}}|Jutsushiki}}, are a form of advanced [[Jujutsu|jujutsu]] that grant the user specialized abilities. Different types include innate techniques, barrier techniques, [[Shikigami|shikigami]], and all jujutsu they encompass as well.
+
+==Description==
+If [[Cursed Energy|cursed energy]] is comparable to electricity, cursed techniques are home appliances that use cursed energy to fuel them. Cursed energy can be used as a blunt force, or to reinforce the body, but these applications are not considered cursed techniques. Instead, cursed techniques flow cursed energy into them to carry out a specific function, granting the user a special ability.{{Ref|chap=12|page=12-15}}
+
+==Innate Techniques==
+{{Nihongo|'''Innate Techniques'''|生得術式|Shōtoku Jutsushiki}} are intrinsic supernatural powers congenitally engraved into a sorcerer when they are born.{{Ref|name=c12p14|chap=12|page=14}} They generally manifest around the age of five or six{{Ref|chap=79|page=2}} and are completely unique to the respective user. These techniques cannot be copied in most cases because they require innate talent to possess. For those who possess an innate technique, it is considered to be 80% of their skillset.{{Ref|name=c12p14|chap=12|page=14}} When someone refers to their own personal cursed technique, they're generally talking about their innate technique.{{Ref|chap=85|pages=9 &amp; 12}}{{Ref|vol=10|page=66}}
+
+Even among sorcerers, it is rare to possess enough intrinsic talent to be born with an innate technique. Those born with one can train theirs to be stronger even if it is considered to be weak once they first learn to use it.{{Ref|chap=98|page=14}}
+
+Generally, an individual only possesses a single innate technique. There are special cases where someone may possess more than one. [[Kenjaku]], who possesses an innate technique that allows him to switch bodies, can also use the technique of the person he's inhabiting. However, even Kenjaku can only possess a few innate techniques at one time. [[Yuta Okkotsu]] can only utilize numerous techniques because [[Rika]] serves as his external aid. Otherwise, too many innate techniques will overload the user's brain.{{Ref|chap=205|page=15}}
+----
+{{Innate Techniques}}
+&lt;br clear="all"/&gt;
+
+===Extension Techniques===
+{{Nihongo|'''Extension Techniques'''|{{Ruby|拡|かく}}{{Ruby|張|ちょぅ}}{{Ruby|術|じゅつ}}{{Ruby|式|しき}}|Kakuchō Jutsushiki}} are attacks, spells, or abilities derived from the user's innate technique (i.e.: "[[Collapse]]" is an extension technique of [[Kento Nanami]]'s [[Ratio Technique]].){{Ref|chap=23|page=14-15}} Innate techniques cannot be changed or altered, but they can be trained to maximize their applications into extension techniques.{{Ref|fan=Fanbook|page=143}}
+
+===Maximum Techniques===
+{{Nihongo|'''Maximum Techniques'''|{{Ruby|極|ごく}}{{Ruby|ノ|の}}{{Ruby|番|ばん}}{{Ruby|術|じゅつ}}{{Ruby|式|しき}}|Gokunoban Jutsushiki}} are an innate technique's most supreme art. (i.e.: "[[Maximum: Uzumaki]]" is the maximum technique of [[Suguru Geto]]'s [[Cursed Spirit Manipulation]].) They are the most powerful attacks a cursed technique can perform outside of Domain Expansion.{{Ref|chap=134|page=1}}
+
+{{Maximum Techniques}}
+&lt;br clear="all"/&gt;
+
+==Inherited Techniques==
+{{Nihongo|'''Inherited Techniques'''|相伝術式|Sōden Jutsushiki}} are innate techniques that can be passed down through the bloodlines of [[Sorcerer Family|sorcerer families]].{{Ref|chap=113|page=16}} These techniques are especially powerful even among cursed techniques. Cultivating and passing down these techniques is what allows sorcerer families to maintain their prosperity in the jujutsu community.{{Ref|chap=44|page=1}}
+
+Inherited Technique users have the advantage of being equipped with a manual on how to use them. However, passing down a technique through generations also presents the issue of other groups learning how the ability works, along with its shortcomings.{{Ref|chap=75|page=12}}
+----
+{{Inherited Techniques}}
+&lt;br clear="all"/&gt;
+
+==Barrier Techniques==
+{{Nihongo|'''Barrier Techniques'''|結界術式|Kekkai Jutsushiki}} are techniques that allow the user to erect and manipulate barrier walls. They can be used to conceal entire areas, shield the user, or trap opponents, among various other uses. Barrier techniques are the simplest and most common cursed technique, as they require no innate talent to utilize.{{Ref|name=c12p14}} Anyone with enough cursed energy can learn to erect barriers with enough training, such as non-combatant Jujutsu High managers.{{Ref|chap=6|page=5-6}}{{Ref|chap=55|page=18}}
+
+However, advanced barrier mechanics can be complex for even the most talented jujutsu practitioners. Many strong sorcerers with innate techniques can't perform barrier techniques.{{Ref|chap=86|page=13}} For example, creating a barrier is simple enough, but making it so only certain people can exit requires advanced skills.{{Ref|chap=129|page=17}}
+----
+{{Barrier Techniques}}
+&lt;br clear="all"/&gt;
+
+==Reverse Cursed Technique==
+:Main Article: ''[[Reverse Cursed Technique]]''
+
+Cursed energy stems from negative emotions and human bodies can't be regenerated by it. In order to generate positive energy, negative energy must be multiplied together. This can be achieved through a reverse cursed technique. Doing so is simple enough in theory but it requires extremely sophisticated cursed energy manipulation that most sorcerers can't pull off.{{Ref|chap=74|page=10-11}}
+
+==Shikigami==
+:Main Article: ''[[Shikigami]]''
+
+The ability to conjure {{Nihongo|'''Shikigami'''|式神|Shikigami}} is also considered to be a cursed technique. While some shikigami users may not have their own innate technique, their shikigami may possess special powers.{{Ref|chap=26|page=8}} Additionally, some innate techniques like the [[Ten Shadows Technique]] revolve around summoning shikigami.{{Ref|chap=43|page=5}}
+
+==References==
+{{Scroll box|
+&lt;references/&gt;
+}}
+
+==Navigation==
+{{Techniques Navibox}}
+
+[[Category:Cursed Techniques]]
+[[Category:Terminology]]
+[[fr:Sort]]</text>
+      <sha1>pcsevci7ss2k8kl60ylkt1242k2fpdp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Innate Domain</title>
+    <ns>0</ns>
+    <id>3447</id>
+    <revision>
+      <id>43371</id>
+      <parentid>26682</parentid>
+      <timestamp>2022-09-14T21:42:46Z</timestamp>
+      <contributor>
+        <username>Young Mako</username>
+        <id>1706203</id>
+      </contributor>
+      <minor/>
+      <origin>43371</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2565" sha1="6l49acs34nawr9ai62jf0540s6u1te4" xml:space="preserve">{{Technique Infobox
+|name = Innate Domain 
+|image = &lt;gallery&gt;
+Yuji inside Sukuna's Innate Domain (Anime).png|Anime
+Yuji inside Sukuna's Innate Domain.png|Manga
+&lt;/gallery&gt;
+|kanji = 生得領域
+|romaji = Shōtoku Ryōiki
+|type = [[Jujutsu]]
+|debut = [[Chapter 6]]
+|anime debut = [[Episode 4]]
+}}
+An {{Nihongo|'''Innate Domain'''|{{Ruby|生得領域|しょうとくりょういき}}|Shōtoku Ryōiki}}, normally referred to simply as a {{Nihongo|'''Domain'''|{{Ruby|領域|りょういき}}|Ryōiki}}, is an area created in the user's mind that are normally realized using [[Domain Expansion|domain expansion]] to construct the environment using [[Cursed Energy|cursed energy]].
+
+== Description == 
+[[File:Cursed Womb Domain (Anime).png|thumb|220px|left|An incomplete domain constructed with pure cursed energy and not any cursed techniques.]] 
+A domain is a metaphysical territory that exists within its creator's mind. 
+
+Sukuna's soul is able to exist independently within Yuji's body by residing within his Innate Domain. He said to think of it as if they were existing within his heart.{{Ref|chap=11|page=8}} 
+
+Domains can only be manifested by using large amounts of cursed energy. Doing so can change entire areas into the user's domain. However, domains created with pure cursed energy without a barrier technique or an innate technique imbued are considered to be unfinished. Powerful curses with high cursed energy without proper control over cursed techniques, such as [[Finger Bearer|finger bearer]]'s tend to generate domains like this.{{Ref|chap=6|page=8}}
+
+Some domains expanded with cursed energy can also be concealed by barriers. However, it's impossible to continuously expand a domain empowered with an innate technique. Domains protected by a barrier that exists continuously are also considered incomplete.{{Ref|chap=56|page=16}}
+
+== Domain Expansion ==
+:Main Aritcle: ''[[Domain Expansion]]''
+Domain Expansion is a barrier technique that constructs a real tangible environment using cursed energy that reflects the user's Innate Domain. Unlike unfinished Domains not constructed with a barrier technique or imbued with the user's innate technique, proper Domain Expansions increase the user's techniques and makes it so they cannot miss.{{Ref|chap=15|page=10}}  
+
+Sukuna's [[Malevolent Shrine]] is the only Domain Expansion that does not create a separate space by erecting a barrier.{{Ref|chap=119|page=2}}
+
+==References==
+&lt;references/&gt;
+
+== Navigation ==
+{{Techniques Navibox}}
+
+[[Category:Terminology]]
+[[Category:Jujutsu]]
+[[fr:Espace Vital]]</text>
+      <sha1>6l49acs34nawr9ai62jf0540s6u1te4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Domain Expansion</title>
+    <ns>0</ns>
+    <id>914</id>
+    <revision>
+      <id>45189</id>
+      <parentid>44888</parentid>
+      <timestamp>2022-12-24T11:21:25Z</timestamp>
+      <contributor>
+        <username>SalamanXyz</username>
+        <id>28913937</id>
+      </contributor>
+      <origin>45189</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6380" sha1="i58bet3q0uq1g16mlsertx3zcf96vh2" xml:space="preserve">{{Technique Infobox
+|name = Domain Expansion 
+|image = Malevolent Shrine's power.png
+|kanji = 領域展開
+|romaji = Ryōiki Tenkai
+|user ={{Scroll|
+*[[Sukuna]]
+*[[Jogo]]
+*[[Satoru Gojo]]
+*[[Hanami]]
+*[[Mahito]]
+*[[Megumi Fushiguro]]
+*[[Smallpox Deity]]
+*[[Dagon]]
+*[[Hiromi Higuruma]]
+*[[Takako Uro]]
+*[[Ryu Ishigori]]
+*[[Yuta Okkotsu]]
+*[[Kinji Hakari]]
+*[[Naoya Zenin|Cursed Naoya]]
+*[[Kenjaku]]
+*[[Yuki Tsukumo]]
+}}
+|type = [[Cursed Technique#Barrier Techniques|Barrier Technique]] 
+|derived ability=
+|derived item=
+|move range = Mid Range&lt;br&gt;Long Range
+|capabilities = Offense&lt;br&gt;Power-up
+|debut = [[Chapter 8]]
+|anime debut = [[Episode 4]] 
+}}
+{{Nihongo|'''Domain Expansion'''|{{Ruby|領|りょう}}{{Ruby|域|いき}}{{Ruby|展|てん}}{{Ruby|開|かい}}|Ryōiki Tenkai}} is an advanced [[Cursed Technique#Barrier Techniques|barrier technique]] that manifests the user's [[Innate Domain]] and traps their target inside it using a barrier wall to create a separate space. Once inside, the user's [[Cursed Technique|cursed techniques]] are improved and cannot be avoided.{{Ref|chap=30|page=2}}
+
+== Description ==
+[[File:Outside of Gojo's Domain (Anime).png|thumb|220px|left|A Domain Expansion's barrier viewed from the outside.]]
+Domain Expansion is the most supreme ability of any [[Jujutsu|jujutsu]] user. It allows them to realize their innate domain by casting a barrier to create a separate space and use [[Cursed Energy|cursed energy]] to construct an environment within it. The target is trapped within the barrier and the domain is completed once it fully embeds the user's innate cursed technique.{{Ref|chap=15|page=10-11}} A signature hand-sign or another sort of signal unique to the user is required to activate Domain Expansion.{{Ref|chap=15|pages=8, 14}}{{Ref|chap=190|page=6}}  
+
+=== Lethal Domains ===
+Complete domains that are constructed to be lethal require immense skill and a lot of cursed energy to create.{{Ref|chap=164|page=8}} The trade-off is they amplify the user's cursed techniques and any that are deployed are guaranteed to hit their target. A can't-miss attack used in a domain hits its target instantly and can't even be stopped by [[Satoru Gojo]]'s [[Limitless#Infinity|Infinity]].{{Ref|chap=15|page=11-12}} In the modern era of sorcery, using Domain Expansion is extremely rare and even most [[Grade|grade 1]] sorcerers are never able to use or master it.{{Ref|chap=30|page=2}} 
+
+Not all guaranteed hits aren't necessarily lethal. [[Kinji Hakari]]'s domain technically possesses a sure-hit function, but it only transfers information to its target in exchange for faster technique activation.{{Ref|chap=187|page=1}}  
+
+=== Non-Lethal Domains ===
+[[File:Old Domain Expansions.png|thumb|220px|Early domains merely enforced the rules of its cursed technique.]]
+In the past, Domain Expansion was a more common technique because domains weren't constructed to be fatal. They only forced targets inside to obey the rules of the embedded cursed technique. As more domains were constructed to be lethal, the number of users greatly decreased over time. Hiromi Higuruma's [[Deadly Sentencing]] is an example of an old-style, non-lethal domain that forces his opponent into a trial.{{Ref|chap=164|page=7-8}}
+
+=== Incomplete Domains ===
+Even after achieving the activation of domain expansion with a cursed technique, a domain can still be incomplete if the user is unable to fully form the barrier. The technique won't provide the guaranteed hit, but unlike improperly cast innate domains, the user's cursed techniques are still vastly improved.{{Ref|chap=58|page=14-16}} Barriers that are forcibly enclosed using the shape of another environment do not incorporate can't-miss attacks either. However, the user's target is effectively trapped and the imbued cursed technique is significantly powered up.{{Ref|chap=171|page=6}}
+
+== Drawbacks ==
+[[File:Takako Uro's technique burns out.png|thumb|220px|left|Cursed techniques become unstable after domain expansion.]]
+A high-risk, high-reward maneuver, Domain Expansion provides a great advantage at the cost of an immense amount of cursed energy. Satoru Gojo is considered to be one of the only individuals that can use domain expansion multiple times in one day.{{Ref|chap=109|page=13}} Kinji Hakari is only capable of casting it repeatedly after hitting his domain's jackpot to replenish cursed energy and stabilize his cursed technique.{{Ref|chap=186|page=19}} 
+
+Even if the barrier or the environment aren't fully formed, casting domain expansion will cause the user's innate technique to become unstable for a short time afterward. Attempting to use cursed techniques during this period will cause them to burn out and fail to activate.{{Ref|chap=130|page=9}}{{Ref|chap=179|page=11}}
+
+== Countermeasures ==
+[[File:Megumi opening a hole in Dagon's Domain.png|thumb|220px|Megumi creating a hole in Dagon's domain barrier rather than engaging in a tug of war.]] 
+The guaranteed hit factor of a Domain Expansion can be countered with a blast of cursed energy, but this method is an impractical application for most. Anti-domain barrier techniques are the only true defense against can't-miss attacks for those who cannot cast their own domain. Simple Domain and Hollow Wicker Basket neutralize the barrier imbued with the cursed technique to nullify the guaranteed hit.{{Ref|chap=171|page=5}} If possible, expanding one's own domain is the best countermeasure. This will engage both parties in a domain struggle where the more refined domain will reign supreme.{{Ref|chap=15|page=12-13}}{{Ref|chap=109|page=4-5}}  
+
+Escaping a domain surrounded by a barrier is almost impossible. However, the more the barrier is reinforced from the inside, the more vulnerable it is to penetration from the outside. In specific situations, an ally of the domain's target can break in to rescue them.{{Ref|chap=109|page=19}} 
+
+Domain Expansion struggles don't always have to result in one domain conquering the other. Using Domain Expansion against a more refined domain can create a hole in the barrier for them to escape from as well.{{Ref|chap=30|page=14}}{{Ref|chap=109|page=13}}
+
+== List of Domain Expansions ==
+{{Domain Expansions}}
+
+== References ==
+{{Scroll box|
+&lt;references/&gt;
+}}
+
+== Navigation ==
+{{Techniques Navibox}}
+
+[[fr:Extension du Territoire]]
+[[Category:Terminology]]
+[[Category:Barrier Techniques]]</text>
+      <sha1>i58bet3q0uq1g16mlsertx3zcf96vh2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Curse User</title>
+    <ns>0</ns>
+    <id>3491</id>
+    <revision>
+      <id>33721</id>
+      <parentid>33329</parentid>
+      <timestamp>2021-07-25T17:42:42Z</timestamp>
+      <contributor>
+        <username>Young Mako</username>
+        <id>1706203</id>
+      </contributor>
+      <minor/>
+      <origin>33721</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4911" sha1="hy0829w33frrl4l7xl3bdpkqsu5adgz" xml:space="preserve">{{Occupation Infobox
+|name = Curse User
+|image = Awasaka cursing people.png
+|kanji = 呪詛師
+|romaji = Jusoshi 
+|species = Human
+|ability = [[Jujutsu]]
+|manga = [[Chapter 0-2]]&lt;br/&gt;[[Chapter 10]]
+|anime = [[Episode 5]] 
+}}
+{{Nihongo|'''Curse Users'''|{{Ruby|呪|じゅ}}{{Ruby|詛|そ}}{{Ruby|師|し}}|Jusoshi}}{{Ref|chap=0-2|page=45}}{{Ref|vol=0|page=103}} are [[Jujutsu Sorcerer|sorcerers]] who use [[Jujutsu|jujutsu]] for evil and malicious deeds such as killing.{{Ref|chap=0-3|page=21}}
+
+Evil non-sorcerers who possess knowledge of jujutsu and are active in the curse user community are known as {{Nihongo|'''Non-Curse Users'''|{{Ruby|非|ひ}}{{Ruby|呪|じゅ}}{{Ruby|詛|そ}}{{Ruby|師|し}}|Hijusoshi}}.{{Ref|chap=66|page=8}} 
+
+== Overview ==
+[[File:Satoru Gojo changed everything for curse users.png|thumb|220px|left|Until Satoru Gojo, evil sorcerers could freely curse whomever they pleased.]] 
+A curse user is an evil human sorcerer who uses jujutsu with malintent.{{Ref|chap=21|page=11}} Naturally, they have existed as long as jujutsu sorcerers have, and were also prominent threats during the Heian Era alongside [[Cursed Spirit|cursed spirits]].{{Ref|chap=82|page=6}} 
+
+With the increasing number of curses in the modern age, being a professional jujutsu sorcerer is a demanding job, and not all those born with the talent for jujutsu use it to exorcise curses. Jujutsu High is always understaffed with jujutsu sorcerers and those they do have are always busy.{{Ref|chap=69|page=10-11}}{{Ref|chap=96|page=7}} 
+
+Before 1989, curse users could freely make money by operating in the underworld and doing any dark deed asked of them. Bounties are commonplace in the jujutsu underworld. These evil humans were able to live selfishly to their heart's content until Satoru Gojo was born. 
+
+[[File:Toji puts a bounty on Riko's head.png|thumb|220px|left|A bounty placed on a dark website for curse users.]]
+The threat of the [[Six Eyes]] was enough for a bounty of over a hundred thousand to be placed on the child's head. However, no one was ever able to claim it, and Satoru's overwhelming presence altered the balance of the jujutsu world. He stripped curse users of their freedom, keeping all evil forces in check.{{Ref|chap=96|page=7-12}}
+
+Curse users remain active even in the 21st century but they are not as nearly as open about their activities. Organized groups such as [[Q]] and the non-curse users of the [[Time Vessel Association]] act mostly in secret. 
+
+The Star Religious Group hired [[Toji Zenin]] to assassinate the [[Riko Amanai|Star Plasma Vessel]] while masquerading themselves as a religious order. Even the famous Sorcerer Killer was hesitant to confront Gojo directly. He used a dark website for curse users to enlist any curse user desperate enough to cash in on the bounty.{{Ref|chap=68|page=2-3}} 
+
+[[File:Suguru Geto meets with his commanders.png|thumb|220px|Suguru Geto assembling a group of elite curse users.]]
+The Time Vessel Association believed operating through non-curse users would make them untouchable by Jujutsu High.{{Ref|chap=74|page=4}} However, once their plans were exposed, the organization was unable to talk its way out of the situation and was forced to disband.{{Ref|chap=76|page=5}}. 
+
+[[Suguru Geto]], a former student of Tokyo Jujutsu High, was expelled from the school after murdering over a hundred civilians. In accordance with article nine of jujutsu regulations, he was branded a curse user.{{Ref|chap=77|page=21}} Within the next decade, Suguru took over the remains of the Time Vessel Association and established his own group of followers from which he could collect curses and other resources.{{Ref|chap=78|page=14}} By 2017 he was recognized as the worst curse user of all.{{Ref|chap=0-3|page=5}}
+
+[[File:Curse Users attacking the Kusakabe Team.png|thumb|220px|left|Curse user henchmen attacking Jujutsu High sorcerers.]] 
+Suguru aligned himself with several curse user commanders he considered his family. In a major curse user terrorist incident known as the [[Night Parade of a Hundred Demons]], Suguru's group attempted to introduce an era where non-sorcerers would be exterminated.{{Ref|chap=0-3|page=6-7}} They ultimately failed and the remnants of that group continue to realize Suguru's dream by aligning themselves with Mahito and the other highly intelligent cursed spirits.
+
+Along with Suguru's old commanders, several other independent curse users joined Mahito's faction in order to cooperate with a plan to seal Satoru Gojo. This would allow curse users to move freely again as well, and it would theoretically plunge the world into a state that's unfavorable for non-sorcerers.{{Ref|chap=114|page=8-10}}
+
+== List of Curse Users ==
+{{Curse Users Gallery}}
+
+== References ==
+{{Scroll box|
+&lt;references/&gt;
+}}
+
+== Navigation ==
+{{Techniques Navibox}}
+
+[[Category:Terminology]]
+[[Category:Curse Users]]
+[[fr:Maîtres des Fléaux]]</text>
+      <sha1>hy0829w33frrl4l7xl3bdpkqsu5adgz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Six Eyes</title>
+    <ns>0</ns>
+    <id>1315</id>
+    <revision>
+      <id>44290</id>
+      <parentid>44289</parentid>
+      <timestamp>2022-09-30T19:31:39Z</timestamp>
+      <contributor>
+        <username>Young Mako</username>
+        <id>1706203</id>
+      </contributor>
+      <minor/>
+      <origin>44290</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5459" sha1="cb397b4tlwlg8oea1vjcvvfg6qrdgi9" xml:space="preserve">{{Technique Infobox
+|name = Six Eyes
+|image = &lt;gallery&gt;
+Six Eyes.png
+&lt;/gallery&gt;
+|kanji = 六眼
+|romaji = Rikugan
+|user = [[Sorcerer Family#Gojo Family|Gojo Family]]
+*[[Satoru Gojo]]
+|type = [[Jujutsu]]
+|capabilities = Support 
+|debut = [[Chapter 15]]
+|anime debut = [[Episode 7]]
+}}
+The {{Nihongo|'''Six Eyes'''|{{Ruby|六|りく}}{{Ruby|眼|がん}}|Rikugan}} is a rare ocular jujutsu inherited within the [[Sorcerer Family#Gojo Family|Gojo Family]]. It grants the user extraordinary perception and the ability to utilize the [[Limitless]] to its fullest potential. [[Satoru Gojo]] is the first [[Jujutsu Sorcerer|sorcerer]] to be born with both the Limitless and the Six Eyes in the last hundred years.{{Ref|chap=68|page=2}}
+
+== History ==
+The Six Eyes were always bound to [[Tengen|Master Tengen]] and the Star Plasma Vessel by fate. At some point in the past, [[Kenjaku]] was defeated by two different users of the Six Eyes. After his second defeat, Kenjaku didn't take any chances and killed another Six Eyes user a month after they were born. Despite Kenjaku doing the same to the Star Plasma Vessel, the Six Eyes reappeared within a new user alongside a new Star Plasma Vessel on the day of the merger. 
+
+This connection was severed by Toji Fushiguro, a man who escaped cursed energy through [[Heavenly Restriction]] and destroyed all of their destinies. This inevitably lead to the current user of the Six Eyes getting sealed by Kenjaku.{{Ref|chap=145|page=9-10}}
+
+== Overview ==
+[[File:Miguel recognizes the Six Eyes (Anime).png|thumb|220px|left|Satoru revealing just one of his eyes.]]
+While any member of the Gojo family can inherit the Limitless, only those who also possess the Six Eyes can truly master the technique's power.{{Ref|vol=2|page=188}} No two bearers of the Six Eyes can exist at the same time.{{Ref|chap=145|page=9}}
+
+[[File:Satoru Gojo surveying the battlefield (Anime).png|thumb|220px|Satoru using the Six Eyes to quickly survey a vast area.]]
+The Six Eyes provides the user with vast perception and immense brain processing power, allowing them to precisely manipulate the sophisticated powers of the Limitless down to an atomic level. Each of the Limitless techniques requires this type of complex [[Cursed Energy|cursed energy]] manipulation, making the pairing of the Six Eyes crucial to utilizing the Limitless' [[Cursed Technique|cursed techniques]] to their maximum potential.{{Ref|chap=0-4|page=16-17}} 
+
+The Six Eyes processes the user's cursed energy incredibly efficiently. So much so that the amount of cursed energy lost when the user activates a cursed technique is infinitesimally close to zero. Due to this, a proper Six Eyes user will never run out of cursed energy.{{Ref|chap=140|page=16}} 
+
+[[File:Satoru Gojo's three years of memories with Suguru.png|thumb|220px|left|Satoru's Six Eyes rejecting the possibility of Suguru Geto being alive.]] 
+The mental prowess of the Six Eyes can turn one moment in reality into well over a minute's worth of time within the user's brain.{{Ref|chap=90|page=10-11}} This works well in tandem with the users enhanced sight, allowing them to analyze and calculate the positions of everything within view instantly. A sorcerer who possesses the Six Eyes can see things for several kilometers away, easily able to distinctly tell apart different figures within their vast range.{{Ref|chap=52|page=10-11}}{{Ref|chap=70|page=9}}{{Ref|chap=52|page=14}}
+
+The Six Eyes allows the user to see cursed energy in extreme detail. As such the user of the Six Eyes is able to see the flow of cursed energy {{Ref|chap=52|page=12}}, which in turn allows them to read another person's cursed techniques as well.{{Ref|chap=69|page=15-16}} Additionally, the Six Eyes can differentiate between different types of cursed energy{{Ref|chap=71|page=18}} and help the user identify a person based on it.{{Ref|chap=90|page=15}}
+
+[[File:Gojo reveals his Six Eyes (Anime).png|thumb|220px|Satoru revealing his Six Eyes to activate [[Unlimited Void]].]] 
+The Six Eyes can be used to set the Limitless' Infinity ability to automatic. This allows the user to instantly read an incoming projectile danger using it's mass, speed, and shape among other factors. By simultaneously using the Six Eyes to calculate a [[Reverse Cursed Technique|reverse cursed technique]] automatically, the user can also keep their brain fresh at all times.{{Ref|chap=76|page=8-10}} However even with the use of a reverse cursed technique, the Six Eyes will tire out its user a bit more easily unless the eyes are covered.
+
+The Six-Eyes allow the user's eyes to function like a high resolution camera even blindfolded. So in the long term, the user has to cover their eyes with a blindfold, dark sunglasses, or bandage wraps among other things to reduce its drawbacks. For example, Gojo's sunglasses are too dark for a normal person to see.{{Ref|''Jujutsu Kaisen'' Official Fanbook}} Objects that lack cursed energy can be discerned through the blindfold by reading the residuals and flow of the cursed energy surrounding them. However, in order to utilize advanced Limitless techniques such as Hollow Purple and [[Unlimited Void]], the Six Eyes needs to be fully uninhibited, allowing the user access to their full power.{{Ref|chap=15|page=13-15}}{{Ref|chap=52|page=14-17}}
+
+== References ==
+{{Scroll box|
+&lt;references/&gt;
+}}
+
+== Navigation ==
+{{Techniques Navibox}}
+
+[[Category:Terminology]]
+[[Category:Jujutsu]]
+[[fr:Sixième Œil]]</text>
+      <sha1>cb397b4tlwlg8oea1vjcvvfg6qrdgi9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sorcerer Family</title>
+    <ns>0</ns>
+    <id>1059</id>
+    <revision>
+      <id>42360</id>
+      <parentid>42359</parentid>
+      <timestamp>2022-07-20T22:28:44Z</timestamp>
+      <contributor>
+        <username>Young Mako</username>
+        <id>1706203</id>
+      </contributor>
+      <minor/>
+      <origin>42360</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="11269" sha1="pp6anb4xi4xsox39pzljp0s4a9rti7s" xml:space="preserve">
+{{Tabs
+|tab1 = Sorcerer Family
+|tab2 = Zenin Family  
+}}
+{{Organizations Infobox
+|name = Sorcerer Families
+|image = &lt;gallery&gt;
+Sorcerer Family Tree (Anime).png|Anime
+Sorcerer Family Tree.png|Manga
+&lt;/gallery&gt;
+|kanji = 術師家
+|romaji = Jutsushi Ke
+|other = Sorcerer Clans
+|occupation = [[Jujutsu Sorcerer]]s
+|affiliation =
+|debut = [[Chapter 0-1]]
+|animedebut = 
+}}
+{{Nihongo|'''Sorcerer Families'''|{{Ruby|術師|じゅつし}}{{Ruby|家|け}}|Jutsushi Ke}} are clans of [[Jujutsu Sorcerer|jujutsu sorcerers]] where the majority of members can utilize [[jujutsu]]. Sorcerer Families are prominent figures in the jujutsu world, especially the {{Nihongo|'''Big Three Sorcerer Families'''|{{Ruby|御三家|ごさんけ|}}|Gosanke}}, who hold the most prestige and influence.
+
+== Overview ==
+The three great sorcerer families of the jujutsu world are the '''Zenin Family''', the '''Gojo Family''', and the '''Kamo Family'''. They appear to descend from the {{Nihongo|'''Big Three Vengeful Spirits'''|日本三大怨霊|Nippon San Dai Onryō}} of Japan,{{Ref|name=ch0-4|chap=0-4|page=43}} each of whom were powerful sorcerers of the Heian Era,&lt;ref&gt;[[wikipedia:ja:菅原道真|Three Great Vengeful Spirits of Japan (Real Life Article)]]&lt;/ref&gt;&lt;ref&gt;[[wikipedia:ja:日本三大怨霊|Michizane Sugawara (Real Life Article)]]&lt;/ref&gt; the height of jujutsu sorcery.{{Ref|chap=82|page=6}} Due to this and the powerful [[Cursed Technique|cursed techniques]] passed down through their clans, the Big Three Sorcerer Families have gained great political prominence in jujutsu society.
+
+Each of the big three sorcerer families has information on the other, and the word gets out on their [[Inherited Technique|inherited techniques]].{{Ref|chap=75|page=12-13}} There is a struggle for dominance between the three families, as well as genuine bad blood. The Zenin Family and Gojo Family heads clashed at one point in the past and killed one another, starting what would become a feud between the two families.{{Ref|chap=117|page=5-6}} The prior head of the Zenin Family, [[Naobito Zenin]], has stated he wouldn't mind the Gojo Family going out of power despite [[Satoru Gojo]] being the deterrent from curses taking over Japan.{{Ref|name=c106|chap=106|page=8}} 
+
+There are various other sorcerer families as well, such as the Inumaki Family. They possess an inherited technique as well and while not as respected on the same level as the big three families, they are still well recognized by sorcerers.{{Ref|name=c0-3p15|chap=0-3|page=15}} 
+
+The Zenin Family and Kamo Family especially value blood ties and the ability to use inherited techniques above all else. The Zenin Family are known to reject those without quality cursed techniques and in certain circumstances, such as with Megumi, are willing to pay to introduce those with inherited techniques back into the clan.{{Ref|name=c79|chap=79|page=2}}{{Ref|name=c113|chap=113|page=16}} Despite being an illegitimate son, the Kamo Family reluctantly raised up [[Noritoshi Kamo]] to be the next head of the clan because he possesses the inherited technique.{{Ref|name=c44p1|chap=44|page=1|ep=18}}
+
+== Big Three Sorcerer Families == 
+&lt;div style="border: 1px solid #ED0000; position:top-absolute; margin-top:32.5px; padding:5px 5px 5px 5px; margin-bottom:10px; width=100%"&gt;{{head1|Gojo Family}}
+{|width="100%" style="border:1px #ED0000; overflow:hidden; align=center; text-align:center;" border="1"
+!style="margin:auto; text-align:center; background:#ED0000"|{{Color|White|'''Description'''}}
+|-
+|The {{Nihongo|'''Gojo Family'''|{{Ruby|五|ご}}{{Ruby|条|じょう}}{{Ruby|家|け}}|Gojō Ke}} descends from '''[[Michizane Sugawara]]''', a legendary jujutsu sorcerer from the Heian Era who became one of the Three Great Vengeful Spirits of Japan after death.{{Ref|name=ch0-4}} Currently, the Gojo Family is just the one-man presence of Satoru Gojo, the world's strongest sorcerer. Their primary inherited technique is the [[Limitless]] along with the [[Six Eyes]], the most powerful jujutsu in history. Thanks to Satoru's prowess the Gojo Family currently sits atop the jujutsu hierarchy and maintains the balance of power. This allows Satoru to act selfishly and impose his political power to save sorcerers like [[Yuji Itadori]] and [[Yuta Okkotsu]] against the wishes of more conservative sorcerers from the other families.{{Ref|chap=93|page=15}}
+|-
+!style="margin:auto; text-align:center; background:#ED0000"|{{Color|White|'''Known Members'''}}
+|}
+{| width="auto" cellspacing="1" align="center"
+|{{CharPortal|image=GojoP.png|articlename=Satoru Gojo|name=Satoru Gojo|border=1}}
+|}
+&lt;br clear="all"/ &gt;
+{{head1|Zenin Family}}
+{|width="100%" style="border:1px #ED0000; overflow:hidden; align=center; text-align:center;" border="1"
+!style="margin:auto; text-align:center; background:#ED0000"|{{Color|White|'''Description'''}}
+|-
+|The {{Nihongo|'''Zenin Family'''|{{Ruby|禪|ぜん}}{{Ruby|院|いん}}{{Ruby|家|け}}|Zen'in Ke}} embodies all the noble values of a major clan. They believe powerful cursed techniques are more important than anything else{{Ref|chap=79|page=2}}, even willing to reject members of the family if they don't possess them. The problematic ideals of the clan were upheld by Naobito Zenin, the head of the family for some time prior to the end 2018. He maintained a poor relationship with the Gojo Family{{Ref|name=c106}} and openly ostracized Maki and Mai for not being strong enough as female sorcerers.{{Ref|chap=41|page=5|ep=17}} 
+
+This was the state of the clan until Naobito's death, which resulted in a major shake-up. Due to the circumstances surrounding Satoru Gojo's sealing, Megumi was named the next head instead of Naobito's son Naoya. Currently, the family is locked in a struggle for political power between Megumi and Maki who want a progressive future where someone like Mai can belong, and the traditionalist members who want to hang on to the clan's fortune. 
+|-
+!style="margin:auto; text-align:center; background:#ED0000"|{{Color|White|'''Known Members'''}}
+|}
+{| width="auto" cellspacing="1" align="center"
+|{{CharPortal|image=NaobitoZeninP.png|articlename=Naobito Zenin|name=Naobito Zenin|border=1}}
+|{{CharPortal|image=NaoyaZeninP.png|articlename=Naoya Zenin|name=Naoya Zenin|border=2}}
+|{{CharPortal|image=OgiZeninP.png|articlename=Ogi Zenin|name=Ogi Zenin|border=3}}
+|-
+|{{CharPortal|image=RantaZeninP.png|articlename=Ranta Zenin|name=Ranta Zenin|border=2}}
+|{{CharPortal|image=JinichiZeninP.png|articlename=Jinichi Zenin|name=Jinichi Zenin|border=5}}
+|{{CharPortal|image=ChojuroZeninP.png|articlename=Chojuro Zenin|name=Chojuro Zenin|border=6}}
+|}
+{| width="auto" cellspacing="1" align="center"
+|{{CharPortal|image=MaiP.png|articlename=Mai Zenin|name=Mai Zenin|border=3}}
+|{{CharPortal|image=NobuakiZeninP.png|articlename=Nobuaki Zenin|name=Nobuaki Zenin|border=4}}
+|}
+{|width="100%" style="border:1px #ED0000; overflow:hidden; align=center; text-align:center;" border="1"
+!style="margin:auto; text-align:center; background:#ED0000"|{{Color|White|'''Former Members'''}}
+|}
+{| width="auto" cellspacing="1" align="center"
+|{{CharPortal|image=TojiFushiguroP.png|articlename=Toji Fushiguro|name=Toji Fushiguro|border=6}}
+|{{CharPortal|image=MegumiP.png|articlename=Megumi Fushiguro|name=Megumi Fushiguro|border=7}}
+|{{CharPortal|image=MakiP.png|articlename=Maki Zenin|name=Maki Zenin|border=1}}
+|}
+
+&lt;br clear="all"/ &gt;
+{{head1|Kamo Family}}
+{|width="100%" style="border:1px #ED0000; overflow:hidden; align=center; text-align:center;" border="1"
+!style="margin:auto; text-align:center; background:#ED0000"|{{Color|White|'''Description'''}}
+|-
+|The {{Nihongo|'''Kamo Family'''|{{Ruby|加|か}}{{Ruby|茂|も}}{{Ruby|家|け}}|Kamo Ke}} values blood ties immeasurably, but like the Zenin Family, inheriting their passed down technique is first priority. Noritoshi Kamo was born to a mistress mother, who was mistreated and never accepted by any member of the family. However, Noritoshi was born with the inherited technique of the family: [[Blood Manipulation]]. An ability praised for its overall balance and its perfectly suited to people who value blood. The true wife of the head of the family could not bear a son that inherited the technique, so Noritoshi was chosen to become the heir.{{Ref|name=c44p1}}{{Ref|chap=43|page=4|ep=18}} In order to protect his mother, Noritoshi feels pressured to behave in a way befitting of the clan.{{Ref|chap=44|page=4|ep=18}} 
+
+The Kamo Family is also responsible for the biggest blight on the Big Three Sorcerer Families. Recognized as the evilest sorcerer in history, [[Noritoshi Kamo (Ancestor)|Noritoshi Kamo]] of a past era performed experimentations on humans and [[Cursed Spirit|cursed spirits]] that essentially resulted in the [[Cursed Womb: Death Painting]]s. His own blood was added to the mixed DNA of the original parents of the Death Paintings. When numbers 1-3 were incarnated, they possessed the innate techniques that revolved around using their own blood.{{Ref|chap=60|page=14|ep=24}} [[Choso]] in particular was inherited Blood Manipulation itself and is superior in using it compared to Noritoshi the student.{{Ref|chap=135|page=3}}
+|-
+!style="margin:auto; text-align:center; background:#ED0000"|{{Color|White|'''Known Members'''}}
+|}
+{| width="auto" cellspacing="1" align="center"
+|{{CharPortal|image=NoritoshiKamoP.png|articlename=Noritoshi Kamo|name=Noritoshi Kamo|border=1}}
+|{{CharPortal|image=NoritoshiKamoAP.png|articlename=Noritoshi Kamo (Ancestor)|name=Noritoshi Kamo|border=2}}
+|{{CharPortal|image=ShinoKamoP.png|articlename=Shino Kamo|name=Shino Kamo|border=3}}
+|}
+&lt;/div&gt;
+
+== Other Sorcerer Families ==
+&lt;div style="border: 1px solid #ED0000; position:top-absolute; margin-top:32.5px; padding:5px 5px 5px 5px; margin-bottom:10px; width=100%"&gt;{{head1|Inumaki Family}}
+{|width="100%" style="border:1px #ED0000; overflow:hidden; align=center; text-align:center;" border="1"
+!style="margin:auto; text-align:center; background:#ED0000"|{{Color|White|'''Description'''}}
+|-
+|The {{Nihongo|'''Inumaki Family'''|{{Ruby|狗|いぬ}}{{Ruby|巻|まき}}{{Ruby|家|け}}|Inumaki Ke}} is one of many minor sorcerer families. Despite not being considered a major clan, the Inumaki's inherited technique: [[Cursed Speech|cursed speech]] is well respected. Its recognized by the Inumaki Family sigil, the "Snake Eyes and Fangs" emblems born around the mouth of a cursed speech user.{{Ref|name=c0-3p15}}
+
+As a first-year student, Toge Inumaki was the highest-ranking at grade 2 (before Yuta Okkotsu joined the class). He was allowed to take on solo missions and the inherited technique was considered strong enough to deal with most instances.{{Ref|chap=0-2|page=13}} As a second-year, Toge is well respected among all his peers, even the Kyoto students who fear him the most out of any of the Tokyo Team during the Goodwill Event.{{Ref|chap=41|page=3-4|ep=17}} 
+|-
+!style="margin:auto; text-align:center; background:#ED0000"|{{Color|White|'''Members'''}}
+|}
+{| width="auto" cellspacing="1" align="center"
+|{{CharPortal|image=TogeP.png|articlename=Toge Inumaki|name=Toge Inumaki|border=1}}
+|}
+&lt;/div&gt;
+
+== References ==
+{{Scroll box|
+&lt;references/&gt;
+}}
+
+== Navigation ==
+{{Techniques Navibox}}
+
+[[Category:Terminology]]
+[[fr:Clans d'Exorcistes]]</text>
+      <sha1>pp6anb4xi4xsox39pzljp0s4a9rti7s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Grade</title>
+    <ns>0</ns>
+    <id>3817</id>
+    <revision>
+      <id>42760</id>
+      <parentid>39955</parentid>
+      <timestamp>2022-08-12T11:28:37Z</timestamp>
+      <contributor>
+        <username>SalamanXyz</username>
+        <id>28913937</id>
+      </contributor>
+      <origin>42760</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4555" sha1="qe4zmjjomgg7f1z6s1gapnfqzrgu3do" xml:space="preserve">{{Simple Box
+|name = Grade
+|image = &lt;gallery&gt;
+Grades (Anime).png|Anime
+Grades.png|Manga
+&lt;/gallery&gt;
+|kanji = 級
+|romaji = Kyū
+|debut = [[Chapter 6]]
+|debutanime = [[Episode 4]]
+}}
+A {{Nihongo|'''Grade'''|{{Ruby|級|きゅう}}|Kyū}} refers to the power scaling system that ranks [[Jujutsu|jujutsu]] ranging from grades one to four, and special grade. It is used to categorize the strength of [[Jujutsu Sorcerer|jujutsu sorcerer]]s{{Ref|name=ch0-1|chap=0-1|page=32}}, [[Cursed Spirit|cursed spirit]]s, [[Cursed Object|cursed object]]s and [[Cursed Tool|cursed tool]]s. 
+
+== Description ==
+[[Tokyo Metropolitan Curse Technical College|Jujutsu High]] assigns their sorcerer's grades to assess their skill level ascending from Grade 4 to Grade 1. Students generally start at Grade 4 upon joining the school, but this depends on experience.{{Ref|name=ch0-1}} 
+
+Cursed spirits are ranked on a similar scale but not exact. The higher-ups can be particular when it comes to ranking cursed spirits. The distinct difference between a grade 2 and a semi-grade 1 curse is whether or not it is capable of using cursed techniques.{{Ref|vol=11|page=130}} Jujutsu sorcerers are expected to take on missions involving curses of the same level. A Grade 2 sorcerer should be able to defeat a Grade 2 curse because their skill level is closer to the strength of a Grade 1 curse.{{Ref|chap=21|page=17}} 
+
+Cursed tools are also categorized from grades 1 to 4 based on power and potency. The higher the grade, the greater advantage they provide in battle.{{Ref|chap=47|page=1}} All Special Grade cursed tools except for [[Playful Cloud]] are imbued with a [[Cursed Technique|cursed technique]].{{Ref|chap=110|page=13}} 
+
+Cursed objects are also classified according to the grade of the curse they contain. After a cursed object used for incarnation, the incarnated individual has same grade as the cursed object.
+
+=== Ranks === 
+Following rankings are used to classify jujutsu sorcerers, cursed spirits, cursed tools and cursed objects in general:
+*{{Nihongo|'''Grade 4'''|{{Ruby|四|よん}}{{Ruby|級|きゅう}}|Yonkyū}}
+*{{Nihongo|'''Grade 3'''|{{Ruby|三|さん}}{{Ruby|級|きゅう}}|Sankyū}}
+*{{Nihongo|'''Semi-Grade 2'''|{{Ruby|準|じゅん}}{{Ruby|二|に}}{{Ruby|級|きゅう}}|Jun Nikyū}}
+*{{Nihongo|'''Grade 2'''|{{Ruby|二|に}}{{Ruby|級|きゅう}}|Nikyū}} 
+*{{Nihongo|'''Semi-Grade 1'''|{{Ruby|準|じゅん}}{{Ruby|一|いっ}}{{Ruby|級|きゅう}}|Jun Ikkyū}}
+*{{Nihongo|'''Grade 1'''|{{Ruby|一|いっ}}{{Ruby|級|きゅう}}|Ikkyū}} 
+*{{Nihongo|'''Special Grade 1'''|{{Ruby|特|とく}}{{Ruby|別|べつ}}{{Ruby|一|いっ}}{{Ruby|級|きゅう}}|Tokubetsu Ikkyū}}
+*{{Nihongo|'''Special Grade'''|{{Ruby|特|とっ}}{{Ruby|級|きゅう}}|Tokkyū}} 
+
+If traditional weapons were used against curses and sorcerers measured their effectiveness as a gauge:
+*'''Grade 4''' - "A wooden bat is enough."
+*'''Grade 3''' - "If you have a handgun, you can rest easy."
+*'''Grade 2''' - "Close call with a shotgun."
+*'''Grade 1''' - "Even a tank might be insufficient."
+*'''Special Grade''' - "Cluster bombs ''might'' work".{{Ref|chap=6|page=2}}
+
+=== Promotions ===
+Jujutsu sorcerers can be promoted up in rank by receiving a recommendation from a sorcerer of a higher rank. The higher the rank, the more a sorcerer is paid for the more dangerous jobs that come with it. When it comes to students, their teachers are not permitted to submit a recommendation for their promotion.{{Ref|chap=26|page=2}}{{Ref|chap=36|page=16}} 
+
+A sorcerer submits a request for promotion based on their recommendation to one of the jujutsu higher-ups, such as Kyoto school Principal [[Yoshinobu Gakuganji|Gakuganji]].{{Ref|chap=63|page=20-21}} 
+
+When it comes to being promoted to Grade 1, upon receiving recommendations from two or more sorcerers of that rank, the nominee will accompany a sorcerer of that level on several missions. The one who accompanies the nominee can't be the same person who put in the recommendation. If they perform well on these missions, the nominee will be granted a Semi-Grade 1 rank and be assigned a mission to exorcise a Grade 1 alone. Based on the outcome of that, the decision to permit or deny Grade 1 status will be decided.{{Ref|chap=64|page=1-4}}
+
+== Grade Registry ==
+&lt;div class="latest"&gt;
+&lt;tabber&gt;
+|-|Sorcerers = {{Sorcerer Grades}}
+|-|Cursed Spirits = {{Cursed Spirit Grades}}
+&lt;/tabber&gt;
+&lt;/div&gt;
+
+== References ==
+{{Scroll box|
+&lt;references/&gt;
+}}
+
+== Navigation ==
+{{Techniques Navibox}}
+
+[[Category:Terminology]]
+
+[[fr:Classe]]
+[[ja:級]]</text>
+      <sha1>qe4zmjjomgg7f1z6s1gapnfqzrgu3do</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hand-to-Hand Combat</title>
+    <ns>0</ns>
+    <id>5096</id>
+    <revision>
+      <id>45212</id>
+      <parentid>45198</parentid>
+      <timestamp>2022-12-25T01:00:09Z</timestamp>
+      <contributor>
+        <username>Young Mako</username>
+        <id>1706203</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contributions/SalamanXyz|SalamanXyz]] ([[User talk:SalamanXyz|talk]]) to last revision by [[User:Apotheosis69|Apotheosis69]]</comment>
+      <origin>41567</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9752" sha1="k9i61n7bf9z9mrf6ooetje0d6me6x5b" xml:space="preserve">{{Technique Infobox
+|name = Hand-to-Hand Combat 
+|image = &lt;gallery&gt;
+Yuji Itadori vs. Aoi Todo continued.gif|Anime
+Yuji adapting to Aoi's fighting style.png|Manga
+&lt;/gallery&gt;
+|kanji = 体術
+|romaji = Taijutsu
+|other = Body Technique 
+|user = [[Jujutsu Sorcerer|Sorcerers]]&lt;br/&gt;[[Cursed Spirit|Cursed Spirits]] 
+|type =  
+|derived ability = 
+|derived item =
+|move range = Close-Range
+|capabilities = Offense 
+|debut = [[Chapter 1]] 
+|anime debut = [[Episode 1]] 
+}}
+{{Nihongo|'''Hand-to-Hand Combat'''|{{Ruby|体|たい}}{{Ruby|術|じゅつ}}|Taijutsu}}{{Ref|fan=Fanbook|page=144}}{{Ref|chap=0-3|page=38|Viz Translation}} refers to unarmed fighting styles that rely strictly on the abilities of the body. Close-quarters combat generally revolves around basic martial arts and is employed in physical confrontations. Alongside [[Jujutsu|jujutsu]], hand-to-hand combat abilities can be a crucial skill for both [[Jujutsu Sorcerer|sorcerers]] and [[Cursed Spirit|curses]] in battle. 
+
+== Description ==
+[[File:Aoi vs. Megumi.gif|thumb|220px|left|Todo overwhelming Megumi with pure taijutsu.]] 
+Physical fighting techniques optimize the natural strength of the body and are executed by exerting the user's stamina. Martial arts are systems of traditional combat practices and fighting techniques. Their applications differ greatly from person to person. 
+
+Capable hand-to-hand combatants can use a variety of different styles and disciplines to physically overwhelm an opponent. This includes the ability to throw combinations of punches, kicks, knees, grappling throws, and other moves. 
+
+[[File:Yuji vs. Eso (Anime).gif|thumb|220px|A hand-to-hand combat exchange utilizing cursed energy manipulation.]] 
+Unlike jujutsu, executing physical techniques does not require any [[Cursed Energy|cursed energy]] and is sufficient for defeating humans. However, no matter a human's level of strength, they cannot harm a cursed spirit without cursed energy.{{Ref|chap=1|page=46-47}} Jujutsu sorcerers are trained to control and apply their cursed energy to combat in order to increase their physical abilities. This makes sorcerers capable of exorcising curses with pure hand-to-hand combat and cursed energy manipulation.
+
+The aforementioned application of cursed energy is also used to fight sorcerers, and can even be employed by curses. Powerful cursed spirits are naturally inclined to violence and destruction, with many of them possessing a strong talent for close-quarters combat. Additionally, the majority of [[Cursed Technique|cursed techniques]] employed by sorcerers and curses are utilized in tandem with hand-to-hand combat.
+
+== Usage ==
+[[File:Satoru Gojo rips Jogo's arm off.png|thumb|220px|left|The strongest sorcerer overpowering a special grade without cursed techniques.]] 
+Hand-to-hand combat is employed by nearly all sorcerers but composes less than twenty percent of what is considered their general skillset. Sorcerers generally rely on cursed techniques, so very few utilize close-quarters combat as their main fighting style. 
+
+Despite possessing high levels of cursed energy and cursed techniques, sorcerers at the highest level still employ hand-to-hand with great efficiency to some degree. [[Mei Mei]] believed that her [[Black Bird Manipulation|technique]] was weak, so she focused on becoming strong without it, using cursed energy to reinforce her physical skills to their peak.{{Ref|chap=98|page=12-13}} [[Satoru Gojo]], known for his almighty [[Limitless]] is capable of overpowering [[Grade|special grade]] curses with pure cursed energy manipulation and physical attacks without his technique activated.{{Ref|chap=85|page=13}} 
+
+[[File:Yuji rapidly punching the Grasshopper Curse.png|thumb|220px|Yuji defeating a curse with superior physical specs using pure skill.]]
+In most cases, close-quarters combat is coupled with a jujutsu user's cursed techniques. Mahito relies mainly on close-quarters combat as his main form of engagement. He can transfigure the souls of others to support him in battle, but Mahito will often reinforce his own soul to give him an advantage in hand-to-hand exchanges.{{Ref|chap=121|page=13-14}} Nanami can also apply his [[Ratio Technique]] to unarmed hits to deal critical blows to opponents. He completely decimated the [[Curse User|curse user]] [[Haruta Shigemo]] by doing so.{{Ref|chap=100|page=6-16}} Naobito and Naoya Zenin use the speed granted by [[Projection Sorcery]] to overwhelm adversaries and strike them with a quick succession of close-ranged hits.{{Ref|chap=107|page=18-20}}{{Ref|chap=141|page=17-18}}  
+
+[[File:Nanami vs. Haruta Shigemo.png|thumb|220px|left|thumb|Nanami using close-quarters combat to completely outclass Shigemo, who relies entirely on jujutsu.]]
+Yuji doesn't have an innate technique but he is an exceptionally talented fighter who fights exclusively with hand-to-hand combat. Satoru decided it was best to teach Yuji to focus on his cursed energy manipulation to enhance his physical prowess only.{{Ref|chap=12|page=14-15}} This training allowed Yuji to develop one of his signature physical techniques, [[Divergent Fist]], which is a direct application of cursed energy to hand-to-hand combat.{{Ref|chap=20|page=7-8}} 
+
+Aoi Todo, who has a powerful innate technique, always imploys it in tandem with his fighting skills. In most cases, Aoi doesn't even bother using his technique and is capable of exorcising grade 1 curses without it. He completely overwhelmed Megumi with pure physical strength and speed despite his opponent's cursed technique. In Aoi's battle with Yuji, he helped the Tokyo student reach his potential when applying jujutsu to close-quarters combat.{{Ref|chap=37|page=8-15}} 
+
+[[File:Suguru continuing to pummel the old curse user.png|thumb|220px|Suguru surprising his opponent with physical attacks despite being a curse manipulator.]]
+Thanks to Aoi's guidance, Yuji was able to add Black Flash to his arsenal and properly control his cursed energy and apply it to his physical skills with more finesse than ever before.{{Ref|chap=49|page=4-5}} Since then, Yuji has been able to fight on par with several high-level curses including the special grade [[Cursed Womb: Death Painting|death paintings]] [[Eso]]{{Ref|chap=61|page=13-15}}, [[Kechizu]]{{Ref|chap=61|page=6-7}}, and Choso{{Ref|chap=103|page=12}}. Before fighting Choso, Yuji encountered a Grasshopper Curse in Shibuya that possessed a body superior to a human's. Despite this, the skill gap between their combat ability was too great and it was easily exorcised.{{Ref|chap=87|page=11-16}}  
+
+Shikigami users are known to vulnerable without their familiars. A shikigami user who is skilled in hand-to-hand combat is considered a valuable asset as a jujutsu sorcerer. Megumi's Ten Shadows Technique provides him with a wide arsenal of shikigami, but he isn't afraid to fight his opponent directly either.{{Ref|chap=44|page=3}} Similarly, most assume Suguru Geto prefers to manipulate cursed spirits to fight for him. However, Suguru is a very talented close-ranged fighter who surprises his opponents with his skills.{{Ref|chap=68|page=18}} 
+
+{|width="100%" style="border:1px #ED0000; overflow:hidden; text-align:center;" border="1"
+!colspan="2" style="margin:auto; background:#ED0000"|{{Color|White|'''Physical Techniques'''}}
+|-
+||[[File:Yuji uses Divergent Fist on Mahito.gif|220px]]||{{Nihongo|'''[[Divergent Fist]]'''|{{Ruby|逕|けい}}{{Ruby|庭|てい}}{{Ruby|拳|けん}}|Keitei Ken}}: Yuji punches his opponent with a fist charged with cursed energy that has a delayed second impact due to his speed leaving the cursed energy behind.
+|-
+||[[File:Panda smashes through Ultra Shield (Anime).gif|220px]]||{{Nihongo|'''[[Unblockable Drumming Beat]]'''|{{Ruby|防|ぼう}}{{Ruby|御|ぎょ}}{{Ruby|不|ふ}}{{Ruby|能|のう}}「{{Ruby|激震掌|ドラミングビート}}」|Bōgyofunō Doramingu Bīto}}: A [[Gorilla Mode]] special attack used by Panda that resonates the impact of every hit inside the target's body.
+|-
+||[[File:Yuji using Black Flash (Anime).gif|220px]]||{{Nihongo|'''[[Black Flash]]'''|{{Ruby|黒|こく}}{{Ruby|閃|せん}}|Kokusen}}: Spatial distortion created when a jujutsu user connects with an impact of cursed energy within a span of .000001 seconds of a physical hit. The phenomenon causes cursed energy to flash black, creating an attack that is equal to a normal hit to the power of 2.5.
+|}
+
+== Taido Martial Arts == 
+In his second fight against Mahito, Yuji showcased his proficiency in Taido Martial Arts. It's a specific combat discipline that draws from ancient, uncanny martial arts techniques that were momentarily able to surprise and hurt the special grade.{{Ref|chap=121|page=16-19}}  
+
+{|width="100%" style="border:1px #ED0000; overflow:hidden; text-align:center;" border="1"
+!colspan="2" style="margin:auto; background:#ED0000"|{{Color|White|'''Physical Techniques'''}}
+|-
+||[[File:Yuji using Knee Release.png|220px]]||{{Nihongo|'''Knee Release'''|{{Ruby|膝|ひさ}}{{Ruby|抜|ぬ}}き|Hisanuki}}: An ancient Taido Martial Arts technique that eliminates starting movement during a physical confrontation. It is meant to guide its user directly to their target's feet in an instant. The speed of this technique can be further increased if the user releases their hips and shoulders as well. 
+|-
+||[[File:Yuji's Manji Kick.png|220px]]||{{Nihongo|'''[[Manji Kick]]'''|{{Ruby|卍|まんじ}}{{Ruby|蹴|け}}り|Manji Keri}}: Starting with the Knee Release technique to eliminate starting motion, the user utilizes their momentum to strike from that lower position with an upward roundhouse kick.
+|}
+
+== References ==
+{{Scroll box|
+&lt;references/&gt;
+}}
+
+== Navigation ==
+{{Techniques Navibox}}
+[[Category:Taijutsu]]
+[[Category:Terminology]]</text>
+      <sha1>k9i61n7bf9z9mrf6ooetje0d6me6x5b</sha1>
+    </revision>
+  </page>
+</mediawiki>
