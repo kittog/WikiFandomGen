@@ -1,5 +1,5 @@
 - [ x ] creativity : pick a theme around which we should build our corpus! (fandom would be fun)
 	- ideas: dune, star wars, kpop...
 - [ x ] create repository and write README
-- [  ] gather a few corpuses
+- [ x ] gather a few corpuses
 - [  ] pick text generation model + create python script (start)
