@@ -1,0 +1,735 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="fr">
+  <siteinfo>
+    <sitename>Wikipédia</sitename>
+    <dbname>frwiki</dbname>
+    <base>https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal</base>
+    <generator>MediaWiki 1.40.0-wmf.20</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Média</namespace>
+      <namespace key="-1" case="first-letter">Spécial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Discussion</namespace>
+      <namespace key="2" case="first-letter">Utilisateur</namespace>
+      <namespace key="3" case="first-letter">Discussion utilisateur</namespace>
+      <namespace key="4" case="first-letter">Wikipédia</namespace>
+      <namespace key="5" case="first-letter">Discussion Wikipédia</namespace>
+      <namespace key="6" case="first-letter">Fichier</namespace>
+      <namespace key="7" case="first-letter">Discussion fichier</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">Discussion MediaWiki</namespace>
+      <namespace key="10" case="first-letter">Modèle</namespace>
+      <namespace key="11" case="first-letter">Discussion modèle</namespace>
+      <namespace key="12" case="first-letter">Aide</namespace>
+      <namespace key="13" case="first-letter">Discussion aide</namespace>
+      <namespace key="14" case="first-letter">Catégorie</namespace>
+      <namespace key="15" case="first-letter">Discussion catégorie</namespace>
+      <namespace key="100" case="first-letter">Portail</namespace>
+      <namespace key="101" case="first-letter">Discussion Portail</namespace>
+      <namespace key="102" case="first-letter">Projet</namespace>
+      <namespace key="103" case="first-letter">Discussion Projet</namespace>
+      <namespace key="104" case="first-letter">Référence</namespace>
+      <namespace key="105" case="first-letter">Discussion Référence</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Discussion module</namespace>
+      <namespace key="2300" case="case-sensitive">Gadget</namespace>
+      <namespace key="2301" case="case-sensitive">Discussion gadget</namespace>
+      <namespace key="2302" case="case-sensitive">Définition de gadget</namespace>
+      <namespace key="2303" case="case-sensitive">Discussion définition de gadget</namespace>
+      <namespace key="2600" case="first-letter">Sujet</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Catégorie:Wikipédia:ébauche Dune</title>
+    <ns>14</ns>
+    <id>1052603</id>
+    <revision>
+      <id>125610046</id>
+      <parentid>106943664</parentid>
+      <timestamp>2016-04-25T17:55:47Z</timestamp>
+      <contributor>
+        <username>Huster</username>
+        <id>38729</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="373" xml:space="preserve">__HIDDENCAT__
+{{Catégorie Science-fiction}}
+Cette catégorie s'applique aux [[Aide:ébauche|ébauche]]s concernant le [[cycle de Dune]]. Pour l'ajouter à un article, veuillez placer {{m/ébauche|Dune}} en tête de celui-ci.
+
+{{Palette Dune}}
+
+[[Catégorie:Dune|*]]
+[[Catégorie:Wikipédia:ébauche science-fiction|*]]
+[[Catégorie:Wikipédia:ébauche littérature|!Dune]]</text>
+      <sha1>8sp8wjzh9scol02zaymvrqm8x2df6y2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Catégorie:Écrit de Dune</title>
+    <ns>14</ns>
+    <id>1790960</id>
+    <revision>
+      <id>161452430</id>
+      <parentid>157379331</parentid>
+      <timestamp>2019-08-01T08:52:11Z</timestamp>
+      <contributor>
+        <username>Paul Morère</username>
+        <id>1472941</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="337" xml:space="preserve">{{Multi bandeau|Catégorie littérature américaine|Catégorie science-fiction}}
+{{Article principal|Cycle de Dune}}
+
+Romans du cycle initial de [[Frank Herbert]], ainsi que les œuvres additionnelles de [[Brian Herbert]] et [[Kevin J. Anderson]].
+
+[[Catégorie:Dune|Ecrit de Dune]]
+[[Catégorie:Industrie minière dans la littérature]]</text>
+      <sha1>nntnwsat219xysgber9vbwbl9ymr6gp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Frank Herbert</title>
+    <ns>0</ns>
+    <id>1131</id>
+    <revision>
+      <id>199329408</id>
+      <parentid>199329212</parentid>
+      <timestamp>2022-12-08T16:26:06Z</timestamp>
+      <contributor>
+        <username>Rafikipédia</username>
+        <id>4547514</id>
+      </contributor>
+      <comment>Ajout d'une référence</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="23177" xml:space="preserve">{{Voir homonymes|Herbert}}
+{{Confusion|texte=Ne doit pas être confondu avec [[Herbert W. Franke]], aussi auteur de science-fiction.}}
+{{à sourcer|date=janvier 2022}}
+{{Infobox Écrivain
+ | nom                = Frank Herbert
+ | image              = Frank Herbert headshot.jpg
+ | légende            = Frank Herbert en 1978.
+ | nom de naissance   = Frank Patrick Herbert, Jr.
+ | surnom             = 
+ | activités          = [[Roman (littérature)|Romancier]], [[Nouvelle|nouvelliste]]
+ | date de naissance  = {{Date de naissance|8|octobre|1920|en littérature}}
+ | lieu de naissance  = [[Tacoma]], [[Washington (État)|Washington]], {{États-Unis}}
+ | date de décès      = {{Date de décès|11|février|1986|8|octobre|1920|en littérature}}
+ | lieu de décès      = [[Madison (Wisconsin)|Madison]], [[Wisconsin]], {{États-Unis}}
+ | langue             = [[Anglais américain]]
+ | mouvement          = 
+ | genre              = [[Science-fiction]]
+ | distinctions       = [[Prix Hugo]]&lt;br /&gt;[[Prix Nebula]]
+ | adjectifs dérivés  = 
+ | œuvres principales = 
+* ''[[Cycle de Dune]]'' &lt;small&gt;([[1965 en littérature|1965]]-[[1985 en littérature|1985]])&lt;/small&gt;
+* ''[[Cycle des Saboteurs]]'' &lt;small&gt;([[1973 en littérature|1973]]-[[1977 en littérature|1977]])&lt;/small&gt;
+ | complément         = 
+ | signature          = 
+}}
+
+'''Frank Herbert''', né '''Frank Patrick Herbert, Jr.''' le {{Date de naissance|8|octobre|1920|en littérature}} à [[Tacoma]] dans l'[[Washington (État)|État de Washington]] et mort le {{Date de décès|11|février|1986|8|octobre|1920|en littérature}} à [[Madison (Wisconsin)|Madison]] dans le [[Wisconsin]], est un [[écrivain]] [[États-Unis|américain]], auteur de [[Anticipation (fiction)#Les d.C3.A9buts du roman d.27anticipation|romans de science-fiction]].
+
+Ses œuvres connurent un succès critique et commercial. Il doit principalement sa célébrité au roman ''[[Dune (roman)|Dune]]'' et à la [[Cycle de Dune|série de cinq romans]] qui s'ensuivit. La saga de ''Dune'' aborde des thèmes tels que la survie de l'espèce humaine et son évolution, l'[[écologie]], ou encore les interactions entre la [[religion]], la [[politique]] et le pouvoir. Elle est considérée par beaucoup comme un classique dans le domaine de la science-fiction.
+
+== Biographie ==
+Frank Herbert est né le {{date de naissance|8|octobre|1920|en littérature}} à [[Tacoma]] dans l'[[Washington (État)|État de Washington]], de Frank Herbert et Eileen McCarthy Herbert. Il décide très tôt de devenir écrivain. Il termine ses études secondaires en {{Date-|1938}}, et en {{Date-|1939}}, il ment sur son âge afin d'obtenir son premier emploi pour le journal ''Glendale Star''.
+
+Pendant la [[Seconde Guerre mondiale]], sa carrière d'écrivain est momentanément suspendue lorsqu'il sert les [[Seabee]]s de l'[[US Navy]] pendant six mois en tant que photographe, avant de devoir arrêter cette activité pour raisons médicales. En {{Date-|1941}}, il épouse Flora Parkinson à [[San Pedro (Californie)|San Pedro]] en [[Californie]]. Il divorce en {{Date-|1945}} après la naissance de sa fille, Penny.
+
+Après la guerre, il s’inscrit à l'[[université de Washington]], où il rencontre Beverly Ann Stuart en {{Date-|1946}} lors d'un cours d'[[écriture créative]]. Ils sont les seuls à réussir à vendre et faire publier une partie de leur travail : Herbert parvient à vendre deux histoires d'aventure à un ''[[pulp (magazine)|pulp magazine]]'' et Beverly une au magazine ''Modern Romance''. Herbert n'obtient cependant pas de diplôme universitaire, car il ne veut étudier que les sujets qui l'intéressent. Après l'université, il se remet au journalisme en travaillant pour le ''Seattle Star'', l{{'}}''Oregon Statesman'' et le ''San Francisco Examiner's California Living Magazine''. Frank et Beverly se marient en {{date-|juin 1946}} à [[Seattle]]. Ils auront deux fils, [[Brian Herbert|Brian]], né en {{Date-|1947}}, et Bruce, né en {{Date-|1951}}.
+
+En {{Date-|1952}}, Herbert vend son premier récit de [[science-fiction]], ''Looking for Something'', au magazine ''Startling Stories''. La même année, il publie sa première [[nouvelle]] de science-fiction dans ''[[Astounding]]'' et devient ''[[psychanalyste]] [[jungien]]'', et [[Psychothérapeute|analyste]]. Dans les années qui suivent, il fait paraître près de vingt nouvelles de ce genre. Mais sa carrière d’écrivain débute véritablement avec la publication du ''Dragon sous la mer'' (''The Dragon in the Sea'') en {{Date-|1956}}, inspiré par sa longue étude de la psychologie des profondeurs&lt;ref&gt;préface de ''Dune'' T1 chez [[Pocket]].&lt;/ref&gt;. Il utilise l’environnement d'un sous-marin du {{s-|XXI|e}} pour explorer les rouages de la folie. Le livre prédit des conflits mondiaux autour de la consommation et de la [[production de pétrole]]. Il est très bien accueilli par la critique mais ne devient pas pour autant un succès commercial.
+
+[[Fichier:USA Oregon Dunes.jpg|vignette|upright=1|L’[[Oregon Dunes National Recreation Area]], près de [[Florence (Oregon)|Florence]] dans l'[[Oregon]], servit à Herbert comme inspiration pour la saga du [[Cycle de Dune|Cycle de ''Dune'']].]]
+
+En {{Date-|1959}}, alors qu’il est censé rédiger un article sur les dunes de [[Florence (Oregon)|Florence]] (de l'[[Oregon Dunes National Recreation Area]]) dans l'[[Oregon]], Herbert se retrouve captivé par le sujet et accumule beaucoup plus d'informations qu'il ne lui en faut pour un simple article. Ce dernier ne sera d'ailleurs jamais écrit, mais il marque le début de l'écriture de la saga de ''[[Dune (roman)|Dune]]''. Dans les [[années 1960]], Herbert peut se consacrer entièrement à sa carrière d'écrivain grâce à sa femme, qui reprend alors un travail à temps plein comme [[publicitaire]].
+
+Après six ans d'écriture et de recherche, Herbert achève enfin ''Dune''. Le roman, bien plus long que les histoires de science-fiction de l'époque, est d'abord publié dans la revue ''[[analog Science Fiction and Fact|analog]]'' en deux parties, en {{Date-|1963}} et {{Date-|1965}}, mais est ensuite rejeté par près de vingt éditeurs avant d'être finalement accepté par Chilton, une petite maison d'édition de [[Philadelphie]], qui lui offre une avance de {{monnaie|7500|USD}}. ''Dune'' reçoit bientôt les faveurs de la critique, puis remporte le [[prix Nebula]] en {{Date-|1965}} et le [[prix Hugo]] en 1966. Il s'agit du premier roman de science-fiction accordant une grande place à l'[[écologie]], mais qui fait également intervenir des thèmes tels que la [[politique]], la [[religion]], ou encore la survie de l'[[Homo sapiens|espèce humaine]]. Herbert utilise également des points de vue multiples à l'aide de ses différents personnages, une approche que l'on retrouve par la suite dans toutes ses œuvres &lt;ref&gt;{{Article|langue=fr|titre=« Dune » : où sont les fans de l’œuvre de Frank Herbert ?|périodique=Le Monde.fr|date=2021-09-18|lire en ligne=https://www.lemonde.fr/pixels/article/2021/09/18/dune-ou-sont-les-fans-de-l-uvre-de-frank-herbert_6095142_4408996.html|consulté le=2021-11-17}}&lt;/ref&gt;.
+
+Le livre ne devient cependant pas immédiatement un ''[[best-seller]]''. Jusqu'en 1968, Herbert en tire bien plus que la plupart des romans de science-fiction de l'époque ({{monnaie|20000|USD}}), mais pas suffisamment pour lui permettre de devenir écrivain à plein temps. La publication de ''Dune'' lui ouvre néanmoins de nouvelles portes. De {{Date-|1969}} à {{Date-|1972}}, il travaille comme rédacteur pour la section éducation du journal ''Seattle Post-Intelligencer'' et comme [[maître de conférences]] en études générales et interdisciplinaires à l'université de Washington. En 1972, il travaille au [[Viêt Nam]] et au [[Pakistan]] comme consultant en écologie. En 1973, il est directeur-photographe pour le show télévisé ''The Tillers''.
+
+En {{Date-|1972}}, il cesse d'écrire pour les journaux et devient un écrivain à plein temps. Pendant les [[années 1970]] et [[Années 1980|1980]], il profite d'un succès commercial considérable en tant qu'auteur. Il partage son temps entre ses deux résidences, l'une à [[Hawaï]] et l'autre dans l'État de Washington, et écrit de nombreux livres où il met en avant ses idées écologiques et philosophiques. Sa maison de l'État de Washington est un « projet de démonstration écologique ». Il poursuit le [[cycle de Dune]] qui comportera finalement six volumes. Il publie également d'autres livres, tels que ''[[Et l'homme créa un dieu]]'', le ''[[Cycle des Saboteurs]]'' ou encore le ''Cycle du Programme Conscience'' en coopération avec [[Bill Ransom]].
+
+Mais, en {{Date-|1974}}, sa femme Beverly est victime d'un [[Cancer (maladie)|cancer]]. Elle subit une opération qui lui permet de survivre mais qui affecte sa santé. Elle meurt en {{Date-|1984}}, l'année où est publié ''[[Les Hérétiques de Dune]]''. 1984 est une année tumultueuse pour Herbert, qui assiste également à [[Dune (film)|l'adaptation au cinéma de ''Dune'']] par [[David Lynch]]. Malgré de fortes attentes, une production à gros budget et une distribution incluant plusieurs stars [[hollywood]]iennes, le film est dans l'ensemble mal accueilli par la critique aux États-Unis. En revanche, il connaît le succès en [[Europe]] et au [[Japon]] &lt;ref name="lefigaro.fr"&gt;{{Lien web |langue=fr |titre=Pourquoi Dune de Frank Herbert continue de fasciner un demi-siècle après sa publication |url=https://www.lefigaro.fr/livres/pourquoi-dune-de-frank-herbert-continue-de-fasciner-un-demi-siecle-apres-sa-publication-20210915 |site=LEFIGARO |date=2021-09-15 |consulté le=2021-11-17}}&lt;/ref&gt;.
+
+Après la mort de sa femme, Herbert épouse Theresa Schackleford en {{Date-|1985}} et publie ''[[La Maison des mères]]'', dernier volume du ''cycle de Dune'' qu'il écrira, bien qu'une suite ait été prévue. La [[postface]] de l'ouvrage contient un hommage à sa défunte femme Beverly. Le {{date de décès|11|février|1986|en littérature}}, il décède d'une [[embolie pulmonaire]] survenue à la suite d'une opération pour soigner son [[cancer du pancréas]], à l'âge de 65 ans.
+
+== Thèmes et idées ==
+En explorant dans ses [[Roman de science-fiction|romans de science-fiction]] des thèmes variés tels que la [[philosophie]], la [[religion]], la [[psychologie]], la [[politique]] ou encore l'[[écologie]], Frank Herbert a conduit bon nombre de ses lecteurs à s'intéresser eux-mêmes à ces domaines. Cet engouement s'est révélé tel chez certains lecteurs que ces derniers se sont mis à lire tout ce qu'avait pu écrire Herbert, le considérant comme une référence sur les sujets abordés dans ses œuvres. Mais lorsqu'on lui demanda à plusieurs reprises s'il était en train de créer un nouveau culte, Herbert déclara clairement qu'il y était fermement opposé. Il veillait également soigneusement à ne pas donner de réponses précises aux questions qu'il soulevait dans ses romans.
+
+Parmi les idées importantes évoquées dans ses livres, on peut citer &lt;ref name="lefigaro.fr"/&gt; :
+* les dangers liés au ''[[leadership]]'', en particulier la tendance des hommes à suivre aveuglément et avec servitude les leaders charismatiques ([[Muad'Dib]] dans ''[[Dune (roman)|Dune]]''), mais aussi les dangers de la [[bureaucratie]] et du gouvernement (''[[cycle des Saboteurs]]'') ;
+* l'importance de penser sur le long terme et avec une approche [[systémique]] (le thème de l'[[écologie]] dans ''Dune'')&lt;ref&gt;{{Article|auteur1=Veronika Kratz|titre=Frank Herbert’s Ecology, Oregon’s Dunes, and the Postwar Science of Desert Reclamation|périodique=ISLE: Interdisciplinary Studies in Literature and Environment|date=24 Mars 2021|accès url=https://academic.oup.com/isle/advance-article-abstract/doi/10.1093/isle/isab026/6184617?login=false}}&lt;/ref&gt; ;
+* les relations étroites entre la religion, la politique et le pouvoir en général (le [[Bene Gesserit]] dans ''Dune'')&lt;ref&gt;{{Ouvrage|auteur1=Jeffery Nicholas|titre=Dune and Philosophy:Weirding Way of Mentat|passage=page 149|éditeur=Open Court Publishing|date=2011}}&lt;/ref&gt; ;
+* l'étendue du potentiel humain, abordé sous de nombreux aspects : la capacité de l'homme à s'adapter à ses conditions de vie pour survivre (les [[Fremen]]s de ''Dune'', les [[Dosadi]] dans le roman du même nom), la spécialisation du corps et de l'esprit humain (les techniques du Bene Gesserit dans ''Dune'') ou encore les possibilités apportées par l'utilisation de substances chimiques (l'[[Épice gériatrique|épice]] dans ''Dune'') ;
+* la « [[santé mentale]] » et la [[folie]] ; Frank Herbert s'intéressait au travail de [[Thomas Szasz]] et à l'[[antipsychiatrie]], et interroge souvent la notion de folie ;
+* la façon dont le [[langage]] influence la [[pensée]] ;
+* la conscience et l'[[intelligence artificielle]] (''Destination vide'' et aussi ''Dune'' avec le [[Jihad Butlérien]]) ;
+* les dangers du [[prophétisme]] (''Dune'' (en tant que série)).
+
+Pour certains lecteurs, Beverly Herbert est l’inspiratrice du personnage de [[Jessica Atréides|dame Jessica]] (de la même manière qu’[[Edith Tolkien]] avait inspiré à [[J. R. R. Tolkien|son mari]] celui de [[Lúthien|Lúthien Tinúviel]] dans ''[[Le Silmarillion]]'')&lt;ref&gt;''Tolkien, des mots, des mondes'', Documentaire de Simon Backès diffusé sur [[Arte]] le 3 décembre 2014.&lt;/ref&gt;.
+
+== Œuvres ==
+=== ''Cycle de Dune'' ===
+{{Article détaillé|Cycle de Dune{{!}}''Cycle de Dune''|Univers de Dune{{!}}Univers de ''Dune''}}
+# {{Écrit|langue=en|titre=Dune|année=1965|titre fr=[[Dune (roman)|Dune]]|éditeur fr=[[Éditions Robert Laffont|Robert Laffont]], {{Coll.|[[Ailleurs et Demain]]}}|année fr=1970}}
+# {{Écrit|langue=en|titre=Dune Messiah|année=1969|titre fr=[[Le Messie de Dune]]|éditeur fr=Robert Laffont, {{Coll.|Ailleurs et Demain}}|année fr=1972}}
+# {{Écrit|langue=en|titre=The Children of Dune|année=1976|titre fr=[[Les Enfants de Dune]]|éditeur fr=Robert Laffont, {{Coll.|Ailleurs et Demain}}|année fr=1978}}
+# {{Écrit|langue=en|titre=God Emperor of Dune|année=1981|titre fr=[[L'Empereur-Dieu de Dune]]|éditeur fr=Robert Laffont, {{Coll.|Ailleurs et Demain}}|année fr=1982}}
+# {{Écrit|langue=en|titre=Heretics of Dune|année=1984|titre fr=[[Les Hérétiques de Dune]]|éditeur fr=Robert Laffont, {{Coll.|Ailleurs et Demain}}|année fr=1985}}
+# {{Écrit|langue=en|titre=Chapterhouse|année=1985|titre fr=[[La Maison des mères]]|éditeur fr=Robert Laffont, {{Coll.|Ailleurs et Demain}}|année fr=1986}}
+
+=== ''Cycle du Programme conscience'' ===
+# {{Écrit|langue=en|titre=Void|année=1966|titre fr=[[Destination vide]]|éditeur fr=[[Éditions Robert Laffont|Robert Laffont]], {{Coll.|[[Ailleurs et Demain]]}}|année fr=1981}}
+# {{Écrit|langue=en|titre=The Jesus Incident|année=1979|coauteur=[[Bill Ransom]]|titre fr=[[L'Incident Jésus]]|éditeur fr=Robert Laffont, {{Coll.|Ailleurs et Demain}}|année fr=1981}}
+# {{Écrit|langue=en|titre=The Lazarus Effect|année=1983|coauteur=[[Bill Ransom]]|titre fr=[[L'Effet Lazare]]|éditeur fr=Robert Laffont, {{Coll.|Ailleurs et Demain}}|année fr=1984}}
+# {{Écrit|langue=en|titre=The Ascension Factor|année=1988|coauteur=[[Bill Ransom]]|titre fr=[[Le Facteur ascension]]|éditeur fr=Robert Laffont, {{Coll.|Ailleurs et Demain}}|année fr=1988}}
+
+=== ''Cycle des Saboteurs'' ===
+{{Article détaillé|Cycle des Saboteurs{{!}}''Cycle des Saboteurs''}}
+# {{Écrit|langue=en|titre=The Whipping Star|année=1973|titre fr=[[L'Étoile et le Fouet]]|éditeur fr=[[Éditions Robert Laffont|Robert Laffont]], {{Coll.|[[Ailleurs et Demain]]}}|année fr=1973}}
+# {{Écrit|langue=en|titre=Dosadi experiment|année=1977|titre fr=[[Dosadi]]|éditeur fr=Robert Laffont, {{Coll.|Ailleurs et Demain}}|année fr=1979}}
+
+=== Romans indépendants ===
+* {{Écrit|langue=en|titre=The Dragon in the Sea|année=1956|titre fr=Le Monstre sous la mer|éditeur fr=[[Éditions Albin Michel|Albin Michel]], {{Coll.|[[Albin Michel Science-fiction|Science-fiction]]}}|année fr=1972|commentaire=Réédité sous le titre ''Le Dragon sous la mer'' par les éditions [[Pocket]] dans la collection [[Pocket Science-fiction|Science-fiction]] ({{numéro|5520}})}}
+* {{Écrit|langue=en|titre=The Green Brain|année=1966|titre fr=[[Le Cerveau vert]]|éditeur fr=[[Le Masque Science-fiction]] {{numéro|33}}|année fr=1975}}
+* {{Écrit|langue=en|titre=The Eyes of Heisenberg|année=1966|titre fr=[[Les Yeux d'Heisenberg]]|éditeur fr=Le Masque Science-fiction {{numéro|90}}|année fr=1979}}
+* {{Écrit|langue=en|titre=The Santaroga Barrier|année=1968|titre fr=[[La Barrière Santaroga]]|éditeur fr=[[Éditions Jean-Claude Lattès|Jean-Claude Lattès]], {{Coll.|[[Titres/SF]]}} {{numéro|16}}|année fr=1979}}
+* {{Écrit|langue=en|titre=The Heaven Makers|année=1968|titre fr=Les Fabricants d'Éden|éditeur fr=Jean-Claude Lattès, {{Coll.|Titres/SF}} {{numéro|31}}|année fr=1980}}
+* {{Écrit|langue=en|titre=The Godmakers|année=1972|titre fr=[[Et l'homme créa un dieu]]|éditeur fr=[[Éditions Jean-Claude Lattès|Jean-Claude Lattès]], {{Coll.|[[Titres/SF]]}} {{numéro|8}}|année fr=1979|commentaire=Édité en français sous le titre ''Prélude à Dune''}}
+* {{Écrit|langue=en|titre=Soul Catcher|année=1972|titre fr=[[Le Preneur d'âmes (roman)|Le Preneur d'âmes]]|éditeur fr=[[Éditions Seghers|Seghers]]|année fr=1981}}
+* {{Écrit|langue=en|titre=Hellstrom's Hive|année=1973|titre fr=[[La Ruche d'Hellstrom]]|éditeur fr=[[Éditions Albin Michel|Albin Michel]], {{Coll.|[[Super+Fiction]]}}|année fr=1977}}
+* {{Écrit|langue=en|titre=The White Plague|année=1982|titre fr=[[La Mort blanche]]|éditeur fr=[[Éditions Robert Laffont|Robert Laffont]], {{Coll.|[[Ailleurs et Demain]]}}|année fr=1983}}
+* {{Écrit|langue=en|titre=Man of Two Worlds|année=1986|coauteur=[[Brian Herbert]]|titre fr=L'Homme de deux mondes|éditeur fr=Robert Laffont, {{Coll.|Ailleurs et Demain}}|année fr=1987}}
+* {{Écrit|langue=en|titre=High-Opp|année=2012|titre fr=High-Opp|éditeur fr=Robert Laffont, {{Coll.|Ailleurs et Demain}}|année fr=2014|commentaire=Roman posthume}}
+* {{Écrit|langue=en|titre=Angels' Fall|année=2013|titre fr=La Chute des Anges|commentaire=Roman posthume, pas encore traduit en français}}
+
+=== Recueils de nouvelles ===
+[[Fichier:Fantastic 196002.jpg|vignette|upright=1|Couverture du magazine ''Fantastic'' de février 1960 avec la nouvelle d'Herbert, ''Les Prêtres du psi''.]]
+
+* {{Écrit|langue=en|titre=Try To Remember and Six Other Short Stories|titre fr=[[Champ mental]]|éditeur fr=[[Pocket]], {{Coll.|[[Pocket Science-fiction|Science-fiction]]}} {{numéro|5262}}|année fr=1987}}
+* {{Écrit|langue=en|titre=The Priests of Psi|année=1980|titre fr=Les Prêtres du psi|éditeur fr=Pocket, {{Coll.|Science-fiction}} {{numéro|5198}}|année fr=1985}}
+* {{Écrit|titre=[[Le Livre d'or de la science-fiction : Frank Herbert]]|éditeur=Pocket, {{Coll.|Science-fiction}} {{numéro|5018}}|année=1978|commentaire=Réédité ensuite par le même éditeur sous le titre ''Le Prophète des sables''}}
+Frank Herbert a également publié de nombreuses nouvelles, des essais et de la poésie (sans traduction française). De nombreux livres lui ont été consacrés.
+
+=== Nouvelles ===
+{{article détaillé|Liste des nouvelles de Frank Herbert}}
+
+== Hommages et postérité ==
+* En 1983, le groupe de [[Heavy metal traditionnel|heavy metal]] [[Iron Maiden]] demanda la permission à Frank Herbert de reprendre le titre de son roman ''Dune'' pour nommer une de leurs chansons, et d’utiliser une citation de l’œuvre comme « introduction ». On fit alors à [[Steve Harris]] (bassiste d'Iron Maiden) la réponse suivante {{Citation|Non. Car Frank Herbert n'aime pas les groupes de rock, particulièrement ceux de métal, et tout spécialement les groupes comme Iron Maiden}}&lt;ref&gt;{{Lien web |langue=en-GB |nom=SB |titre=THE STORY BEHIND THE SONG: «To Tame A Land» by Iron Maiden |url=https://norselandsrock.com/to-tame-a-land-iron-maiden/ |site=Rocking In the Norselands |date=2019-07-01 |consulté le=2022-04-11}}&lt;/ref&gt;. La chanson fut donc nommée ''To Tame a Land''.
+* L'[[astéroïde]] {{PM1|115561|Frankherbert}} [[éponymie|porte son nom]].
+* Le fils aîné de Frank Herbert, [[Brian Herbert]], a prolongé la saga de ''Dune'' en collaboration avec [[Kevin J. Anderson]] avec deux premières trilogies au début des années 2000 : ''Avant Dune'' et ''Dune, la genèse'', toutes deux antérieures aux événements relatés dans le [[Univers de Dune|Cycle de Dune]] ;
+** Ils ont aussi publié deux livres (appelés ''Dune 7'') qui font suite à ''[[La Maison des mères]]'', composés à partir d’ébauches laissées par Frank Herbert : ''[[Les Chasseurs de Dune]]'' et ''[[Le Triomphe de Dune]]'' (paru en août 2007) ;
+** En 2005, ils publient ''[[La Route de Dune]]'', un recueil regroupant des chapitres inédits de ''Dune'' et du ''[[Le Messie de Dune|Messie de Dune]]'', mis de côté par Frank Herbert, et complétés par des nouvelles de Brian Herbert et Kevin J. Anderson.
+** Depuis 2008, ils ont entamé un cycle nommé les ''Légendes de Dune'', dont l'intrigue traite des années qui séparent les premiers romans du cycle originel.
+** Enfin, depuis 2012, un dernier cycle est publié sous le titre ''Dune, les origines'', un cycle qui, dans la chronologie de l'univers, fait directement suite à ''Dune, la genèse''.
+* Brian Herbert a aussi été l'auteur d'une biographie de son père, intitulée ''The Dreamer of Dune'' et publiée aux États-Unis en 2003. Celle-ci n'a cependant pas connu de traduction française.
+
+== Notes et références ==
+{{Références}}
+
+== Annexes ==
+=== Bibliographie ===
+* {{Ouvrage|langue=en |auteur1=[[Brian Herbert]] |titre=Dreamer of Dune |sous-titre=The Biography of Frank Herbert |éditeur=Tor Books |année=2003 |pages totales=560}}
+* {{Ouvrage|langue=en |auteur1= Timothy O'Reilly |titre=Frank Herbert |éditeur= Frederick Ungar |lieu=New York |année=1980|pages totales=216}}
+
+=== Liens externes ===
+{{Autres projets|wikiquote=Frank Herbert}}
+* {{Autorité}}
+* {{Dictionnaires}}
+* {{Bases}}
+
+{{Palette|Frank Herbert|Lauréats du prix Apollo}}
+{{Portail|littérature américaine|science-fiction}}
+
+{{DEFAULTSORT:Herbert, Frank}}
+[[Catégorie:Naissance en octobre 1920]]
+[[Catégorie:Naissance à Tacoma]]
+[[Catégorie:Romancier américain du XXe siècle]]
+[[Catégorie:Écrivain américain de science-fiction]]
+[[Catégorie:Nouvelliste américain du XXe siècle]]
+[[Catégorie:Créateur de langues]]
+[[Catégorie:Dune]]
+[[Catégorie:Lauréat du prix Apollo]]
+[[Catégorie:Lauréat du prix Cosmos 2000]]
+[[Catégorie:Lauréat du prix Hugo du meilleur roman]]
+[[Catégorie:Lauréat du prix Nebula du meilleur roman]]
+[[Catégorie:Science Fiction Hall of Fame]]
+[[Catégorie:Décès en février 1986]]
+[[Catégorie:Décès à 65 ans]]
+[[Catégorie:Décès à Madison (Wisconsin)]]
+[[Catégorie:Mort d'un cancer du pancréas]]
+[[Catégorie:Mort d'une embolie pulmonaire]]
+[[Catégorie:Mort d'un cancer aux États-Unis]]
+[[Catégorie:Personnalité américaine incinérée]]
+[[Catégorie:Éponyme d'un objet céleste]]</text>
+      <sha1>5lofr34br1zbqzbs7cte4npl0wzmye0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Dune (franchise)</title>
+    <ns>0</ns>
+    <id>8536370</id>
+    <revision>
+      <id>200174056</id>
+      <parentid>198881129</parentid>
+      <timestamp>2023-01-05T17:54:09Z</timestamp>
+      <contributor>
+        <username>Charlestpt</username>
+        <id>3387012</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="17380" xml:space="preserve">Lancé par les romans de [[science-fiction]] de l'écrivain [[Frank Herbert]], l'univers de '''''[[Dune (roman)|Dune]]''''' est à la base d'une franchise ayant généré un grand nombre d’œuvres dans des domaines très variés.
+
+== Évolution de la franchise ==
+Les dates importantes dans l’évolution de la franchise de Dune sont :
+* [[1963 en littérature|1963]] : une première version à épisodes du roman ''[[Dune (roman)|Dune]]'' est publiée dans le magazine ''[[Analog]]''.
+* [[1965 en littérature|1965]] : ''Dune'' est ensuite publié en roman.
+* [[1984 au cinéma|1984]] : sortie du film ''[[Dune (film, 1984)|Dune]]'', adaptation du premier roman par [[David Lynch]].
+* [[1985 en littérature|1985]] : publication de ''[[La Maison des mères]]'', dernier roman du cycle écrit par [[Frank Herbert]], qui meurt l'année suivante.
+* [[1992 en jeu vidéo|1992]] : création du jeu vidéo ''[[Dune II : La Bataille d'Arrakis|Dune II]]'' qui inaugure un nouveau genre de jeux : le [[jeu de stratégie en temps réel]] (RTS).
+* [[2000 en littérature|2000]] : reprise du ''cycle de Dune'' par [[Brian Herbert]] (fils de Frank Herbert) et [[Kevin J. Anderson]]. Il existe à ce jour cinq sous-cycles complétant l'œuvre originale.
+* [[2000 à la télévision|2000]] : diffusion de la mini-série télévisée ''[[Dune (mini-série)|Dune]]'', nouvelle adaptation pour la télévision du premier roman. Elle sera suivie en 2003 par ''[[Les Enfants de Dune (mini-série)|Les Enfants de Dune]]'', adaptation des deuxième et troisième romans du cycle.
+* [[2021 au cinéma|2021]] : sortie du film ''[[Dune (film, 2021)|Dune]]'', adaptation de la première moitié du premier roman par [[Denis Villeneuve]].
+* [[2023]] : sortie prévue du film ''[[Dune : Deuxième partie]]'', adaptation de la seconde moitié du premier roman par [[Denis Villeneuve]].
+
+== Littérature ==
+La saga romanesque de Dune a débuté avec le [[Dune (roman)|roman homonyme]] en [[1965 en littérature|1965]]. Le cycle initial écrit par [[Frank Herbert]] comporte six livres. Son fils, [[Brian Herbert]], aidé par [[Kevin J. Anderson]], a écrit seize romans constituant la suite de l’œuvre littéraire de son père. Ils se sont basés en partie sur les notes de Frank Herbert.
+
+=== Cycle original de Frank Herbert ===
+* [[1965 en littérature|1965]] : ''[[Dune (roman)|Dune]]''
+* [[1969 en littérature|1969]] : ''[[Le Messie de Dune]]''
+* [[1976 en littérature|1976]] : ''[[Les Enfants de Dune]]''
+* [[1981 en littérature|1981]] : ''[[L'Empereur-Dieu de Dune]]''
+* [[1984 en littérature|1984]] : ''[[Les Hérétiques de Dune]]''
+* [[1985 en littérature|1985]] : ''[[La Maison des mères]]''
+
+=== Livres écrits par Brian Herbert et Kevin J. Anderson ===
+Ces livres sont écrits par [[Brian Herbert]] et [[Kevin J. Anderson]] postérieurement à l’œuvre de Frank Herbert.
+
+* {{Ancre|Avant Dune}}Sous-cycle '''''Avant Dune''''' (titre original : ''{{Langue|en|Prelude to Dune}}'')&lt;br /&gt;Ce sous-cycle se déroule peu de temps avant le sous-cycle ''Chroniques de Caladan''.
+** [[2000 en littérature|2000]] : ''[[La Maison des Atréides]]'' (titre original : ''{{Langue|en|House Atreides}}'')
+** [[2001 en littérature|2001]] : ''[[La Maison Harkonnen]]'' (titre original : ''{{Langue|en|House Harkonnen}}'')
+** [[2002 en littérature|2002]] : ''[[La Maison Corrino]]'' (titre original : ''{{Langue|en|House Corrino}}'')
+
+* {{Ancre|Dune, la genèse}}Sous-cycle '''''Dune, la genèse''''' (titre original : ''{{Langue|en|Legends of Dune}}'')&lt;br /&gt;Ce sous-cycle se déroule chronologiquement avant tous les autres sous-cycles.&lt;br /&gt;&lt;small&gt;(Les titres des traductions françaises des deux premiers tomes sont étonnamment inversés par rapport aux titres originaux. Cela peut néanmoins se justifier puisque le second tome est entièrement tourné sur les années du [[jihad butlérien]], qui n'a été déclenché que dans les dernières pages du premier tome, plutôt centré sur l'affrontement entre les humains et les machines.)&lt;/small&gt;
+** [[2003 en littérature|2003]] : ''[[La Guerre des machines]]'' (titre original : ''{{Langue|en|The Butlerian Jihad}}'')
+** [[2004 en littérature|2004]] : ''[[Le Jihad butlérien]]'' (titre original : ''{{Langue|en|The Machine Crusade}}'')
+** [[2005 en littérature|2005]] : ''[[La Bataille de Corrin]]'' (titre original : ''{{Langue|en|The Battle of Corrin}}'')
+
+* Livre isolé :
+** [[2005 en littérature|2005]] : ''[[La Route de Dune]]'' (titre original : ''{{Langue|en|The Road to Dune}}''). Il s'agit d'un ouvrage assez particulier car il contient, outre des nouvelles de Brian Herbert et Kevin J. Anderson, des chapitres originaux de Frank Herbert non publiés de ''[[Dune (roman)|Dune]]'' et ''[[Le Messie de Dune]]''.
+
+* {{Ancre|Après Dune}}Sous-cycle '''''Après Dune''''' (titre original : ''{{Langue|en|Dune Sequels}}'')&lt;br /&gt;Ce sous-cycle est la suite de ''[[La Maison des mères]]'' écrit d'après les notes de [[Frank Herbert]].
+** [[2006 en littérature|2006]] : ''[[Les Chasseurs de Dune]]'' (titre original : ''{{Langue|en|Hunters of Dune}}'')
+** [[2007 en littérature|2007]] : ''[[Le Triomphe de Dune]]'' (titre original : ''{{Langue|en|Sandworms of Dune}}'')
+
+* {{Ancre|Légendes de Dune}}Sous-cycle '''''Légendes de Dune''''' (titre original : ''{{Langue|en|Heroes of Dune}}'')&lt;br /&gt;Ce sous-cycle prend place entre les romans ''Dune'' et ''L'Empereur-Dieu de Dune'' du cycle original de [[Frank Herbert]].
+** [[2008 en littérature|2008]] : ''[[Paul le prophète]]'' (titre original : ''{{Langue|en|Paul of Dune}}'')
+** [[2009 en littérature|2009]] : ''[[Le Souffle de Dune]]'' (titre original : ''{{Langue|en|The Winds of Dune}}'')
+
+* Recueil de nouvelles :
+** [[2011 en littérature|2011]] : ''{{Langue|en|Tales of Dune}}''
+
+* {{Ancre|Dune, les origines}}Sous-cycle '''''Dune, les origines''''' (titre original : ''{{Langue|en|Schools of Dune}}'')&lt;br /&gt;Ce sous-cycle se déroule peu de temps après la fin du sous-cycle ''Dune, la genèse''.
+** [[2012 en littérature|2012]] : ''[[La Communauté des sœurs]]'' (titre original : ''{{Langue|en|Sisterhood of Dune}}'')
+** [[2014 en littérature|2014]] : ''[[Les Mentats de Dune]]'' (titre original : ''{{Langue|en|Mentats of Dune}}'')
+** [[2016 en littérature|2016]] : ''[[Les Navigateurs de Dune]]'' (titre original : ''{{Langue|en|Navigators of Dune}}'')
+
+* Recueil de nouvelles :
+** [[2017 en littérature|2017]] : ''{{Langue|en|Tales of Dune: Expanded Edition}}''
+
+* {{Ancre|Chroniques de Caladan}}Sous-cycle '''''Chroniques de Caladan''''' (titre original : ''{{Langue|en|The Caladan Trilogy}}'')&lt;br /&gt;Ce sous-cycle se déroule après la fin du sous-cycle ''Avant Dune'' et peu de temps avant le roman ''Dune''.
+** [[2020 en littérature|2020]] : ''[[Le Duc (roman)|Le Duc]]'' (titre original : ''{{Langue|en|The Duke of Caladan}}'')
+** [[2021 en littérature|2021]] : ''[[La Dame (roman)|La Dame]]'' (titre original : ''{{Langue|en|The Lady of Caladan}}'')
+** [[2022 en littérature|2022]] : ''{{Langue|en|The Heir of Caladan}}''
+
+* Recueil de nouvelles :
+** [[2022 en littérature|2022]] : ''{{Langue|en|Sands of Dune}}''
+
+== Cinéma ==
+Au cours des années 1970, diverses tentatives d’adaptations cinématographiques du roman avaient été envisagées&lt;ref&gt;[http://www.scifi-universe.com/dossier_contenu.asp?do_id=40 Scifi-Universe.com, Jodorowsky's Dune]&lt;/ref&gt;. [[Arthur P. Jacobs]], entre autres producteur de la série de films ''[[La Planète des singes]]'' était candidat à l’adaptation, ainsi que le britannique [[Patrick McGoohan]] (acteur principal de la série ''[[Le Prisonnier]]''). Arthur P. Jacobs étant décédé en 1973 et Patrick McGoohan abandonnant, ces projets ne verront jamais le jour.
+
+Un projet de production plus abouti a également été lancé par le producteur français [[Michel Seydoux]] et le réalisateur chilien [[Alejandro Jodorowsky]] (ce projet est décrit dans le documentaire ''[[Jodorowsky's Dune]]'', diffusé en 2013). Des acteurs majeurs du monde du cinéma et des arts y ont contribué, tels [[Salvador Dalí]] (pour le rôle de l’Empereur Padishah [[Shaddam IV Corrino|Shaddam IV]]), [[Orson Welles]] (le baron [[Vladimir Harkonnen]]) ; le dessinateur [[Jean Giraud|Jean Giraud, dit Moebius]] ({{formatnum:3000}} dessins préparatoires du [[Storyboard]]), l'illustrateur [[Chris Foss|Christopher Foss]] (design des vaisseaux spatiaux) ainsi que l'artiste [[Hans Ruedi Giger|H. R. Giger]] (le décor de [[Giedi Prime]], le siège de la [[Maison Harkonnen]]) pour la conception graphique et [[Dan O'Bannon]] pour les effets spéciaux ; les groupes [[Pink Floyd]] et [[Magma (groupe)|Magma]] pour la musique&lt;ref&gt;{{article | auteur1=[[Alejandro Jodorowsky]] | auteur2=[[Jean Giraud]] | auteur3=[[Chris Foss|Christopher Foss]] | titre=Dune le film que vous ne verrez jamais | périodique=[[Métal hurlant]] | numéro=107 | date=janvier 1985 | pages=116 | url texte=https://web.archive.org/web/20110411204429/http://membres.multimania.fr/sarfa/htm/article.html}}.&lt;/ref&gt;. Cependant, le projet ne se concrétisera pas pour cause de financement insuffisant, les producteurs américains étant notamment effrayés par la personnalité et les ambitions de Jodorowsky pour ce projet (le film étant prévu pour durer au moins 12 heures). Une grande partie du matériel graphique composé par Moebius et Giger sera recyclée dans d’autres films tels ''[[Blade Runner (film)|Blade Runner]]'' ou ''[[Alien (film)|Alien]]''.
+
+Vers 1980, le producteur [[Dino De Laurentiis]] rachète les droits du roman et commence une adaptation confiée à [[Ridley Scott]], mais une incompatibilité d’humeur avec la production oblige ce dernier à abandonner le projet{{référence nécessaire}}. [[David Lynch]] prend alors sa place pour la première adaptation ayant été menée à son terme. Le film ''[[Dune (film, 1984)|Dune]]'' avec [[Kyle MacLachlan]], [[Francesca Annis]], [[Jürgen Prochnow]] et [[Sting]] sort sur les grands écrans en 1984.
+
+En {{date-|novembre 2016}}, la société de production américaine [[Legendary Pictures]] récupère les droits d'adaptation de Dune pour des projets de cinéma. Le premier film, ''[[Dune (film, 2021)|Dune]]'', est une adaptation de la première partie du roman réalisé par [[Denis Villeneuve]], sort en [[2021 au cinéma|2021]]. L'adaptation de la seconde partie, ''[[Dune : Deuxième partie]]'', est prévue pour sortir en [[2023 au cinéma|2023]].
+
+== Télévision ==
+La chaîne [[Syfy]] a produit et diffusé deux adaptations télévisuelles du ''cycle de Dune'', récompensées notamment par l’[[Emmy Awards|Emmy Award]].
+
+* ''[[Dune (mini-série)|Dune]]'' (2000), mini-série de trois épisodes de {{nombre|90|minutes}} adaptée et réalisée par [[John Harrison (réalisateur)|John Harrison]].
+* ''[[Les Enfants de Dune (mini-série)|Les Enfants de Dune]]'' (2003), mini-série de trois épisodes de {{nombre|90|minutes}} adaptée par [[John Harrison (réalisateur)|John Harrison]] et réalisée par [[Greg Yaitanes]].
+* ''[[Dune: The Sisterhood]]'' (''La Communauté des sœurs''), une série prévue, qui devrait accompagner le film de [[Denis Villeneuve]], basée sur cet ordre mystique féminin au cœur de la saga d'origine&lt;ref&gt;{{article |titre=Une série Dune est en préparation avec Denis Villeneuve |url=http://www.premiere.fr/Series/News-Series/Une-serie-Dune-est-en-preparation-avec-Denis-Villeneuve |périodique=[[Premiere (magazine)|Première]] |date=2019-06-11}}&lt;/ref&gt;.
+
+== Jeux de société ==
+L'univers de Dune a fait l'objet de plusieurs adaptations en jeux de société de différents types.
+
+Plusieurs [[jeu de société|jeux de plateau]] ont exploité l’univers de Dune :
+* ''[[Dune (jeu de société, 1979)|Dune]]'' ([[1979 en jeu|1979]]) : jeu de société pour 2 à 6 joueurs édité en anglais par [[Avalon Hill]], et traduit en français par [[Descartes Éditeur|Jeux Descartes]] en [[1993 en jeu|1993]]. Le jeu est réédité par [[Gale Force Nine]] en [[2019 en jeu|2019]].
+* ''[[Dune (jeu de société, 1984)|Dune]]'' ([[1984 en jeu|1984]]) :  pour 2 à 4 joueurs, édité par [[Parker (éditeur)|Parker]], a eu moins de succès que son prédécesseur.
+* ''[[Dune: Impérium]]'' ([[2021]]) : jeu de société édité par [[Dire Wolf Digital]] et traduit en français par [[Lucky Duck Games]]. Les visuels sont inspirés de l'adaptation cinématographique de Denis Villeneuve.
+* ''Dune, A Game of Conquest &amp; Diplomacy'' : version simplifiée du jeu de 1979, édité en anglais par [[Gale Force Nine]] et traduit en français par [[Matagot (éditeur)|Matagot]] en 2021.
+
+Dune a aussi inspiré les créateurs de [[Jeu de cartes à collectionner|Jeux de cartes à collectionner]] :
+* ''[[Dune (jeu de cartes à collectionner)|Dune]]'' ([[1997 en jeu|1997]]) : [[jeu de cartes à collectionner]] conçu par Owen Seyler, édité par {{Lien|Last Unicorn Games}}.
+
+Enfin, l'univers de Dune a fait l'objet de plusieurs adaptations en [[jeu de rôle]] :
+* ''[[Dune: Chronicles of the Imperium]]'' ([[2000 en jeu|2000]]) : jeu de rôle officiel publié par Last Unicorn Games.
+* ''Dune : Aventures dans l'Imperium'' ([[2021]]) : [[jeu de rôle]] édité en anglais par Modiphius Entertainment et traduit en français par [[Arkhane Asylum Publishing]] en 2021. Les visuels sont inspirés de l'adaptation cinématographique de Denis Villeneuve.
+
+== Jeux vidéo ==
+{{Article détaillé|Liste de jeux vidéo Dune}}
+À l’instar des nombreux projets d’adaptation visuelle sur [[#Cinéma|grand]] et [[#Télévision|petit]] écran, Dune a été adapté dans le domaine des [[jeu vidéo|jeux vidéo]].
+
+; Jeux sortis
+* [[1992 en jeu vidéo|1992]] : ''[[Dune (jeu vidéo)|Dune I]]'', [[jeu de stratégie en temps réel]] (RTS) sous forme de [[jeu d'aventure]] par [[Cryo Interactive]].
+* 1992 : ''[[Dune II : La Bataille d'Arrakis|Dune II]]'', jeu de stratégie en temps réel par [[Westwood Studios]], édité par [[Virgin Interactive|Avalon Interactive]] (Virgin Interactive).
+* [[1998 en jeu vidéo|1998]] : ''[[Dune 2000]]'', jeu de stratégie en temps réel par Westwood Studios.
+* [[2001 en jeu vidéo|2001]] : ''[[Empereur : La Bataille pour Dune]]'', jeu de stratégie en temps réel par Westwood Studios.
+* 2001 : ''[[Frank Herbert's Dune]]'', jeu d'aventure par Cryo Interactive.
+* [[2022 en jeu vidéo|2022]] : ''[[Dune: Spice Wars]]'', jeu de stratégie en temps réel 4X sur PC développé par [[Shiro Games]].
+
+; Projets annulés
+* [[2002 en jeu vidéo|2002]] : ''Dune Generations'', [[jeu de stratégie en temps réel massivement multijoueur]] (MMORTS) sur PC par Cryo Networks.
+* 2002 : ''Frank Herbert’s Dune: Ornithopter Assault'', jeu d’action sur [[Game Boy Advance]] par Soft Brigade, qui devait être édité par Cryo.
+
+== Bande dessinée ==
+Le film ''[[Dune (film, 1984)|Dune]]'' de [[David Lynch]] a été adapté en bande dessinée par le scénariste [[Ralph Macchio (comics)|Ralph Macchio]] et le dessinateur [[Bill Sienkiewicz]].
+
+Le récit a été publié aux États-Unis par [[Marvel Comics]], tout d'abord en décembre 1984 dans la collection ''Marvel Comics Super Special'', sous forme de [[roman graphique]]&lt;ref&gt;[https://marvel.fandom.com/wiki/Marvel_Comics_Super_Special_Vol_1_36 « ''Marvel Comics Super Special #36: Dune'' »], sur ''marvel.fandom.com''.&lt;/ref&gt;, puis en trois fascicules parus entre avril et juin 1985&lt;ref&gt;[https://marvel.fandom.com/wiki/Dune_Vol_1 « Dune, volume 1 »], sur ''marvel.fandom.com''&lt;/ref&gt;. La traduction française est parue sous forme d'album chez [[Éditions Michel Lafon|Michel Lafon]]&lt;ref&gt;[https://www.bdgest.com/BD-Dune-Macchio-Sienkiewicz-Dune-30313.html « Dune (Macchio/Sienkiewicz) »], sur ''[[BD Gest'|bdgest]].com''.&lt;/ref&gt;.
+
+== Musique ==
+* L'album ''[[Dune (album)|Dune]]'' (1979) de [[Klaus Schulze]] (musique synthétique), prévu à l'origine pour le film d'[[Alejandro Jodorowsky]].
+* Le ''cycle de Dune'' a également inspiré [[Iron Maiden]] (groupe de [[heavy metal]] créé en décembre 1975) pour la composition de la chanson ''To Tame a Land'' (parue sur l'album ''[[Piece of Mind]]'' en 1983). Le morceau aurait dû s’appeler ''Dune'' mais [[Frank Herbert]] refusa d'en donner l'autorisation.
+* [[Bene Gesserit (groupe)|Bene Gesserit]] est le nom choisi par un groupe de musique pop underground belge, en hommage à la suite de romans.
+* [[Bernard Szajner]] a produit en 1979 un [[Long play|LP]] ''Vision of Dune'' (Pathé/EMI ; réédition CD en 1999 - Spalax) ; il s’agit de [[musique électronique]] expérimentale qui emprunte à l’atmosphère sombre de ''Dune'' et également certains noms qui servent de titres aux morceaux.
+* Le groupe de heavy metal français Talers consacre son deuxième album, ''Of Spice and Men'' (2019), à l'univers de ''Dune''.
+*Premier album de [[Grimes (musicienne)|Grimes]] ; [[Geidi Primes]] (déformation de giedi prime, planète des Harkonnens dans Dune), musique électronique. Les titres des morceaux sont aussi inspirés de l'univers de Dune.
+
+== Notes et références ==
+{{Références}}
+
+== Annexes ==
+=== Article connexe ===
+* [[Univers de Dune]]
+
+=== Liens externes ===
+{{Liens}}
+
+{{Palette|Dune|Univers Dune}}
+{{Portail|science-fiction|littérature américaine|cinéma|réalisation audiovisuelle|télévision|fantasy et fantastique}}
+
+[[Catégorie:Dune|*]]
+[[Catégorie:Cycle de science-fiction américain]]</text>
+      <sha1>5tgrevibn3zg9bzg6l52ywxxkromzm8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Dune (bande originale)</title>
+    <ns>0</ns>
+    <id>1968091</id>
+    <revision>
+      <id>192224959</id>
+      <parentid>192224653</parentid>
+      <timestamp>2022-03-25T13:19:14Z</timestamp>
+      <contributor>
+        <username>Vega</username>
+        <id>15602</id>
+      </contributor>
+      <minor/>
+      <comment>Rétablissement LI</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8191" xml:space="preserve">{{Voir homonymes|Dune (homonymie)}}
+{{Infobox Musique (œuvre)
+ | charte           = bande originale
+ | titre            = {{Titre en colonne||Dune|Original Soundtrack Recording}}
+ | image            = 
+ | artiste          = [[Toto (groupe)|Toto]]
+ | sorti            = décembre 1984
+ | enregistré       = 
+ | producteur       = Toto, [[Brian Eno]]
+ | genre            = [[rock symphonique]], [[musique de film]]
+ | durée            = 40:59
+ | critique         = ''[[AllMusic]]'' {{étoiles|4}}&lt;ref name="allmusic"&gt;{{Lien web |langue=en|titre=Toto - ''Dune'' (Original Motion Picture Soundtrack)|url=http://www.allmusic.com/album/dune-original-motion-picture-soundtrack-mw0000098243|site=[[AllMusic]]|consulté le= }}&lt;/ref&gt;
+ | label            = [[Polydor]]
+ | album précédent  = [[Isolation (album)|Isolation]]
+ | date album préc  = 1984
+ | album suivant    = [[Fahrenheit (album)|Fahrenheit]]
+ | date album suiv  = 1986
+}}
+
+'''''Dune''''' est la [[bande originale]] du film ''[[Dune (film)|Dune]]'' réalisé par [[David Lynch]] et sorti en [[1984 au cinéma|1984]]. C'est, à ce jour, l'unique bande originale composée par le groupe [[Toto (groupe)|Toto]].
+
+== Contexte ==
+La bande originale instrumentale a été enregistrée par le groupe (excepté le chanteur principal [[Bobby Kimball]]), accompagné par l'[[Orchestre symphonique de Vienne]] et les chœurs de l'[[Wiener Staatsoper|opéra de Vienne]], conduit par [[Marty Paich]] (le père de David, [[claviériste]] du groupe). Les membres du groupe ont contribué à la composition de la musique instrumentale. Une seule pièce de la bande originale, ''Prophecy Theme'', n'est pas de Toto, mais a été composée par [[Brian Eno]] et interprétée par lui, [[Roger Eno]] et [[Daniel Lanois]]&lt;ref&gt;{{lien web |titre=Brian Eno - "Prophecy Theme" (1984) |url=http://justanothergarden.blogspot.com/2008/08/brian-eno-prophecy-theme-1984.html |site=blogspot.com |consulté le=12-09-2020}}.&lt;/ref&gt;.
+
+La première bande originale contient des morceaux choisis provenant du film original, plus deux morceaux de dialogue du film qui servent de support pour deux titres (''Prologue'' et ''The Floating Fat Man (The Baron)''). Cette première édition a été éditée par Polydor Records.
+
+Une version étendue contenant des titres supplémentaires absents de la première bande originale a été éditée en 1997 par PEG Records, un label indépendant de Polygram. Sur cette édition, plusieurs pistes additionnelles présentent des problèmes de [[mastering|master]] (créant un effet de tremblements durant ces pistes). En plus, certains extraits (particulièrement dans la seconde moitié du second CD) ont été titrés de manière incorrecte ou placés dans le mauvais ordre. Parmi les points positifs de l'album, on trouve la version du ''Main Title'' présent dans le film (alors que la première bande originale contenait une version alternative) et une version inédite du générique principal.
+
+Toutefois, plusieurs pistes sur les deux bandes originales différent des versions entendues dans le film ou sont présentes dans un ordre non chronologique. 
+* Le générique de fin, ''Take My Hand'', ne contient pas l'orchestration que l'on peut entendre dans le film. 
+* Le titre ''Robot Fight'' de la bande originale est présent dans sa version cinéma, alors que la bande originale en version longue contient la version ''[[Alan Smithee]]'' / télévisuelle.
+* Les titres ''Riding the sandworm'' (de la bande originale en version longue), ''Dune (Desert Theme)'', ''Prelude (Take My Mand)'', ''Paul Kills Feyd'' et ''Final Dream'' (des deux versions de la bande originale), absents du film, sont remplacés soit par d'autres titres, bien que les versions TV restaurent ''Paul Kills Feyd'' dans sa place d'origine du film et ''Dune (Desert Theme)'', destiné à être le générique de fin, a été remplacé par un morceau plus subtil, ''Take My Hand''.
+
+Les versions TV incluent autant que possible les musiques jamais éditées, si bien qu'une certaine confusion se créée lorsqu'une oreille attentive découvre un titre recouvert par un autre.
+
+== Utilisations (anecdotique) ==
+Différents morceaux (''Robots Fight'', ''Trip To Arrakis'', ...) ont été utilisés pour l'émission ''[[Le Divan (émission de télévision)|Le Divan]]'', d'[[Henry Chapier]].
+
+== Pistes ==
+{{pistes
+|total_temps = 
+| piste1 = {{lang|en|Prologue}}
+| temps1 = 1:48
+| piste2 = {{lang|en|Main Title}}
+| temps2 = 1:20
+| piste3 = {{lang|en|Robot Fight}}
+| temps3 = 1:14
+| piste4 = {{lang|en|Leto's Theme}}
+| temps4 = 1:45
+| piste5 = {{lang|en|The Box}}
+| temps5 = 2:38
+| piste6 = {{lang|en|The Floating Fat Man (The Baron)}}
+| temps6 = 1:26
+| piste7 =  {{lang|en|Trip to Arrakis}}
+| temps7 = 2:36
+| piste8 =  {{lang|en|First Attack}}
+| temps8 = 2:48
+| piste9 = {{lang|en|Prophecy Theme}}
+| temps9 = 4:21
+| piste10 = {{lang|en|Dune (Desert Theme)}}
+| temps10 = 5:32
+| piste11 = {{lang|en|Paul Meets Chani}}
+| temps11 = 3:05
+| piste12 = {{lang|en|Prelude (Take My Hand)}}
+| temps12 = 1:00
+| piste13 = {{lang|en|Paul Takes the Water of Life}}
+| temps13 = 2:52
+| piste14 = {{lang|en|Big Battle}}
+| temps14 = 3:08
+| piste15 = {{lang|en|Paul Kills Feyd'}}
+| temps15 = 1:52
+| piste16 = {{lang|en|Final Dream}}
+| temps16 = 1:25
+| piste17 = {{lang|en|Take My Hand}}
+| temps17 = 2:38
+}}
+
+=== Version longue ===
+{{pistes
+|total_temps = 
+| piste1 = {{lang|en|Prologue / Main Title}}
+| temps1 = 3:20
+| piste2 = {{lang|en|Guild Report}}
+| temps2 = 0:55
+| piste3 = {{lang|en|House Atreides}}
+| temps3 = 1:44
+| piste4 = {{lang|en|Paul Atreides}}
+| temps4 = 2:22
+| piste5 = {{lang|en|Robot Fight}}
+| temps5 = 1:23
+| piste6 = {{lang|en|Leto's Theme}}
+| temps6 = 1:47
+| piste7 = {{lang|en|The Box}}
+| temps7 = 2:41
+| piste8 = {{lang|en|The Floating Fat Man (The Baron)}}
+| temps8 = 1:16
+| piste9 = {{lang|en|Departure}}
+| temps9 = 1:14
+| piste10 = {{lang|en|The Trip to Arrakis}}
+| temps10 = 2:40
+| piste11 = {{lang|en|Sandworm Attack}}
+| temps11 = 2:52
+| piste12 = {{lang|en|The Betrayal / Shields Down}}
+| temps12 = 4:31
+| piste13 = {{lang|en|First Attack}}
+| temps13 = 2:49
+| piste14 = {{lang|en|The Duke's Death}}
+| temps14 = 2:06
+| piste15 = {{lang|en|Sandworm Chase}}
+| temps15 = 2:40
+| piste16 = {{lang|en|The Fremen}}
+| temps16 = 3:08
+| piste17 = {{lang|en|Secrets of the Fremen}}
+| temps17 = 2:25
+| piste18 = {{lang|en|Paul Meets Chani}}
+| temps18 = 3:08
+| piste19 = {{lang|en|Destiny}}
+| temps19 = 2:57
+| piste20 = {{lang|en|Riding the Sandworm}}
+| temps20 = 1:27
+| piste21 = {{lang|en|Reunion With Gurney}}
+| temps21 = 1:42
+| piste22 = {{lang|en|Prelude (Take My Hand)}}
+| temps22 = 1:03
+| piste23 = {{lang|en|Paul Takes the Water of Life}}
+| temps23 = 2:52
+| piste24 = {{lang|en|The Sleeper Has Awakened!}}
+| temps24 = 3:23
+| piste25 = {{lang|en|Big Battle}}
+| temps25 = 3:09
+| piste26 = {{lang|en|Paul Kills Feyd}}
+| temps26 = 1:55
+| piste27 = {{lang|en|Final Dream}}
+| temps27 = 1:26
+| piste28 = {{lang|en|Dune (Desert Theme)}}
+| temps28 = 5:33
+| piste29 = {{lang|en|Dune Main Title}}
+| note29 = Demo Version 
+| temps29 = 1:26
+| piste30 = {{lang|en|Take My Hand}}
+| temps30 = 2:42
+}}
+
+== Composition du groupe ==
+* [[Fergie Frederiksen]] : [[chant]]
+* [[Bobby Kimball]] : chant
+* [[Steve Lukather]] : [[guitare]], chant
+* [[David Paich]] : [[Clavier (instrument)|clavier]] et [[synthétiseur]], chant
+* [[Steve Porcaro]] : claviers, chant
+* [[Mike Porcaro]] : [[guitare basse]]
+* [[Jeff Porcaro]] : [[Batterie (instrument)|batterie]], [[Instrument de percussion|percussions]]
+* [[Orchestre symphonique de Vienne]]
+
+== Notes et références ==
+{{Références}}
+
+== Voir aussi ==
+=== Articles connexes ===
+* [[Dune (film)|''Dune'' (film)]]
+* [[Musique de film]]
+
+=== Liens externes ===
+* {{dictionnaires}}
+* {{bases}}
+* {{autorité}}
+* {{en}} [http://www.soundtrackcollector.com/title/1556/Dune L'album] sur ''Soundtrack Collector''
+
+{{Palette|Toto|Dune}}
+{{Portail|cinéma américain|rock|SF}}
+
+[[Catégorie:Album de Toto]]
+[[Catégorie:Album musical sorti en 1988]]
+[[Catégorie:Bande originale de film]]
+[[Catégorie:Album produit par Brian Eno]]
+[[Catégorie:Album publié par Polydor]]
+[[Catégorie:Album publié par Polygram]]
+[[Catégorie:Dune]]</text>
+      <sha1>9miwyt0cntqt1c810ma3bgizymawrqz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Musique de Dune (film, 2021)</title>
+    <ns>0</ns>
+    <id>15089578</id>
+    <revision>
+      <id>195869370</id>
+      <parentid>195429117</parentid>
+      <timestamp>2022-08-05T10:18:58Z</timestamp>
+      <contributor>
+        <username>WikiCleanerBot</username>
+        <id>351003</id>
+      </contributor>
+      <minor/>
+      <comment>v2.04b - [[Utilisateur:WikiCleanerBot#T3|Bot T3 PCS#564]] - [[P:CS|Correction syntaxique]] (Paramètre inconnu - Orthographe et typographie)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="23605" xml:space="preserve">{{Titre mis en forme|Musique de ''Dune'' (film, 2021)}}
+{{À wikifier|date=juillet 2022}}
+
+La musique du film américain [[Dune (film, 2021)|Dune]], sorti en 2021, a été composée, dirigée et produite par [[Hans Zimmer]]. Zimmer a écrit plusieurs bandes sonores pour le film, y compris pour sa suite qui n'est pas encore sortie, et a fortement utilisé des chœurs  en particulier des voix féminines, des percussions et des cordes dans l'instrumentation de la partition, ainsi que des instruments acoustiques et à vent. De nouveaux instruments hybrides ont été fabriqués pour concevoir les sons du désert, aux tonalités "d'un autre monde", que l'on entend dans le film. La musique a été décrite comme la plus "peu orthodoxe" et la plus expérimentale du compositeur à ce jour&lt;ref name="NYT"&gt;{{lien web|prénom=Darryn |nom=King |titre=How Hans Zimmer Conjured the Otherworldly Sounds of 'Dune' |url=https://www.nytimes.com/2021/10/22/movies/hans-zimmer-dune.html |site=[[The New York Times]] |date=October 22, 2021 |consulté le=27 octobre 2021|archive-url=https://web.archive.org/web/20211022141103/https://www.nytimes.com/2021/10/22/movies/hans-zimmer-dune.html |archive-date=October 22, 2021 |accès url=payant}}&lt;/ref&gt;. En outre, la partition du film a valu à Zimmer son deuxième [[Oscar de la meilleure musique originale]]. Lorsque la sortie de [[Dune : Deuxième partie|Dune : Part Two]] a été annoncé pour une sortie en salles en 2023, il a été révélé que Zimmer avait commencé à travailler sur la musique du film et qu'il disposait de plus d'une heure de musique pour aider les réalisateurs à planifier le film&lt;ref&gt;{{lien web|titre=Hans Zimmer to Return for Denis Villeneuve's 'Dune: Part Two' |url=https://filmmusicreporter.com/2021/10/26/hans-zimmer-to-return-for-denis-villeneuves-dune-part-2/ |website=Film Music Reporter |date=October 26, 2021 |consulté le=26 octobre 2021|archive-url=https://web.archive.org/web/20211026232354/https://filmmusicreporter.com/2021/10/26/hans-zimmer-to-return-for-denis-villeneuves-dune-part-2/ |archive-date=October 26, 2021 }}&lt;/ref&gt;{{,}}&lt;ref name="indiewire zimmer"&gt;{{lien web|prénom=Bill |nom=Desowitz |titre='Dune': How Composer Hans Zimmer Invented a Retro-Future Musical Sound for the Arrakis Desert Planet |url=https://www.indiewire.com/2021/10/dune-hans-zimmer-score-1234673017/ |website=[[Indie Wire]] |date=October 20, 2021 |consulté le=30 octobre 2021|archive-url=https://web.archive.org/web/20211030190824/https://www.indiewire.com/2021/10/dune-hans-zimmer-score-1234673017/ |archive-date=October 30, 2021 }}&lt;/ref&gt;.
+
+== Présentation générale ==
+Dès le début, le réalisateur [[Denis Villeneuve]] espérait retrouver Zimmer pour le projet, en raison de leur passion commune pour le [[Dune (roman)|roman]]&lt;ref name="Wearegeeks"&gt;{{lien web|prénom=Michelle |nom=Hannett |titre=Listen To First Two Tracks From Hans Zimmer's ''DUNE'' Soundtrack "Paul's Dream" And "Ripples in the Sand" |url=http://www.wearemoviegeeks.com/2021/07/listen-to-first-two-tracks-from-hans-zimmers-dune-soundtrack-pauls-dream-and-ripples-in-the-sand/ |website=We Are Movie Geeks |date=July 23, 2021 |consulté le=18 septembre 2021|archive-url=https://web.archive.org/web/20210723194916/http://www.wearemoviegeeks.com/2021/07/listen-to-first-two-tracks-from-hans-zimmers-dune-soundtrack-pauls-dream-and-ripples-in-the-sand/ |archive-date=July 23, 2021 }}&lt;/ref&gt;. Bien qu'initialement approché par son collaborateur de longue date [[Christopher Nolan]] pour composer pour son prochain film [[Tenet (film)|Tenet]], Zimmer a finalement choisi de travailler sur Dune, car le livre était l'un de ses "favoris" pendant son enfance et son adolescence. Il a collaboré pour la dernière fois avec Villeneuve et le monteur [[Joe Walker (monteur)|Joe Walker]] sur [[Blade Runner 2049]]&lt;ref name="The Playlist"&gt;{{lien web|prénom=Charles |nom=Barfield |titre=Hans Zimmer Explains Why He Chose 'Dune' Over Christopher Nolan's Latest &amp; Says He Never Saw The David Lynch 1984 Film |url=https://theplaylist.net/hans-zimmer-dune-christopher-nolan-20190716/ |website=[[The Playlist]] |date=July 16, 2019 |consulté le=30 août 2019|archive-url=https://web.archive.org/web/20190717140707/https://theplaylist.net/hans-zimmer-dune-christopher-nolan-20190716/ |archive-date=July 17, 2019 }}&lt;/ref&gt;. En mars 2019, Warner Bros. a annoncé que le compositeur allait composer la musique du film&lt;ref&gt;{{lien web|titre=Hans Zimmer to score Denis Villeneuve's ''Dune'' |url=https://consequence.net/2019/03/hans-zimmer-denis-villeneuve-dune-full-cast/ |website=[[Consequence of Sound]] |date=March 18, 2019 |consulté le=18 septembre 2021|archive-url=https://web.archive.org/web/20210918122358/https://consequence.net/2019/03/hans-zimmer-denis-villeneuve-dune-full-cast/ |archive-date=September 18, 2021 }}&lt;/ref&gt;.
+
+Zimmer et Villeneuve étaient tous deux "d'accord pour dire que la musique devait avoir une certaine spiritualité... une qualité sanctifiée... qui élèverait l'âme et aurait l'effet que seule la musique sacrée peut avoir" &lt;ref name="Wearegeeks" /&gt;. Zimmer a abordé la composition de la partition avec une perspective "fraîche", "juste à partir du livre", n'ayant jamais vu l'[[Dune (film, 1984)|adaptation cinématographique]] de 1984 par [[David Lynch]]&lt;ref name="The Playlist" /&gt;. Il s'est appuyé sur le concept de Dune comme étant une civilisation différente, et a passé "des mois et des mois à créer de nouveaux instruments" pour accompagner ce sentiment, "définissant, créant et recherchant de nouveaux sons, repoussant les limites". Pour la partition, le compositeur a augmenté les voix humaines "pour qu'elles aient un son sinistre et d'un autre monde"&lt;ref name="Armstrong"&gt;{{lien web|prénom=Vanessa |nom=Armstrong |titre=We Saw 35 Minutes Of 'Dune' Goodness In IMAX And It Looks Incredible |url=https://www.slashfilm.com/582644/dune-imax-extended-preview/ |website=[[/Film]] |date=September 18, 2021 |consulté le=3 octobre 2021|archive-url=https://web.archive.org/web/20210828232915/https://www.slashfilm.com/582644/dune-imax-extended-preview/ |archive-date=August 28, 2021 }}&lt;/ref&gt;, et l'a basé sur des voix principalement féminines en raison du sentiment partagé entre lui-même et Villeneuve que le "pouvoir de la voix humaine" reste constant dans toute civilisation, et que "les personnages féminins du film mènent l'histoire"&lt;ref name="Wearegeeks" /&gt;.
+
+Trois albums de la bande sonore du film ont été publiés par [[WaterTower Music]] : The Dune Sketchbook (Music from the Soundtrack), Dune (Original Motion Picture Soundtrack), and The Art and Soul of Dune'','' les 3 septembre, 17 septembre et 22 octobre respectivement&lt;ref name="ClassicFM"&gt;{{lien web|prénom=Sian |nom=Moore |titre=Hans Zimmer's ''Dune'' score: what does it sound like, and why are there three soundtracks? |url=https://www.classicfm.com/composers/zimmer/dune-score-why-three-soundtracks/ |website=[[Classic FM (UK)|Classic FM]] |date=September 15, 2021 |consulté le=18 septembre 2021|archive-url=https://web.archive.org/web/20210918013314/https://www.classicfm.com/composers/zimmer/dune-score-why-three-soundtracks/ |archive-date=September 18, 2021 }}&lt;/ref&gt;''.''
+
+== "Eclipse" ==
+Villeneuve a choisi le morceau "Eclipse" du groupe de rock britannique [[Pink Floyd]], extrait de leur album [[The Dark Side of the Moon]] (1973), comme "élément musical clé" dans la première bande-annonce diffusée en salles le 9 septembre 2020. Zimmer a ensuite réarrangé le morceau et enregistré une reprise interprétée par un ensemble de 32 chanteurs de Los Angeles&lt;ref name="Variety Sept20"&gt;{{lien web|prénom=Jon |nom=Burlingame |titre=Dark Side of the 'Dune': How the Movie's Trailer Landed That Pink Floyd Cover |url=https://variety.com/2020/music/news/dune-trailer-pink-floyd-song-cover-dark-side-moon-hans-zimmer-1234770970/ |site=[[Variety (magazine)|Variety]] |date=September 15, 2020 |consulté le=18 septembre 2021|archive-url=https://web.archive.org/web/20200916125506/https://variety.com/2020/music/news/dune-trailer-pink-floyd-song-cover-dark-side-moon-hans-zimmer-1234770970/ |archive-date=September 16, 2020 }}&lt;/ref&gt;{{,}}&lt;ref name="NME"&gt;{{lien web|prénom=Charlotte |nom=Krol |titre='Dune': Hans Zimmer supervised 32-person choir over FaceTime for Pink Floyd 'Eclipse' cover |url=https://www.nme.com/news/music/dune-hans-zimmer-supervised-32-person-choir-over-facetime-for-pink-floyd-eclipse-cover-2755683 |website=[[NME]] |date=September 17, 2020 |consulté le=18 septembre 2021|archive-url=https://web.archive.org/web/20200920100316/https://www.nme.com/news/music/dune-hans-zimmer-supervised-32-person-choir-over-facetime-for-pink-floyd-eclipse-cover-2755683 |archive-date=September 20, 2020 }}&lt;/ref&gt;. [[Variety]] a qualifié ce choix de "surprenant", étant donné que "les bandes-annonces ne sont généralement pas composées par le véritable compositeur du film, et encore moins par une reprise spécialement adaptée d'un classique du rock"&lt;ref name="Variety Sept20" /&gt;.
+
+Après le début de la [[pandémie de Covid-19]], Zimmer a déclaré à la publication dans une interview de juin 2020 que "travailler à distance est horrible, mais je l'ai fait. Et si nous devons le faire comme ça, nous le ferons comme ça."&lt;ref name="Variety 2020"&gt;{{lien web|prénom=Jon |nom=Burlingame |titre=Hans Zimmer Talks 'Dune,' James Bond, 'The Lion King' and Scoring His Way Through the Pandemic |url=https://variety.com/2020/music/news/hans-zimmer-interview-bond-dune-lion-king-ascap-awards-1234646855/ |site=Variety |date=June 23, 2020 |consulté le=18 septembre 2021|archive-url=https://web.archive.org/web/20200624013734/https://variety.com/2020/music/news/hans-zimmer-interview-bond-dune-lion-king-ascap-awards-1234646855/ |archive-date=June 24, 2020 }}&lt;/ref&gt;. Les sessions d'enregistrement du morceau ont été menées dans le respect total des protocoles Covid-19 au studio [[Remote Control Productions]] du compositeur, à [[Santa Monica]]. Zimmer a participé à distance via FaceTime. Sous la direction d'Edie Lehmann Boddicker, les chanteurs se sont réunis quatre par quatre, dans des "cubicules séparés, divisés par des vitres", au cours de huit sessions qui ont eu lieu au début de l'été. Douze d'entre eux ont interprété les lignes lyriques, tandis que l'ensemble du groupe a interprété les parties chorales. La chanson entière a été enregistrée, mais seules treize lignes ont été utilisées dans la bande-annonce de trois minutes. Boddicker commente : " [Zimmer] voulait rendre hommage à l'original, avec un son très back-phrased, un peu espacé, pour que les voix ne semblent pas urgentes. Il y a une sorte de joie dans ce morceau, beaucoup d'espoir. Ce n'est pas décourageant, c'est juste très paisible et ça ne sonne pas de cette planète."&lt;ref name="Variety Sept20" /&gt;{{,}}&lt;ref name="NME" /&gt;.
+
+La version de Zimmer, d'une durée d'une minute et 36 secondes, a été publiée en tant que single numérique le 9 octobre&lt;ref&gt;{{lien web|titre=Dune: Eclipse (Trailer Version) (Single) Soundtrack (2021) |url=https://www.soundtrack.net/album/dune-eclipse-trailer-version-single/ |website=[[Soundtrack.Net]] |consulté le=18 septembre 2021|archive-url=https://web.archive.org/web/20201021074009/https://www.soundtrack.net/album/dune-eclipse-trailer-version-single/ |archive-date=October 21, 2021 }}&lt;/ref&gt;{{,}}&lt;ref&gt;{{lien web|titre=Eclipse (From Dune: Original Motion Picture Soundtrack) [Trailer Version] - Single |url=https://music.apple.com/us/album/eclipse-from-dune-original-motion-picture-soundtrack/1533999521 |éditeur=Legendary Features Productions |consulté le=18 septembre 2021|archive-url=https://web.archive.org/web/20210918135609/https://music.apple.com/us/album/eclipse-from-dune-original-motion-picture-soundtrack/1533999521 |archive-date=June 24, 2020 |site=[[Apple Music]]}}&lt;/ref&gt;. Elle n'a été incluse dans aucun album de la bande originale publié jusqu'à présent et ne figure pas dans le film final.
+
+== Bandes originales ==
+{{Infobox Musique (œuvre)
+| charte             = Bande originale
+| titre              = The Dune Sketchbook (Music from the Soundtrack)
+| image              = 
+| artiste            = [[Hans Zimmer]]
+| sorti              = 3 septembre 2021
+| durée              = 101:45
+| producteur         = Hans Zimmer
+| label              = [[WaterTower Music]]
+}}
+
+=== ''The Dune Sketchbook'' ===
+The Dune Sketchbook (Music from the Soundtrack) est le premier album de la bande originale du film, sorti le 3 septembre 2021, en formats physique et numérique&lt;ref&gt;{{lien web|titre=The Dune Sketchbook Soundtrack (2021) |url=https://www.soundtrack.net/album/the-dune-sketchbook/ |website=Soundtrack.Net |consulté le=18 septembre 2021|archive-url=https://web.archive.org/web/20210903215448/https://www.soundtrack.net/album/the-dune-sketchbook/ |archive-date=September 3, 2021 }}&lt;/ref&gt;. Il contient des "explorations musicales étendues et immersives" des œuvres de la partition du film, et a été publié en configurations [[Dolby Atmos]] et Standard&lt;ref name="Wearegeeks" /&gt;. Le cinquième titre, "Paul's Dream", était l'un des deux singles numériques publiés sur les plateformes de streaming le 22 juillet avant la sortie de l'album. Zimmer a annoncé leur sortie via son compte Instagram le même jour. Entendu à l'origine dans la bande-annonce du film, le morceau, qui présente "une voix féminine saisissante qui chante", accompagne une "séquence de rêve intense" dans le film que [[Paul Atréides|Paul Atreides]] fait "sur son avenir et l'avenir d'[[Arrakis]]". Selon The Nerdist, la piste partage les "couches et l'intensité" de la scène et "culmine avec ce magnifique rugissement de la chanteuse"&lt;ref name="Nerdist"&gt;{{lien web|prénom=Kyle |nom=Anderson |titre=Listen To 'Paul's Dream' From Hans Zimmer's ''Dune'' Score |url=https://nerdist.com/article/dune-hans-zimmer-paul-dream-score-music-streaming/ |website=[[The Nerdist]] |date=July 23, 2021 |consulté le=18 septembre 2021|archive-url=https://archive.today/20210918093915/https://nerdist.com/article/dune-hans-zimmer-paul-dream-score-music-streaming/ |archive-date=September 18, 2021 }}&lt;/ref&gt; [[Classic FM]] a décrit ce morceau de sept minutes comme "commençant par des chuchotements et des voix douces, avant de se transformer en un point culminant imposant qui fait froid dans le dos"&lt;ref name="ClassicFM" /&gt;.
+
+Un pressage limité à 3 000 exemplaires d'une édition spéciale triple vinyle de la bande sonore du sketchbook, avec une illustration de Greg Ruth, est sorti le 13 octobre. Les couleurs de chaque vinyle - vert, orange et brun - sont représentatives des trois planètes clés de Dune : Arrakis, Caladan et Giedi Prime&lt;ref&gt;{{lien web|prénom=Maggie |nom=Boccella |titre=Mondo Announces Hans Zimmer's 'The Dune Sketchbook' Limited Edition Expanded Vinyl Soundtrack |url=https://collider.com/dune-soundtrack-vinyl-hans-zimmer-mondo/ |website=[[Collider (website)|Collider]] |date=October 11, 2021 |consulté le=14 octobre 2021|archive-url=https://web.archive.org/web/20211011212723/https://collider.com/dune-soundtrack-vinyl-hans-zimmer-mondo/ |archive-date=October 11, 2021 }}&lt;/ref&gt;.
+
+==== Liste des pistes ====
+Composition supplémentaire de Klaus Schulze sur "Grains of Sand".{{Track listing|headline=''The Dune Sketchbook (Music from the Soundtrack)''|total_length=101:45|title1=Song of the Sisters|length1=16:25|title2=I See You in My Dreams|length2=18:25|title3=House Atreides|length3=13:54|title4=The Shortening of the Way|length4=11:14|title5=Paul's Dream|length5=7:03|title6=Moon Over Caladan|length6=8:34|title7=Shai-hulud|length7=9:47|title8=Mind Killer|length8=11:11|title9=Grains of Sand|length9=5:12}}
+
+=== ''Dune (Original Motion Picture Soundtrack)'' ===
+{{Infobox Musique (œuvre)
+| charte             = Bande originale
+| titre              = Dune (Original Motion Picture Soundtrack)
+| image              = 
+| artiste            = [[Hans Zimmer]]
+| sorti              = 17 septembre 2021
+| durée              = 74:12
+| producteur         = Hans Zimmer
+| label              = [[WaterTower Music]]
+}}
+
+Dune (Original Motion Picture Soundtrack) est le deuxième album de la bande originale du film&lt;ref&gt;{{lien web|titre=Dune Soundtrack (2021) |url=https://www.soundtrack.net/album/dune-2021/ |website=Soundtrack.Net |consulté le=18 septembre 2021|archive-url=https://web.archive.org/web/20210917214632/https://www.soundtrack.net/album/dune-2021/ |archive-date=September 17, 2021 }}&lt;/ref&gt;. Zimmer a été inspiré de regarder la musique du film "d'une manière différente", "pour emmener le public dans [un] voyage au-delà du film", et a estimé qu'elle "devait être disponible via une technologie immersive qui utilise l'audio spatial" afin de "mettre pleinement en valeur" les "sons uniques" de la bande-son. L'album a été le premier à "embrasser de tout cœur" la technologie d'écoute musicale Dolby Atmos&lt;ref name="Wearegeeks" /&gt;. D'après le compositeur, le son "s'enroule autour de vous d'une manière que je n'ai jamais expérimentée auparavant"&lt;ref&gt;{{lien web|prénom=Ryan |nom=Lattanzio |titre=''Dune'' Is One of Hans Zimmer's Most Ambitious Scores, and It's Now Streaming: Listen Here |url=https://www.indiewire.com/2021/09/dune-hans-zimmer-score-streaming-listen-1234665744/ |website=IndieWire |date=September 18, 2021 |consulté le=19 septembre 2021|archive-url=https://web.archive.org/web/20210921014431/https://www.indiewire.com/2021/09/dune-hans-zimmer-score-streaming-listen-1234665744/ |archive-date=September 21, 2021 }}&lt;/ref&gt;. Le huitième titre, "Ripples in the Sand", était le deuxième des deux singles numériques - diffusés sur les plateformes de streaming le 22 juillet - qui ont précédé la sortie de l'album&lt;ref name="Wearegeeks" /&gt;. ClassicFM a décrit le morceau comme ayant "un début rythmé et inquiétant" avant de réintroduire les "voix distinctes" entendues précédemment sur "Paul's Dream"&lt;ref name="ClassicFM" /&gt;. La partition complète a été publiée en version numérique le 17 septembre 2021&lt;ref name="Wearegeeks" /&gt;. Les voix ont été produites par Loire Cotler&lt;ref name="NYT" /&gt;. La partition a également été nominée pour Best Score Soundtrack for Visual Media (meilleure bande sonore pour les médias visuels) aux [[64e cérémonie des Grammy Awards|Grammy Awards 2022]]&lt;ref&gt;{{lien web|prénom=Patrick |nom=Hipes |titre=Grammy Film &amp; TV Nominees Include Bo Burnham; H.E.R.'s Oscar-Winning Song; 'Bridgerton', 'Soul' &amp; 'Dune' Scores |url=https://deadline.com/2021/11/grammy-nominations-bo-burnham-bridgerton-dune-movie-tv-nominees-1234879577/ |website=[[Deadline Hollywood]] |date=November 23, 2021 |consulté le=24 novembre 2021|archive-url=https://web.archive.org/web/20211124053556/https://deadline.com/2021/11/grammy-nominations-bo-burnham-bridgerton-dune-movie-tv-nominees-1234879577/ |archive-date=November 24, 2021 }}&lt;/ref&gt;.
+
+Après une avant-première spéciale [[IMAX Corporation|IMAX]] des dix premières minutes de Dune, Vanessa Armstrong, de Slashfilm, a écrit que la partition "faisait ressortir" l'"aliénation" d'Arrakis autant que "le paysage et les costumes"&lt;ref name="Armstrong" /&gt;. Rafael Motamayor, dans sa critique du film pour Inverse, a commenté que "Zimmer livre encore une fois une partition entraînante qui mélange des sons grandioses et opératiques avec un style rock surprenant, conférant à Dune une palette sonore unique en adéquation avec ses visuels"&lt;ref&gt;{{lien web|prénom=Rafael |nom=Motamayor |titre=''Dune'' Is An Epic Sci-fi Masterpiece |url=https://www.inverse.com/entertainment/dune-2021-review-denis-villeneuve-venice |website=[[Inverse (website)|Inverse]] |date=September 3, 2021 |consulté le=18 octobre 2021|archive-url=https://web.archive.org/web/20210911041038/https://www.inverse.com/entertainment/dune-2021-review-denis-villeneuve-venice |archive-date=September 11, 2021 }}&lt;/ref&gt;. ClassicFM a qualifié la partition de "bande sonore d'un autre monde, saharienne, avec des voix émouvantes et des cordes électrisantes"&lt;ref name="ClassicFM" /&gt;.
+
+==== Liste des pistes ====
+{{Track listing|headline=''Dune (Original Motion Picture Soundtrack)''|total_length=74:12|title1=Dream of Arrakis|length1=3:08|title2=Herald of the Change|length2=5:01|title3=Bene Gesserit|length3=3:54|title4=Gom Jabbar|length4=2:00|title5=The One|length5=2:30|title6=Leaving Caladan|length6=1:55|title7=Arrakeen|length7=2:16|title8=Ripples in the Sand|length8=5:14|title9=Visions of Chani|length9=4:27|title10=Night on Arrakis|length10=5:03|title11=Armada|length11=5:09|title12=Burning Palms|length12=4:04|title13=Stranded|length13=0:58|title14=Blood for Blood|length14=2:29|title15=The Fall|length15=2:32|title16=Holy War|length16=4:20|title17=Sanctuary|length17=1:50|title18=Premonition|length18=3:30|title19=Ornithopter|length19=1:54|title20=Sandstorm|length20=2:35|title21=Stillsuits|length21=5:31|title22=My Road Leads into the Desert|length22=3:52}}{{Infobox Musique (œuvre)
+| charte             = Bande originale
+| titre              = The Art and Soul of Dune (Companion Book Music)
+| image              = 
+| artiste            = [[Hans Zimmer]]
+| sorti              = 22 Octobre 2021
+| durée              = 103:29
+| producteur         = Hans Zimmer
+| label              = [[WaterTower Music]]
+}}
+
+=== ''The Art and Soul of Dune'' ===
+The Art and Soul of Dune est le troisième album de la bande originale du film. Il contient "des versions uniques des principaux thèmes du film, créées par Zimmer"&lt;ref name="Wearegeeks" /&gt;pour accompagner un livre d'accompagnement sur les coulisses du tournage, écrit par la productrice exécutive Tanya Lapointe, intitulé The Art and Soul of Dune (Insight Editions). Zimmer a eu l'idée de composer une deuxième partition après avoir vu le matériel du livre - c'était la première fois qu'il écrivait une musique originale pour un livre. L'album a été mis à disposition en streaming gratuit et en téléchargement numérique le 22 octobre 2021, à l'occasion de la sortie du film en salles aux États-Unis&lt;ref&gt;{{lien web|prénom=Germain |nom=Lussier |titre=Dune's Making of Book Is So Massive, Hans Zimmer Wrote It a Score |url=https://gizmodo.com/dunes-making-of-book-is-so-massive-hans-zimmer-wrote-i-1847462195 |website=[[io9]] |date=August 12, 2021 |consulté le=18 septembre 2021|archive-url=https://web.archive.org/web/20210812170619/https://gizmodo.com/dunes-making-of-book-is-so-massive-hans-zimmer-wrote-i-1847462195 |archive-date=August 12, 2021 }}&lt;/ref&gt;{{,}}&lt;ref&gt;{{lien web|titre=The Art and Soul of Dune Soundtrack (2021) |url=https://www.soundtrack.net/album/the-art-and-soul-of-dune/ |website=Soundtrack.Net |consulté le=21 octobre 2021|archive-url=https://web.archive.org/web/20211022035426/https://www.soundtrack.net/album/the-art-and-soul-of-dune/ |archive-date=October 22, 2021 }}&lt;/ref&gt;.
+
+==== Liste des pistes ====
+{{Track listing|headline=''The Art and Soul of Dune''|total_length=103:29|title1=Foreword|length1=4:30|title2=This Is Only the Beginning|length2=14:25|title3=Caladan|length3=7:20|title4=Giedi Prime|length4=8:04|title5=Salusa Secundus|length5=4:11|title6=Arrakis|length6=13:27|title7=The Attack|length7=9:30|title8=Deep Desert|length8=15:13|title9=Fremen|length9=26:49}}
+
+== Notes et Références ==
+{{références}}
+{{Traduction/Référence|lang1=en|art1=Music of Dune (2021 film)|id1=1089018804}}
+{{Palette|Dune}}
+{{Portail|Musique}}
+
+[[Catégorie:Bande originale de film]]
+[[Catégorie:Dune]]
+[[Catégorie:Bande originale de Hans Zimmer]]
+[[Catégorie:Album musical sorti en 2021]]</text>
+      <sha1>e7ft0ueifo86sp877u0ln4hkihucdwt</sha1>
+    </revision>
+  </page>
+</mediawiki>
